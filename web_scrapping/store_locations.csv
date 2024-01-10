@@ -1,0 +1,977 @@
+city_name,store_name,store_type,store_address,zip_code,latitude,longitude,store_phone_number,state
+Anchorage,1200 N. Muldoon Road,Pizza Hut Express,"1200 N. Muldoon Road Anchorage, AK 99504 US",99504,61.2046,-149.746095,Not available,Alaska
+Anchorage,150 West 100th Ave,Pizza Hut Express,"150 West 100th Ave Suite A Anchorage, AK 99515 US",99515,0,0,Not available,Alaska
+Anchorage,2220 Abbott Rd,Pizza Hut,"2220 Abbott Rd Anchorage, AK 99507 US",99507,61.147656,-149.753642,(907) 868-0201,Alaska
+Anchorage,341 Boniface Pkwy,Pizza Hut,"341 Boniface Pkwy Unit I Anchorage, AK 99504 US",99504,61.2046,-149.746095,(907) 337-2276,Alaska
+Anchorage,3727 Spenard Highway,Pizza Hut,"3727 Spenard Highway Anchorage, AK 99517 US",99517,0,0,(907) 743-9978,Alaska
+Eagle River,11740 Old Glenn Hwy,Pizza Hut,"11740 Old Glenn Hwy Eagle River, AK 99577 US",99577,0,0,(907) 694-1086,Alaska
+Fairbanks,89 College Rd,Pizza Hut,"89 College Rd Fairbanks, AK 99701 US",99701,0,0,(907) 451-1788,Alaska
+North Pole,301 N Santa Claus Ln,Pizza Hut,"301 N Santa Claus Ln North Pole, AK 99705 US",99705,0,0,(907) 488-4239,Alaska
+Soldotna,44332 Sterling Hwy,Pizza Hut,"44332 Sterling Hwy Soldotna, AK 99669 US",99669,0,0,(907) 420-0645,Alaska
+Wasilla,851 E Parks Hwy,Pizza Hut,"851 E Parks Hwy Wasilla, AK 99654 US",99654,0,0,(907) 373-6600,Alaska
+Alabaster,250 South Colonial Drive,Pizza Hut Express,"250 South Colonial Drive Alabaster, AL 35007 US",35007,33.215623,-86.797656,Not available,Alabama
+Alabaster,634 1st St N,Pizza Hut,"634 1st St N Ste 200 Alabaster, AL 35007 US",35007,33.215623,-86.797656,(205) 663-5137,Alabama
+Albertville,6815 Hwy 431 South,Pizza Hut,"6815 Hwy 431 South Albertville, AL 35950 US",35950,34.24975,-86.261097,(256) 878-7373,Alabama
+Alexander City,4581 Hwy 280,Pizza Hut,"4581 Hwy 280 Alexander City, AL 35010 US",35010,32.916719,-85.940589,(256) 675-8004,Alabama
+Andalusia,1203 Dr Martin Luther King Jr Exp,Pizza Hut,"1203 Dr Martin Luther King Jr Exp Andalusia, AL 36420 US",36420,31.172401,-86.565077,(334) 222-4106,Alabama
+Anniston,2109 Quintard Avenue,Pizza Hut,"2109 Quintard Avenue Anniston, AL 36201 US",36201,33.64916,-85.879642,(256) 237-3251,Alabama
+Athens,229 French Farms Blvd,Pizza Hut,"229 French Farms Blvd Ste A Athens, AL 35611 US",35611,34.773833,-87.084145,(256) 233-1223,Alabama
+Atmore,1515 S Main St,Pizza Hut,"1515 S Main St Atmore, AL 36502 US",36502,31.147733,-87.494821,(251) 368-5646,Alabama
+Auburn,1923 S. College St.,Pizza Hut,"1923 S. College St. Auburn, AL 36832 US",36832,32.582937,-85.585938,(334) 321-1060,Alabama
+Bay Minette,604 McMeans Ave,Pizza Hut,"604 McMeans Ave Bay Minette, AL 36507 US",36507,30.858609,-87.742025,(251) 937-6714,Alabama
+Bayou La Batre,14031 S Wintzell Ave,Pizza Hut,"14031 S Wintzell Ave Bayou La Batre, AL 36509 US",36509,30.39302,-88.270178,(251) 824-3177,Alabama
+Bessemer,4889 Promenade Parkway,Pizza Hut Express,"4889 Promenade Parkway Bessemer, AL 35022 US",35022,33.322849,-86.971458,Not available,Alabama
+Bessemer,501 West Town Plaza,Pizza Hut,"501 West Town Plaza Ste 101 Bessemer, AL 35020 US",35020,33.402429,-86.951784,(205) 426-1204,Alabama
+Birmingham,1654 Gadsden Highway,Pizza Hut Express,"1654 Gadsden Highway Target - T1773 Birmingham, AL 35235 US",35235,33.624485,-86.647907,Not available,Alabama
+Birmingham,200 Inverness Center Drive,Pizza Hut,"200 Inverness Center Drive Birmingham, AL 35242 US",35242,33.425247,-86.672084,Not available,Alabama
+Birmingham,2016 5th Ave S.,Pizza Hut,"2016 5th Ave S. Birmingham, AL 35233 US",35233,33.508748,-86.801964,(205) 323-1221,Alabama
+Birmingham,2145 Bessemer Rd.,Pizza Hut,"2145 Bessemer Rd. Birmingham, AL 35210 US",35210,33.541558,-86.66946,(205) 781-6001,Alabama
+Birmingham,2346 Center Point Pkwy,Pizza Hut,"2346 Center Point Pkwy Birmingham, AL 35215 US",35215,33.649002,-86.707425,(205) 856-5447,Alabama
+Birmingham,437 Green Springs Hwy,Pizza Hut,"437 Green Springs Hwy Suite 121 Birmingham, AL 35209 US",35209,33.466348,-86.811516,(205) 942-6535,Alabama
+Birmingham,4500 Montevallo Rd,Pizza Hut,"4500 Montevallo Rd Space No. A101 Birmingham, AL 35210 US",35210,33.541558,-86.66946,(205) 591-5200,Alabama
+Birmingham,4500 Valleydale Rd,Pizza Hut,"4500 Valleydale Rd Ste 300 Birmingham, AL 35242 US",35242,33.425247,-86.672084,(205) 778-1905,Alabama
+Birmingham,9170 Parkway E,Pizza Hut,"9170 Parkway E Birmingham, AL 35206 US",35206,33.569909,-86.712978,(205) 836-4816,Alabama
+Alma,415 W. Cherry St.,Pizza Hut,"415 W. Cherry St. Suite 105 Alma, AR 72921 US",72921,35.477101,-94.196225,(479) 632-3010,Arkansas
+Arkadelphia,1201 North 10th Street,Pizza Hut,"1201 North 10th Street Arkadelphia, AR 71923 US",71923,34.085089,-93.04527,(870) 246-5895,Arkansas
+Ash Flat,142 Hwy 62/412,Pizza Hut,"142 Hwy 62/412 Ash Flat, AR 72513 US",72513,36.226285,-91.658306,(870) 994-7304,Arkansas
+Ashdown,1110 S. Constitution Ave.,Pizza Hut,"1110 S. Constitution Ave. Ashdown, AR 71822 US",71822,33.663095,-94.156267,(870) 898-5119,Arkansas
+Batesville,3115 Harrison St,Pizza Hut,"3115 Harrison St Batesville, AR 72501 US",72501,35.791171,-91.653381,(870) 793-5779,Arkansas
+Beebe,2043 W. Center St.,Pizza Hut,"2043 W. Center St. Beebe, AR 72012 US",72012,35.094842,-91.907583,(501) 882-6444,Arkansas
+Bella Vista,30 Sugar Creek Ctr.,Pizza Hut,"30 Sugar Creek Ctr. Bella Vista, AR 72714 US",72714,36.46735,-94.222151,(479) 876-1705,Arkansas
+Benton,1050 Salem Rd.,Pizza Hut,"1050 Salem Rd. Benton, AR 72019 US",72019,34.63803,-92.685264,(501) 794-2250,Arkansas
+Benton,1202 Military Road,Pizza Hut,"1202 Military Road Benton, AR 72015 US",72015,34.485899,-92.585099,(501) 776-3661,Arkansas
+Bentonville,1001 SW Regional Airport Blvd,Pizza Hut,"1001 SW Regional Airport Blvd Ste 15 Bentonville, AR 72713 US",72713,0,0,(479) 273-7764,Arkansas
+Berryville,912 W Trimble Ave,Pizza Hut,"912 W Trimble Ave Berryville, AR 72616 US",72616,36.329139,-93.551929,(870) 423-2188,Arkansas
+Blytheville,825 E. Main St.,Pizza Hut,"825 E. Main St. Suite J Blytheville, AR 72315 US",72315,35.902669,-89.903375,(870) 762-2224,Arkansas
+Brinkley,1516 N. Main Street,Pizza Hut,"1516 N. Main Street Brinkley, AR 72021 US",72021,34.84554,-91.217479,(870) 734-1351,Arkansas
+Bryant,3429 Market Place Ave,Pizza Hut,"3429 Market Place Ave Bryant, AR 72022 US",72022,34.607458,-92.488544,(501) 847-4818,Arkansas
+Bryant,7377 Alcoa Rd,Pizza Hut Express,"7377 Alcoa Rd Bryant, AR 72022 US",72022,34.607458,-92.488544,Not available,Arkansas
+Cabot,622 W Main St,Pizza Hut,"622 W Main St Cabot, AR 72023 US",72023,34.964267,-92.063652,(501) 843-3539,Arkansas
+Centerton,306 E Centerton Blvd,Pizza Hut,"306 E Centerton Blvd Centerton, AR 72719 US",72719,36.367161,-94.295087,(479) 795-1285,Arkansas
+Clarksville,1151 S Rogers St,Pizza Hut,"1151 S Rogers St Clarksville, AR 72830 US",72830,35.509167,-93.515619,(479) 754-6900,Arkansas
+Clinton,160 Bone St.,Pizza Hut,"160 Bone St. Clinton, AR 72031 US",72031,35.633661,-92.531647,(501) 745-4828,Arkansas
+Conway,1825 E. Oak St.,Pizza Hut,"1825 E. Oak St. Conway, AR 72032 US",72032,35.065559,-92.362675,(501) 327-2147,Arkansas
+Conway,201 Donaghey Avenue,Pizza Hut Express,"201 Donaghey Avenue University Of Central Arkansas Conway, AR 72035 US",72035,35.078763,-92.457353,Not available,Arkansas
+Conway,501 Elsinger Blvd.,Pizza Hut Express,"501 Elsinger Blvd. Conway, AR 72032 US",72032,35.065559,-92.362675,Not available,Arkansas
+Conway,705 Club Lane,Pizza Hut,"705 Club Lane Suite 101 Conway, AR 72034 US",72034,35.049921,-92.486049,(501) 327-4449,Arkansas
+Apache Junction,240 S Phelps Drive,Pizza Hut,"240 S Phelps Drive Apache Junction, AZ 85120 US",85120,33.402386,-111.567878,(480) 982-1155,Arizona
+Avondale,10685 W. Indian School Rd.,Pizza Hut,"10685 W. Indian School Rd. #J Avondale, AZ 85392 US",85392,33.47758,-112.308889,(623) 772-1553,Arizona
+Avondale,1450 N. Dysart Road,Pizza Hut,"1450 N. Dysart Road Avondale, AZ 85323 US",85323,33.419233,-112.326866,(623) 925-5810,Arizona
+Buckeye,1217 E US Hwy 85,Pizza Hut,"1217 E US Hwy 85 Buckeye, AZ 85326 US",85326,33.293755,-112.590514,(623) 386-7107,Arizona
+Buckeye,1300 S Watson Road,Pizza Hut,"1300 S Watson Road Suite A103 Buckeye, AZ 85326 US",85326,33.293755,-112.590514,(623) 386-0214,Arizona
+Buckeye,19580 W Indian School Rd,Pizza Hut,"19580 W Indian School Rd Buckeye, AZ 85396 US",85396,33.527803,-112.701269,(602) 834-7583,Arizona
+Bullhead City,1855 Highway 95,Pizza Hut,"1855 Highway 95 Bullhead City, AZ 86442 US",86442,35.089613,-114.560868,(928) 763-8100,Arizona
+Bullhead City,3699 Highway 95,Pizza Hut Express,"3699 Highway 95 Bullhead City, AZ 86442 US",86442,35.089613,-114.560868,Not available,Arizona
+Casa Grande,714 E Florence Blvd,Pizza Hut,"714 E Florence Blvd Casa Grande, AZ 85122 US",85122,32.917126,-111.744208,(520) 836-8812,Arizona
+Chandler,1000 N Arizona Ave,Pizza Hut,"1000 N Arizona Ave Chandler, AZ 85225 US",85225,33.317448,-111.830487,(480) 963-1863,Arizona
+Chandler,1919 W. Chandler Blvd.,Pizza Hut,"1919 W. Chandler Blvd. #104 Chandler, AZ 85224 US",85224,33.323672,-111.878461,(480) 899-2172,Arizona
+Chandler,2960 S Alma School Rd.,Pizza Hut,"2960 S Alma School Rd. #2 Chandler, AZ 85286 US",85286,33.271981,-111.831774,(480) 963-5588,Arizona
+Chandler,3425 W. Frye Road,Pizza Hut Express,"3425 W. Frye Road Chandler, AZ 85226 US",85226,33.252249,-112.010268,Not available,Arizona
+Chandler,3777 S. Arizona Avenue,Pizza Hut Express,"3777 S. Arizona Avenue Chandler, AZ 85248 US",85248,33.214955,-111.869973,Not available,Arizona
+Chandler,4970 S. Gilbert Rd.,Pizza Hut,"4970 S. Gilbert Rd. Chandler, AZ 85249 US",85249,33.224956,-111.795717,(480) 883-7815,Arizona
+Chandler,5055 W Ray Road,Pizza Hut,"5055 W Ray Road A-6 Chandler, AZ 85226 US",85226,33.252249,-112.010268,(480) 785-8345,Arizona
+Chinle,100 Main Street,Pizza Hut Express,"100 Main Street Best Western Canyon De Chelly Inn Chinle, AZ 86503 US",86503,36.153428,-109.685341,Not available,Arizona
+Chino Valley,312 Marketplace Dr,Pizza Hut,"312 Marketplace Dr Chino Valley, AZ 86323 US",86323,34.778347,-112.407143,(928) 636-6400,Arizona
+Coolidge,109 N Arizona Blvd,Pizza Hut,"109 N Arizona Blvd Coolidge, AZ 85128 US",85128,32.989934,-111.537957,(520) 723-7779,Arizona
+Cottonwood,472 S. Main Street,Pizza Hut,"472 S. Main Street Cottonwood, AZ 86326 US",86326,34.700031,-112.023634,(928) 634-8212,Arizona
+Alameda,2700 5th Street,Pizza Hut Express,"2700 5th Street Alameda, CA 94501 US",94501,37.773793,-122.278115,Not available,California
+Alhambra,1224 S Atlantic Blvd,Pizza Hut,"1224 S Atlantic Blvd Alhambra, CA 91803 US",91803,34.074736,-118.145959,(626) 284-8200,California
+Alpine,2710 Alpine Blvd.,Pizza Hut,"2710 Alpine Blvd. Alpine, CA 91901 US",91901,32.808563,-116.710076,(619) 659-9900,California
+Anaheim,101 S. Euclid Street,Pizza Hut Express,"101 S. Euclid Street Anaheim, CA 92802 US",92802,33.808267,-117.923658,Not available,California
+Anaheim,116 S State College Blvd,Pizza Hut,"116 S State College Blvd Anaheim, CA 92806 US",92806,33.83796,-117.870494,(714) 772-5555,California
+Anaheim,1697 W. Katella Ave,Pizza Hut,"1697 W. Katella Ave Anaheim, CA 92802 US",92802,33.808267,-117.923658,(714) 563-0333,California
+Anaheim,2099 E Ball Rd,Pizza Hut,"2099 E Ball Rd Anaheim, CA 92806 US",92806,33.83796,-117.870494,(714) 956-2100,California
+Anaheim,301 S Magnolia Ave,Pizza Hut,"301 S Magnolia Ave Anaheim, CA 92804 US",92804,33.818246,-117.974985,(714) 761-3613,California
+Anaheim,500 S. Euclid St.,Pizza Hut,"500 S. Euclid St. Anaheim, CA 92802 US",92802,33.808267,-117.923658,(714) 778-8996,California
+Anaheim,521 W Chapman Ave,Pizza Hut,"521 W Chapman Ave Anaheim, CA 92802 US",92802,33.808267,-117.923658,(714) 740-2300,California
+Anaheim,618 W La Palma Ave,Pizza Hut,"618 W La Palma Ave Anaheim, CA 92801 US",92801,33.844983,-117.952151,(714) 776-5600,California
+Antioch,2713 Contra Loma Blvd,Pizza Hut,"2713 Contra Loma Blvd Antioch, CA 94509 US",94509,37.996501,-121.812301,(925) 757-1010,California
+Antioch,5769 Lone Tree Way,Pizza Hut Express,"5769 Lone Tree Way Antioch, CA 94531 US",94531,37.965765,-121.775818,Not available,California
+Apple Valley,18935 Bear Valley Road,Pizza Hut,"18935 Bear Valley Road Cinemark Jess Ranch #1042 Apple Valley, CA 92308 US",92308,34.424366,-117.161295,Not available,California
+Apple Valley,19201 Bear Valley Road,Pizza Hut Express,"19201 Bear Valley Road Apple Valley, CA 92308 US",92308,34.424366,-117.161295,Not available,California
+Apple Valley,20288 Highway 18,Pizza Hut Express,"20288 Highway 18 Apple Valley, CA 92307 US",92307,34.571218,-117.133073,Not available,California
+Apple Valley,20811 Bear Valley Rd,Pizza Hut,"20811 Bear Valley Rd Ste C Apple Valley, CA 92308 US",92308,34.424366,-117.161295,(760) 240-6181,California
+Arcadia,121 E Foothill Blvd,Pizza Hut,"121 E Foothill Blvd Arcadia, CA 91006 US",91006,34.136258,-118.026704,(626) 303-5888,California
+Arcadia,161 E Live Oak Ave,Pizza Hut,"161 E Live Oak Ave Arcadia, CA 91006 US",91006,34.136258,-118.026704,(626) 445-5599,California
+Arleta,8658 Woodman Ave,Pizza Hut,"8658 Woodman Ave Arleta, CA 91331 US",91331,34.255442,-118.421314,(818) 485-8965,California
+Alamosa,1st Street And Stadium Drive,Pizza Hut Express,"1st Street And Stadium Drive Adams State University Alamosa, CO 81102 US",81102,0,0,Not available,Colorado
+Alamosa,814 Main St,Pizza Hut,"814 Main St Alamosa, CO 81101 US",81101,37.481245,-105.833213,(719) 589-3693,Colorado
+Arvada,8990 Ralston Rd,Pizza Hut,"8990 Ralston Rd Arvada, CO 80002 US",80002,39.794822,-105.105292,(303) 424-0710,Colorado
+Aurora,1086 S Sable Blvd,Pizza Hut,"1086 S Sable Blvd Aurora, CO 80012 US",80012,39.699735,-104.837643,(303) 369-6600,Colorado
+Aurora,14200 E Ellsworth Avenue,Pizza Hut Express,"14200 E Ellsworth Avenue Target - T1471 Aurora, CO 80012 US",80012,39.699735,-104.837643,Not available,Colorado
+Aurora,14300 East Alameda Ave.,Pizza Hut Express,"14300 East Alameda Ave. Century Aurora #428 Aurora, CO 80012 US",80012,39.699735,-104.837643,Not available,Colorado
+Aurora,14601 E. Colfax Ave.,Pizza Hut,"14601 E. Colfax Ave. Unit C Aurora, CO 80011 US",80011,39.738764,-104.782159,(303) 363-6001,Colorado
+Aurora,1545 S. Havana St.,Pizza Hut,"1545 S. Havana St. Aurora, CO 80012 US",80012,39.699735,-104.837643,(303) 745-9353,Colorado
+Aurora,16800 E. Iliff Ave.,Pizza Hut,"16800 E. Iliff Ave. Aurora, CO 80013 US",80013,39.661404,-104.765658,(303) 745-3198,Colorado
+Aurora,18187 E Hampden Ave,Pizza Hut,"18187 E Hampden Ave Aurora, CO 80013 US",80013,39.661404,-104.765658,(303) 680-1397,Colorado
+Aurora,5657 S Himalaya St,Pizza Hut,"5657 S Himalaya St #260 Aurora, CO 80015 US",80015,39.62732,-104.779035,(303) 699-6980,Colorado
+Aurora,7400 S. Gartrell Road,Pizza Hut Express,"7400 S. Gartrell Road Aurora, CO 80016 US",80016,39.599458,-104.707606,Not available,Colorado
+Berthoud,821 W. Mountain Ave.,Pizza Hut,"821 W. Mountain Ave. Berthoud, CO 80513 US",80513,40.29738,-105.103753,(970) 532-1111,Colorado
+Boulder,2404 Arapahoe Avenue,Pizza Hut,"2404 Arapahoe Avenue Suite 345 Boulder, CO 80302 US",80302,40.043465,-105.372324,(720) 651-9599,Colorado
+Boulder,2800 Pearl St.,Pizza Hut Express,"2800 Pearl St. Boulder, CO 80301 US",80301,40.049468,-105.201421,Not available,Colorado
+Brighton,2171 Prairie Center Pkwy.,Pizza Hut Express,"2171 Prairie Center Pkwy. Brighton, CO 80601 US",80601,39.962027,-104.807809,Not available,Colorado
+Brighton,2210 E Bridge St,Pizza Hut,"2210 E Bridge St Brighton, CO 80601 US",80601,39.962027,-104.807809,(303) 659-6235,Colorado
+Broomfield,10445 Reed Street,Pizza Hut Express,"10445 Reed Street Broomfield, CO 80021 US",80021,39.890663,-105.113724,Not available,Colorado
+Burlington,320 S Lincoln St,Pizza Hut,"320 S Lincoln St Burlington, CO 80807 US",80807,39.321667,-102.223231,(719) 346-8819,Colorado
+Canon City,310 N. 16th Street,Pizza Hut,"310 N. 16th Street # A-C Canon City, CO 81212 US",81212,38.535754,-105.398394,(719) 269-3000,Colorado
+Ansonia,20 West Main St,Pizza Hut Express,"20 West Main St Ansonia, CT 06401 US",6401,41.344249,-73.069825,Not available,Connecticut
+Berlin,18 Wilbur Cross Hwy,Pizza Hut Express,"18 Wilbur Cross Hwy Berlin, CT 06037 US",6037,41.605477,-72.778459,Not available,Connecticut
+Branford,3 East Industrial Road,Pizza Hut Express,"3 East Industrial Road Ta Express New Haven Branford, CT 06405 US",6405,41.285002,-72.793549,Not available,Connecticut
+Dayville,2177 Killingly Commons Drive,Pizza Hut Express,"2177 Killingly Commons Drive Dayville, CT 06241 US",6241,41.853901,-71.847371,Not available,Connecticut
+Lisbon,195 River Road,Pizza Hut Express,"195 River Road Lisbon, CT 06351 US",6351,41.589788,-71.948385,Not available,Connecticut
+Manchester,1524 Pleasant Valley Rd.,Pizza Hut Express,"1524 Pleasant Valley Rd. Buckland Plaza Manchester, CT 06042 US",6042,41.802752,-72.521008,Not available,Connecticut
+Manchester,99 Redstone Rd.,Pizza Hut Express,"99 Redstone Rd. Buckland Hills 18 #1086 Manchester, CT 06042 US",6042,41.802752,-72.521008,Not available,Connecticut
+Milford,1191 Boston Post Rd.,Pizza Hut Express,"1191 Boston Post Rd. Milford, CT 06460 US",6460,41.214266,-73.050812,Not available,Connecticut
+Milford,1201 Boston Post Rd Ste. 3000,Pizza Hut Express,"1201 Boston Post Rd Ste. 3000 Connecticut Post 14 #1088 Milford, CT 06460 US",6460,41.214266,-73.050812,Not available,Connecticut
+Milford,543 Bridgeport Ave,Pizza Hut Express,"543 Bridgeport Ave Milford, CT 06460 US",6460,41.214266,-73.050812,Not available,Connecticut
+Newington,79 E Cedar St,Pizza Hut,"79 E Cedar St Newington, CT 06111 US",6111,41.686993,-72.730839,Not available,Connecticut
+North Haven,200 Universal Drive N.,Pizza Hut Express,"200 Universal Drive N. North Haven, CT 06473 US",6473,41.381459,-72.856369,Not available,Connecticut
+North Haven,550 Universal Drive,Pizza Hut Express,"550 Universal Drive Cinemark 14, #1129 North Haven, CT 06473 US",6473,41.381459,-72.856369,Not available,Connecticut
+Southington,600 Executive Blvd.,Pizza Hut Express,"600 Executive Blvd. Southington, CT 06489 US",6489,41.614169,-72.869926,Not available,Connecticut
+Trumbull,5065 Main Street,Pizza Hut Express,"5065 Main Street Trumbull, CT 06611 US",6611,41.267861,-73.213691,Not available,Connecticut
+Waterbury,300 Chase Ave,Pizza Hut Express,"300 Chase Ave Waterbury, CT 06704 US",6704,41.588692,-73.03539,Not available,Connecticut
+West Hartford,1500 New Britain Ave,Pizza Hut Express,"West Hartford CT, 1500 New Britain Ave",6110,41.732683,-72.733603,Not available,Connecticut
+Windsor,1075 Kennedy Rd,Pizza Hut Express,"1075 Kennedy Rd Windsor, CT 06095 US",6095,41.871037,-72.675082,Not available,Connecticut
+Washington,1501 A&B Maryland Ave NE,Pizza Hut,"1501 A&B Maryland Ave NE Washington, DC 20002 US",20002,38.905026,-76.983607,(202) 396-3300,Washington DC
+Washington,3100 14th Street N.W.,Pizza Hut Express,"3100 14th Street N.W. Suite #201 Washington, DC 20010 US",20010,38.933366,-77.030312,Not available,Washington DC
+Washington,3232 Pennsylvania Ave. SE,Pizza Hut,"3232 Pennsylvania Ave. SE Washington, DC 20020 US",20020,38.860413,-76.978933,(202) 844-6998,Washington DC
+Washington,4205 Georgia Ave NW,Pizza Hut,"4205 Georgia Ave NW Washington, DC 20011 US",20011,38.952514,-77.022991,(202) 882-0600,Washington DC
+Bear,1837 Pulaski Hwy 40,Pizza Hut,"1837 Pulaski Hwy 40 Bear, DE 19701 US",19701,39.583171,-75.700899,(302) 838-5935,Delaware
+Dover,1155 E Lebanon Rd,Pizza Hut,"1155 E Lebanon Rd Dover, DE 19901 US",19901,39.181546,-75.473517,(302) 697-3600,Delaware
+Dover,515 South Dupont Highway,Pizza Hut,"515 South Dupont Highway Unit 1 Dover, DE 19901 US",19901,39.181546,-75.473517,(302) 546-0145,Delaware
+Newark,1200 Christiana Mall,Pizza Hut Express,"1200 Christiana Mall Cinemark Christiana Mall 12 #1076 Newark, DE 19702 US",19702,39.6182,-75.729724,Not available,Delaware
+Newark,800 Christiana Mall,Pizza Hut Express,"800 Christiana Mall Newark, DE 19702 US",19702,39.6182,-75.729724,Not available,Delaware
+Seaford,820 Norman Eskridge Hwy,Pizza Hut,"820 Norman Eskridge Hwy Seaford, DE 19973 US",19973,38.638896,-75.615899,(302) 629-0600,Delaware
+Smyrna,119 N. Dupont Hwy.,Pizza Hut,"119 N. Dupont Hwy. Suite E Smyrna, DE 19977 US",19977,39.298946,-75.546122,(302) 659-1299,Delaware
+Wilmington,3240 Kirkwood Hwy,Pizza Hut Express,"3240 Kirkwood Hwy Target - T2875 Wilmington, DE 19808 US",19808,39.737615,-75.667057,Not available,Delaware
+Altamonte Springs,600 E Altamonte Dr,Pizza Hut,"600 E Altamonte Dr Altamonte Springs, FL 32701 US",32701,28.665648,-81.370302,(407) 831-2200,Florida
+Altamonte Springs,767 S. State Road 434,Pizza Hut,"767 S. State Road 434 #1000 Altamonte Springs, FL 32714 US",32714,28.662553,-81.411702,(407) 522-5577,Florida
+Apopka,1148 N. Rock Springs Rd.,Pizza Hut,"1148 N. Rock Springs Rd. Apopka, FL 32712 US",32712,28.748602,-81.48014,(407) 880-8672,Florida
+Apopka,883 Semoran Blvd,Pizza Hut,"883 Semoran Blvd Apopka, FL 32703 US",32703,28.671439,-81.553055,(407) 886-1729,Florida
+Arcadia,2527 SE Hwy 70,Pizza Hut,"2527 SE Hwy 70 Arcadia, FL 34266 US",34266,27.192286,-81.820248,(863) 993-1193,Florida
+Auburndale,203 Magnolia Ave,Pizza Hut,"203 Magnolia Ave Auburndale, FL 33823 US",33823,28.085735,-81.813731,(863) 965-1300,Florida
+Auburndale,865 Fl-559,Pizza Hut,"865 Fl-559 Auburndale, FL 33823 US",33823,28.085735,-81.813731,(863) 969-1030,Florida
+Avon Park,310 N Hwy 27,Pizza Hut,"310 N Hwy 27 Avon Park, FL 33825 US",33825,27.620252,-81.458826,(863) 452-5101,Florida
+Bartow,810 N Broadway Ave,Pizza Hut,"810 N Broadway Ave Unit 17 Bartow, FL 33830 US",33830,27.87343,-81.812659,(863) 533-0718,Florida
+Belleview,10738 SE US Hwy. 441,Pizza Hut,"10738 SE US Hwy. 441 Belleview, FL 34420 US",34420,29.052734,-82.036487,(352) 245-1125,Florida
+Blountstown,19926 W. Central,Pizza Hut,"19926 W. Central Blountstown, FL 32424 US",32424,30.362385,-85.08306,(850) 674-8700,Florida
+Boca Raton,21342 St. Andrews Blvd.,Pizza Hut,"21342 St. Andrews Blvd. #250 Boca Raton, FL 33433 US",33433,26.347159,-80.159235,(561) 367-7766,Florida
+Boca Raton,21637 State Road 7,Pizza Hut Express,"21637 State Road 7 Boca Raton, FL 33428 US",33428,26.352906,-80.207938,Not available,Florida
+Boca Raton,3200 Airport Road,Pizza Hut Express,"3200 Airport Road Cinemark Palace 20 #1048 Boca Raton, FL 33431 US",33431,26.37476,-80.1062,Not available,Florida
+Boca Raton,777 Glades Rd.,Pizza Hut Express,"777 Glades Rd. Florida Atlantic University Boca Raton, FL 33431 US",33431,26.37476,-80.1062,Not available,Florida
+Bonifay,2117 S Waukesha St,Pizza Hut,"2117 S Waukesha St Bonifay, FL 32425 US",32425,30.853184,-85.720492,(850) 547-5900,Florida
+Bonita Springs,27241 Bay Landing Dr.,Pizza Hut,"27241 Bay Landing Dr. Ste. 9 Bonita Springs, FL 34135 US",34135,26.355541,-81.75432,(239) 947-5526,Florida
+Boynton Beach,10201 Hagen Ranch Rd,Pizza Hut Express,"10201 Hagen Ranch Rd Boynton Beach, FL 33437 US",33437,26.512045,-80.148962,Not available,Florida
+Boynton Beach,650 N Congress Ave,Pizza Hut Express,"650 N Congress Ave Boynton Beach, FL 33426 US",33426,26.533736,-80.083152,Not available,Florida
+Boynton Beach,9851 D Military Trail South,Pizza Hut,"9851 D Military Trail South Boynton Beach, FL 33436 US",33436,26.522954,-80.107263,(561) 369-7111,Florida
+Acworth,3352 Cobb Pkwy NW,Pizza Hut Express,"3352 Cobb Pkwy NW Acworth, GA 30101 US",30101,34.034515,-84.707349,Not available,Georgia
+Acworth,4514 N Cobb Pkwy,Pizza Hut,"4514 N Cobb Pkwy Acworth, GA 30101 US",30101,34.034515,-84.707349,(678) 403-0000,Georgia
+Acworth,5070 Cherokee St,Pizza Hut,"5070 Cherokee St Acworth, GA 30101 US",30101,34.034515,-84.707349,(770) 975-7444,Georgia
+Adairsville,11 Legacy Road,Pizza Hut,"11 Legacy Road Adairsville, GA 30103 US",30103,34.366336,-84.917546,(470) 730-5435,Georgia
+Adel,702A West 4th Street,Pizza Hut,"702A West 4th Street Adel, GA 31620 US",31620,31.117296,-83.434236,(762) 354-2848,Georgia
+Albany,504 College Drive,Pizza Hut Express,"504 College Drive Albany State University Albany, GA 31705 US",31705,31.51689,-84.042942,Not available,Georgia
+Albany,711 N Westover Blvd,Pizza Hut,"711 N Westover Blvd Suite B Albany, GA 31707 US",31707,31.586919,-84.206431,(229) 435-5991,Georgia
+Alma,803 S Pierce Street,Pizza Hut,"803 S Pierce Street Alma, GA 31510 US",31510,31.545485,-82.440693,(912) 809-3003,Georgia
+Alpharetta,10945 State Bridge Rd.,Pizza Hut,"10945 State Bridge Rd. #502 Alpharetta, GA 30022 US",30022,34.029865,-84.239745,(770) 740-8686,Georgia
+Alpharetta,13055 Highway 9 North,Pizza Hut Express,"13055 Highway 9 North Alpharetta, GA 30004 US",30004,34.145614,-84.291894,Not available,Georgia
+Alpharetta,6415 Highway 9,Pizza Hut,"6415 Highway 9 Ste C Alpharetta, GA 30004 US",30004,34.145614,-84.291894,(770) 619-3336,Georgia
+Americus,1206 Crawford Street,Pizza Hut,"1206 Crawford Street Suite J Americus, GA 31709 US",31709,32.064806,-84.123242,(229) 924-1027,Georgia
+Ashburn,754 E Washington Avenue,Pizza Hut Express,"754 E Washington Avenue Honey Bear Travel Center Ashburn, GA 31714 US",31714,31.72025,-83.693961,Not available,Georgia
+Athens,680 US 29 Hwy N,Pizza Hut,"680 US 29 Hwy N Suite 215 Athens, GA 30601 US",30601,33.999151,-83.346993,(706) 354-0225,Georgia
+Atlanta,100 Perimeter Center Place,Pizza Hut Express,"100 Perimeter Center Place Atlanta, GA 30346 US",30346,33.92423,-84.338876,Not available,Georgia
+Atlanta,1275 Caroline Street N.E.,Pizza Hut Express,"1275 Caroline Street N.E. Atlanta, GA 30307 US",30307,33.771079,-84.3336,Not available,Georgia
+Atlanta,2020 Bolton Road,Pizza Hut,"2020 Bolton Road Atlanta, GA 30318 US",30318,33.792303,-84.447862,(404) 458-0555,Georgia
+Atlanta,2244 Henderson Mill Rd.,Pizza Hut,"2244 Henderson Mill Rd. Unit B Atlanta, GA 30345 US",30345,33.851722,-84.283624,(770) 493-3542,Georgia
+Atlanta,2400 N Druid Hills Rd NE,Pizza Hut Express,"2400 N Druid Hills Rd NE Atlanta, GA 30329 US",30329,33.827479,-84.323017,Not available,Georgia
+Atlanta,2461 Metropolitan Parkway,Pizza Hut,"2461 Metropolitan Parkway Atlanta, GA 30315 US",30315,33.702829,-84.382515,(404) 763-3481,Georgia
+Atlanta,25 Piedmont Ave NE,Pizza Hut,"25 Piedmont Ave NE Atlanta, GA 30303 US",30303,33.753259,-84.389953,(404) 524-5924,Georgia
+Atlanta,2539 Piedmont Road N.E.,Pizza Hut Express,"2539 Piedmont Road N.E. Atlanta, GA 30324 US",30324,33.818405,-84.358175,Not available,Georgia
+Atlanta,2980 Cobb Pkwy,Pizza Hut,"2980 Cobb Pkwy Ste 140 Atlanta, GA 30339 US",30339,33.87632,-84.46209,(770) 980-1010,Georgia
+Atlanta,3176 Peachtree Road NE,Pizza Hut,"3176 Peachtree Road NE Atlanta, GA 30305 US",30305,33.835696,-84.389116,(404) 239-0562,Georgia
+Atlanta,3255 Buford Highway,Pizza Hut,"3255 Buford Highway Atlanta, GA 30329 US",30329,33.827479,-84.323017,(404) 315-7488,Georgia
+Atlanta,3695-C Cascade Rd. SW,Pizza Hut,"3695-C Cascade Rd. SW Atlanta, GA 30331 US",30331,33.707455,-84.544149,(404) 699-7711,Georgia
+Atlanta,375 18th Street,Pizza Hut Express,"375 18th Street Atlanta, GA 30363 US",30363,33.791004,-84.398978,Not available,Georgia
+Atlanta,460 North Ave NE,Pizza Hut,"460 North Ave NE Atlanta, GA 30308 US",30308,33.771126,-84.378108,(404) 872-3400,Georgia
+Atlanta,4920 Roswell Rd.,Pizza Hut,"4920 Roswell Rd. #22 Atlanta, GA 30342 US",30342,33.882179,-84.375289,(404) 252-9007,Georgia
+Atlanta,4957 Winters Chapel Rd,Pizza Hut,"4957 Winters Chapel Rd Atlanta, GA 30360 US",30360,33.933808,-84.272577,(770) 901-9800,Georgia
+Dededo,160E Marine Corp. Drive,Pizza Hut,160E Marine Corp. Drive Dededo 96912 GU,96912,0,0,(671) 632-4222,Guam
+Mangilao,124 Jesus Mariano Street,Pizza Hut,124 Jesus Mariano Street Suite 101 Mangilao 96923 GU,96923,0,0,(671) 734-0001,Guam
+Aiea,98-820 Moanalua Road,Pizza Hut,"98-820 Moanalua Road Bay #4 Aiea, HI 96701 US",96701,21.406053,-157.884952,(808) 643-1111,Hawaii
+Ewa Beach,91-763 Papipi Rd,Pizza Hut,"91-763 Papipi Rd Ewa Beach, HI 96706 US",96706,21.344763,-158.022279,(808) 643-1111,Hawaii
+Hilo,2200 Kinoole St,Pizza Hut,"2200 Kinoole St Hilo, HI 96720 US",96720,19.65981,-155.232473,(808) 643-1111,Hawaii
+Hilo,391 E Makaala,Pizza Hut Express,"391 E Makaala Hilo, HI 96720 US",96720,19.65981,-155.232473,Not available,Hawaii
+Hilo,605 Laukapu St. Ste.103,Pizza Hut,"605 Laukapu St. Ste.103 Hilo, HI 96720 US",96720,19.65981,-155.232473,(808) 643-1111,Hawaii
+Honolulu,1108 Keeaumoku St,Pizza Hut,"1108 Keeaumoku St # 104 Honolulu, HI 96814 US",96814,21.293143,-157.848767,(808) 643-1111,Hawaii
+Honolulu,1239 Wilder Ave,Pizza Hut,"1239 Wilder Ave Honolulu, HI 96822 US",96822,21.320208,-157.810759,(808) 643-1111,Hawaii
+Honolulu,1620 N. School Street,Pizza Hut,"1620 N. School Street Honolulu, HI 96817 US",96817,21.355506,-157.821647,(808) 643-1111,Hawaii
+Honolulu,4211 Waialae Ave,Pizza Hut,"4211 Waialae Ave Kahala Mall Honolulu, HI 96816 US",96816,21.290676,-157.788352,(808) 643-1111,Hawaii
+Honolulu,4380 Lawehana,Pizza Hut Express,"4380 Lawehana Honolulu, HI 96818 US",96818,21.343331,-157.941721,Not available,Hawaii
+Honolulu,4510 Salt Lake Blvd,Pizza Hut,"4510 Salt Lake Blvd Ste B7 Honolulu, HI 96818 US",96818,21.343331,-157.941721,(808) 643-1111,Hawaii
+Honolulu,516 N. Kuakini St.,Pizza Hut,"516 N. Kuakini St. Honolulu, HI 96817 US",96817,21.355506,-157.821647,(808) 643-1111,Hawaii
+Honolulu,768 Kapahulu Ave,Pizza Hut,"768 Kapahulu Ave Honolulu, HI 96816 US",96816,21.290676,-157.788352,(808) 643-1111,Hawaii
+Honolulu,848 Ala Lilikoi St,Pizza Hut,"848 Ala Lilikoi St Salt Lake Shopping Center Honolulu, HI 96818 US",96818,21.343331,-157.941721,(808) 643-1111,Hawaii
+Kahului,100 Hookele Street,Pizza Hut Express,"100 Hookele Street Kahului, HI 96732 US",96732,20.883783,-156.462641,Not available,Hawaii
+Kahului,430 Kele St.,Pizza Hut,"430 Kele St. Kahului, HI 96732 US",96732,20.883783,-156.462641,Not available,Hawaii
+Kailua,345 Hahani Street,Pizza Hut Express,"345 Hahani Street Kailua, HI 96734 US",96734,21.395084,-157.758188,Not available,Hawaii
+Kailua,518 B. Wailepo Street,Pizza Hut,"518 B. Wailepo Street Kailua, HI 96734 US",96734,21.395084,-157.758188,(808) 643-1111,Hawaii
+Kailua Kona,74-5455 Makala Blvd.,Pizza Hut Express,"74-5455 Makala Blvd. Kailua Kona, HI 96740 US",96740,19.75682,-155.919968,Not available,Hawaii
+Kaneohe,45-1130B Kamehameha Hwy,Pizza Hut,"45-1130B Kamehameha Hwy Kaneohe, HI 96744 US",96744,21.451733,-157.824227,(808) 643-1111,Hawaii
+Kaneohe,46-056 Kamehameha Highway,Pizza Hut Express,"46-056 Kamehameha Highway Kaneohe, HI 96744 US",96744,21.451733,-157.824227,Not available,Hawaii
+Altoona,3160 8th Street SW B,Pizza Hut,"3160 8th Street SW B Altoona, IA 50009 US",50009,41.644957,-93.45933,(515) 957-0685,Iowa
+Altoona,3414 8th St SW,Pizza Hut Express,"3414 8th St SW Altoona, IA 50009 US",50009,41.644957,-93.45933,Not available,Iowa
+Ames,320 South Duff Avenue,Pizza Hut Express,"320 South Duff Avenue Target - T1170 Ames, IA 50010 US",50010,42.030852,-93.5884,Not available,Iowa
+Ames,620 Lincoln Way,Pizza Hut,"620 Lincoln Way Ames, IA 50010 US",50010,42.030852,-93.5884,(515) 233-1000,Iowa
+Ankeny,2135 SE Delaware Ave.,Pizza Hut Express,"2135 SE Delaware Ave. Ankeny, IA 50021 US",50021,41.724267,-93.56532,Not available,Iowa
+Ankeny,701 N. Ankeny Blvd,Pizza Hut,"701 N. Ankeny Blvd Ankeny, IA 50021 US",50021,41.724267,-93.56532,(515) 964-1174,Iowa
+Bettendorf,2334 Spruce Hills Dr,Pizza Hut,"2334 Spruce Hills Dr Bettendorf, IA 52722 US",52722,41.5743,-90.471526,(563) 355-2000,Iowa
+Bloomfield,103 Smith St,Pizza Hut,"103 Smith St Bloomfield, IA 52537 US",52537,40.734988,-92.413618,(641) 664-2113,Iowa
+Burlington,1410 N. Roosevelt Ave.,Pizza Hut,"1410 N. Roosevelt Ave. Burlington, IA 52601 US",52601,40.85605,-91.129717,(319) 753-2251,Iowa
+Carroll,801 Plaza Dr.,Pizza Hut,"801 Plaza Dr. Carroll, IA 51401 US",51401,42.065661,-94.86966,(712) 792-1280,Iowa
+Cedar Falls,214 Viking Plaza Drive,Pizza Hut Express,"214 Viking Plaza Drive Cedar Falls, IA 50613 US",50613,42.53138,-92.485808,Not available,Iowa
+Cedar Falls,6719 University Ave,Pizza Hut,"6719 University Ave Suite 3 Cedar Falls, IA 50613 US",50613,42.53138,-92.485808,(319) 277-3661,Iowa
+Cedar Rapids,1030 Blairs Ferry Rd NE,Pizza Hut Express,"1030 Blairs Ferry Rd NE Cedar Rapids, IA 52402 US",52402,42.023172,-91.659613,Not available,Iowa
+Cedar Rapids,3301 J Street,Pizza Hut,"3301 J Street Cedar Rapids, IA 52404 US",52404,41.923056,-91.698866,(319) 365-0411,Iowa
+Cedar Rapids,3307 Mount Vernon Rd SE,Pizza Hut,"3307 Mount Vernon Rd SE Cedar Rapids, IA 52403 US",52403,41.965959,-91.566054,(319) 365-5548,Iowa
+Cedar Rapids,3400 Edgewood Road SW,Pizza Hut Express,"3400 Edgewood Road SW Cedar Rapids, IA 52411 US",52411,42.053802,-91.729225,Not available,Iowa
+Cedar Rapids,423 Edgewood Rd NW,Pizza Hut,"423 Edgewood Rd NW Cedar Rapids, IA 52405 US",52405,41.983384,-91.746369,(319) 396-7777,Iowa
+Cedar Rapids,5462 Blairs Forest Way,Pizza Hut,"5462 Blairs Forest Way Cedar Rapids, IA 52402 US",52402,42.023172,-91.659613,(319) 378-4444,Iowa
+Centerville,1012 N 18th St,Pizza Hut,"1012 N 18th St Centerville, IA 52544 US",52544,40.706642,-92.912272,(641) 856-8614,Iowa
+Charles City,1003 Blunt Parkway,Pizza Hut,"1003 Blunt Parkway Charles City, IA 50616 US",50616,43.080601,-92.658742,(641) 228-2020,Iowa
+Boise,10244 W. Overland,Pizza Hut,"10244 W. Overland Boise, ID 83709 US",83709,43.551112,-116.290079,(208) 377-0744,Idaho
+Boise,2802 W State St,Pizza Hut,"2802 W State St Boise, ID 83702 US",83702,43.680472,-116.160137,(208) 336-1223,Idaho
+Boise,3367 S Federal Way,Pizza Hut,"3367 S Federal Way Boise, ID 83705 US",83705,43.561558,-116.214363,(208) 387-2600,Idaho
+Boise,4506 W Overland Rd,Pizza Hut,"4506 W Overland Rd Boise, ID 83705 US",83705,43.561558,-116.214363,(208) 375-3590,Idaho
+Boise,9050 Ustick Rd,Pizza Hut,"9050 Ustick Rd Boise, ID 83704 US",83704,43.627161,-116.287653,(208) 323-7731,Idaho
+Burley,2570 Overland Ave,Pizza Hut,"2570 Overland Ave Burley, ID 83318 US",83318,42.439675,-113.815864,(208) 678-7867,Idaho
+Caldwell,710 N 10th Ave,Pizza Hut,"710 N 10th Ave Caldwell, ID 83605 US",83605,43.661908,-116.65629,(208) 454-1341,Idaho
+Chubbuck,4013 Yellowstone Ave,Pizza Hut,"4013 Yellowstone Ave Ste B Chubbuck, ID 83202 US",83202,42.925511,-112.182742,(208) 237-1371,Idaho
+Coeur D Alene,212 W Appleway Ave,Pizza Hut,"212 W Appleway Ave Coeur D Alene, ID 83814 US",83814,47.685687,-116.627768,(208) 765-5032,Idaho
+Eden,1017 S 1150 E,Pizza Hut Express,"1017 S 1150 E Travelers Oasis (To) #0 Eden, ID 83325 US",83325,42.587877,-114.240846,Not available,Idaho
+Filer,154 Hwy 30,Pizza Hut,"154 Hwy 30 Filer, ID 83328 US",83328,42.570448,-114.613167,(208) 326-7272,Idaho
+Hayden,9225 N Government Way,Pizza Hut,"9225 N Government Way Hayden, ID 83835 US",83835,47.79695,-116.660251,(208) 762-2102,Idaho
+Idaho Falls,1972 W Broadway St,Pizza Hut,"1972 W Broadway St Idaho Falls, ID 83402 US",83402,43.534886,-112.174467,(208) 523-7411,Idaho
+Idaho Falls,2250 E 17th Street,Pizza Hut,"2250 E 17th Street Idaho Falls, ID 83404 US",83404,43.421905,-112.011535,(208) 524-1211,Idaho
+Idaho Falls,399 N. Woodruff,Pizza Hut,"399 N. Woodruff Idaho Falls, ID 83401 US",83401,43.542409,-111.877936,(208) 524-2727,Idaho
+Jerome,423 S Lincoln Rd,Pizza Hut,"423 S Lincoln Rd Ste 1 Jerome, ID 83338 US",83338,42.725104,-114.431903,(208) 324-3932,Idaho
+Kuna,251 Avenue D,Pizza Hut,"251 Avenue D Kuna, ID 83634 US",83634,43.455641,-116.32854,(208) 922-1686,Idaho
+Lewiston,1307 21st St,Pizza Hut,"1307 21st St Lewiston, ID 83501 US",83501,46.208729,-116.913734,(208) 746-5920,Idaho
+Meridian,2053 E Fairview Ave,Pizza Hut,"2053 E Fairview Ave #103 Meridian, ID 83642 US",83642,43.568006,-116.404411,(208) 375-2919,Idaho
+Meridian,2140 E. Cinema Dr.,Pizza Hut Express,"2140 E. Cinema Dr. Cinemark Majestic Cinemas #1019 Meridian, ID 83642 US",83642,43.568006,-116.404411,Not available,Idaho
+Meridian,3325 N Ten Mile Rd,Pizza Hut,"3325 N Ten Mile Rd # 150 Meridian, ID 83646 US",83646,43.649557,-116.431756,(208) 846-5795,Idaho
+Addison,32 W Lake St,Pizza Hut,"32 W Lake St Addison, IL 60101 US",60101,41.930516,-88.016937,(630) 543-1155,Illinois
+Algonquin,750 South Randall Road,Pizza Hut Express,"750 South Randall Road Target - T1801 Algonquin, IL 60102 US",60102,42.165165,-88.308768,Not available,Illinois
+Altamont,1206 S. Main,Pizza Hut Express,"1206 S. Main Jack Flash #601 Altamont, IL 62411 US",62411,39.071264,-88.733651,Not available,Illinois
+Alton,3096 Homer Adams Pkwy,Pizza Hut,"3096 Homer Adams Pkwy Alton, IL 62002 US",62002,38.938538,-90.125303,(618) 465-6600,Illinois
+Anna,1835 E Vienna St,Pizza Hut,"1835 E Vienna St #51 Anna, IL 62906 US",62906,37.462109,-89.17253,(618) 833-4555,Illinois
+Antioch,322 W State Route 173,Pizza Hut Express,"322 W State Route 173 Antioch, IL 60002 US",60002,42.471741,-88.084493,Not available,Illinois
+Arlington Heights,15 W Dundee Rd,Pizza Hut,"15 W Dundee Rd Arlington Heights, IL 60004 US",60004,42.11278,-87.979542,(847) 253-2500,Illinois
+Arthur,809 E. Columbia,Pizza Hut Express,"809 E. Columbia Arthur C-Store Arthur, IL 61911 US",61911,39.700938,-88.469322,Not available,Illinois
+Atlanta,102 Empire St,Pizza Hut Express,"102 Empire St Atlanta IL Visitors Center Atlanta, IL 61723 US",61723,40.264664,-89.276542,Not available,Illinois
+Aurora,1261 N Lake St,Pizza Hut,"1261 N Lake St Aurora, IL 60506 US",60506,41.765703,-88.363853,(630) 897-8060,Illinois
+Aurora,1330 N. Orchard Rd,Pizza Hut,"1330 N. Orchard Rd Aurora, IL 60506 US",60506,41.765703,-88.363853,(630) 907-9930,Illinois
+Aurora,4305 E New York St,Pizza Hut,"4305 E New York St Aurora, IL 60504 US",60504,41.747452,-88.238622,(630) 898-3533,Illinois
+Bartonville,1401 W Garfield Avenue,Pizza Hut,"1401 W Garfield Avenue Unit H Bartonville, IL 61607 US",61607,40.627135,-89.685132,(309) 697-0447,Illinois
+Batavia,134 South Randall Road,Pizza Hut Express,"134 South Randall Road Batavia, IL 60510 US",60510,41.841141,-88.306602,Not available,Illinois
+Beardstown,37 Plaza Drive,Pizza Hut,"37 Plaza Drive Beardstown Plaza Beardstown, IL 62618 US",62618,39.982598,-90.402049,(217) 323-5900,Illinois
+Belleville,5601 Belleville Crossing St.,Pizza Hut Express,"5601 Belleville Crossing St. Belleville, IL 62223 US",62223,38.535922,-90.059478,Not available,Illinois
+Belleville,5720 N. Belt West,Pizza Hut,"5720 N. Belt West Suite 38 Belleville, IL 62226 US",62226,38.535162,-89.999556,(618) 233-8504,Illinois
+Belleville,652 Carlyle Ave,Pizza Hut,"652 Carlyle Ave Belleville, IL 62221 US",62221,38.512175,-89.905355,(618) 233-6633,Illinois
+Belvidere,744 Beloit Road,Pizza Hut,"744 Beloit Road Belvidere, IL 61008 US",61008,42.24429,-88.841131,(815) 547-9999,Illinois
+Benton,639 W Main St,Pizza Hut,"639 W Main St Benton, IL 62812 US",62812,37.997347,-88.916946,(618) 439-6359,Illinois
+Albany,204 E Walnut Ave,Pizza Hut,"204 E Walnut Ave Albany, IN 47320 US",47320,40.271703,-85.272799,(765) 789-4200,Indiana
+Alexandria,2201 S. Park Ave.,Pizza Hut,"2201 S. Park Ave. Ste. 5 Alexandria, IN 46001 US",46001,40.251414,-85.658072,(765) 724-7524,Indiana
+Anderson,1803 N Scatterfield Rd,Pizza Hut,"1803 N Scatterfield Rd Anderson, IN 46012 US",46012,40.15467,-85.619672,(765) 643-6909,Indiana
+Anderson,1911 E 53rd St,Pizza Hut,"1911 E 53rd St Anderson, IN 46013 US",46013,40.047934,-85.681768,(765) 643-7419,Indiana
+Anderson,2607 Nichol Ave,Pizza Hut,"2607 Nichol Ave Anderson, IN 46011 US",46011,40.129994,-85.760692,(765) 641-2420,Indiana
+Angola,1411 N Wayne St,Pizza Hut,"1411 N Wayne St Angola, IN 46703 US",46703,41.649589,-85.00655,(260) 665-7574,Indiana
+Attica,1304 E Main St,Pizza Hut,"1304 E Main St Attica, IN 47918 US",47918,40.298678,-87.198005,(765) 762-6161,Indiana
+Auburn,1116 W 7th St,Pizza Hut,"1116 W 7th St Auburn, IN 46706 US",46706,41.341594,-85.032655,(260) 925-1286,Indiana
+Avon,10209 E US Highway 36,Pizza Hut Express,"10209 E US Highway 36 Avon, IN 46123 US",46123,39.764395,-86.403457,Not available,Indiana
+Bedford,2111 16th St,Pizza Hut,"2111 16th St Bedford, IN 47421 US",47421,38.863494,-86.45223,(812) 279-6600,Indiana
+Beech Grove,2509 Albany St,Pizza Hut,"2509 Albany St Beech Grove, IN 46107 US",46107,39.716414,-86.091463,(317) 781-9700,Indiana
+Berne,1136 US Highway 27 N,Pizza Hut,"1136 US Highway 27 N Berne, IN 46711 US",46711,40.661951,-84.926879,(260) 589-4030,Indiana
+Bloomfield,686 US Highway 231,Pizza Hut,"686 US Highway 231 Bloomfield, IN 47424 US",47424,39.020048,-86.882428,(812) 384-0800,Indiana
+Bloomington,125 Franklin,Pizza Hut,"125 Franklin Bloomington, IN 47404 US",47404,39.219531,-86.591196,(812) 334-2238,Indiana
+Bloomington,250 S Pete Ellis Dr,Pizza Hut,"250 S Pete Ellis Dr Bloomington, IN 47408 US",47408,39.229815,-86.467254,(812) 334-1662,Indiana
+Bloomington,2966 E. 3rd Street,Pizza Hut Express,"2966 E. 3rd Street Bloomington, IN 47401 US",47401,39.102306,-86.442835,Not available,Indiana
+Bloomington,4264 N Cypress Ln,Pizza Hut,"4264 N Cypress Ln Bloomington, IN 47404 US",47404,39.219531,-86.591196,(812) 287-0533,Indiana
+Bluffton,632 N Main St,Pizza Hut,"632 N Main St Bluffton, IN 46714 US",46714,40.722652,-85.176526,(260) 824-5701,Indiana
+Boonville,813 West Main St.,Pizza Hut,"813 West Main St. Boonville, IN 47601 US",47601,38.051443,-87.254533,(812) 897-8700,Indiana
+Brazil,1519 E. National,Pizza Hut,"1519 E. National Brazil, IN 47834 US",47834,39.525549,-87.121971,(812) 443-4141,Indiana
+Abilene,1705 N Buckeye,Pizza Hut,"1705 N Buckeye Abilene, KS 67410 US",67410,38.956476,-97.21909,(785) 263-7777,Kansas
+Andover,307 N Andover Rd,Pizza Hut,"307 N Andover Rd Andover, KS 67002 US",67002,37.700947,-97.107258,(316) 733-0055,Kansas
+Arkansas City,422 N. Summit Street,Pizza Hut,"422 N. Summit Street Arkansas City, KS 67005 US",67005,37.065173,-96.995733,(620) 442-1900,Kansas
+Atchison,333 S 10th St,Pizza Hut,"333 S 10th St Atchison, KS 66002 US",66002,39.538742,-95.137635,(913) 367-3343,Kansas
+Atwood,508 Main St,Pizza Hut,"508 Main St Atwood, KS 67730 US",67730,39.808975,-101.111247,(785) 626-3141,Kansas
+Augusta,718 W 7th Street,Pizza Hut,"718 W 7th Street Augusta, KS 67010 US",67010,37.663117,-96.96528,(316) 775-2284,Kansas
+Baldwin City,130 Hwy 56,Pizza Hut,"130 Hwy 56 Baldwin City, KS 66006 US",66006,38.804266,-95.23267,(785) 594-3230,Kansas
+Baxter Springs,1802 Military Ave,Pizza Hut,"1802 Military Ave Baxter Springs, KS 66713 US",66713,37.040492,-94.785294,(620) 856-2399,Kansas
+Beloit,3001 US 24 Hwy,Pizza Hut,"3001 US 24 Hwy Beloit, KS 67420 US",67420,39.400935,-98.085468,(785) 738-5706,Kansas
+Bonner Springs,13028 Kansas Ave.,Pizza Hut,"13028 Kansas Ave. Bonner Springs, KS 66012 US",66012,39.066521,-94.920179,(913) 441-2435,Kansas
+Burlington,707 North 4th Street,Pizza Hut,"707 North 4th Street Burlington, KS 66839 US",66839,38.217399,-95.748127,(620) 364-8375,Kansas
+Caney,403 N McGee St,Pizza Hut,"403 N McGee St Caney, KS 67333 US",67333,37.045391,-95.882452,(620) 879-5660,Kansas
+Chanute,1625 S Santa Fe St,Pizza Hut,"1625 S Santa Fe St Chanute, KS 66720 US",66720,37.64833,-95.45719,(620) 431-3630,Kansas
+Cherryvale,514 S Liberty St,Pizza Hut,"514 S Liberty St Cherryvale, KS 67335 US",67335,37.274582,-95.526745,(620) 336-2661,Kansas
+Clay Center,638 W Crawford St,Pizza Hut,"638 W Crawford St Clay Center, KS 67432 US",67432,39.329343,-97.193388,(785) 632-5969,Kansas
+Clearwater,200 E Ross St,Pizza Hut,"200 E Ross St Clearwater, KS 67026 US",67026,37.511061,-97.491987,(620) 584-2044,Kansas
+Coffeyville,1612 W 11th St,Pizza Hut,"1612 W 11th St Coffeyville, KS 67337 US",67337,37.053665,-95.598198,(620) 251-4520,Kansas
+Colby,980 S Range Ave,Pizza Hut,"980 S Range Ave Colby, KS 67701 US",67701,39.395154,-101.061478,(785) 462-8206,Kansas
+Columbus,S 69 Hwy,Pizza Hut,"S 69 Hwy Columbus, KS 66725 US",66725,37.156583,-94.895319,(620) 429-1345,Kansas
+Concordia,2112 S. Lincoln,Pizza Hut,"2112 S. Lincoln Concordia, KS 66901 US",66901,39.560035,-97.638951,(785) 243-2400,Kansas
+Albany,805 Tennessee Rd,Pizza Hut,"805 Tennessee Rd Albany, KY 42602 US",42602,36.739629,-85.110438,(606) 387-9696,Kentucky
+Ashland,933 Blackburn Ave.,Pizza Hut,"933 Blackburn Ave. Ashland, KY 41101 US",41101,38.473824,-82.647933,(606) 326-0660,Kentucky
+Barbourville,1049 South US 25E,Pizza Hut,"1049 South US 25E Barbourville, KY 40906 US",40906,36.872205,-83.881995,(606) 546-2311,Kentucky
+Bardstown,321 Kentucky Home Square,Pizza Hut,"321 Kentucky Home Square Bardstown, KY 40004 US",40004,37.803188,-85.465955,(502) 348-6967,Kentucky
+Beaver Dam,1475 N Main St,Pizza Hut,"1475 N Main St Beaver Dam, KY 42320 US",42320,37.332728,-86.867017,(270) 274-7959,Kentucky
+Benton,54 Main Street,Pizza Hut,"54 Main Street Benton, KY 42025 US",42025,36.856924,-88.334714,(270) 527-3065,Kentucky
+Berea,710 Chestnut,Pizza Hut,"710 Chestnut Berea, KY 40403 US",40403,37.570447,-84.271931,(859) 986-6161,Kentucky
+Bowling Green,1414 U.S. 31 W Bypass,Pizza Hut,"1414 U.S. 31 W Bypass Bowling Green, KY 42104 US",42104,36.876864,-86.45119,(270) 781-9898,Kentucky
+Bowling Green,164 Iron Skillet Ct,Pizza Hut,"164 Iron Skillet Ct Ste D Bowling Green, KY 42104 US",42104,36.876864,-86.45119,(270) 782-9056,Kentucky
+Bowling Green,2450 Nashville Road,Pizza Hut,"2450 Nashville Road Bowling Green, KY 42101 US",42101,37.058097,-86.463061,(270) 901-3637,Kentucky
+Burkesville,110 Keen Street,Pizza Hut,"110 Keen Street Burkesville, KY 42717 US",42717,36.788363,-85.378995,(270) 864-5323,Kentucky
+Campbellsville,730 E Broadway,Pizza Hut,"730 E Broadway Campbellsville, KY 42718 US",42718,37.385228,-85.373081,(270) 469-1245,Kentucky
+Cave City,804 Mammoth Cave Street,Pizza Hut,"804 Mammoth Cave Street Cave City, KY 42127 US",42127,37.113569,-85.918463,(270) 773-3770,Kentucky
+Central City,631 S Second,Pizza Hut,"631 S Second Central City, KY 42330 US",42330,37.321997,-87.115992,(270) 754-9989,Kentucky
+Columbia,990 Jamestown Road,Pizza Hut,"990 Jamestown Road Columbia, KY 42728 US",42728,37.117031,-85.29007,(270) 384-5331,Kentucky
+Covington,3927 Winston Avenue,Pizza Hut,"3927 Winston Avenue Covington, KY 41015 US",41015,38.97971,-84.478596,Not available,Kentucky
+Cynthiana,930 US 27 S,Pizza Hut,"930 US 27 S Cynthiana, KY 41031 US",41031,38.417802,-84.288716,(859) 234-4016,Kentucky
+Danville,1565 Hustonville Rd.,Pizza Hut,"1565 Hustonville Rd. Danville, KY 40422 US",40422,37.640997,-84.797275,(859) 236-2622,Kentucky
+Eddyville,24 Outlet Ave,Pizza Hut,"24 Outlet Ave Eddyville, KY 42038 US",42038,37.047413,-88.027647,(270) 388-4425,Kentucky
+Edmonton,1004 W Stockton St,Pizza Hut,"1004 W Stockton St Edmonton, KY 42129 US",42129,36.989145,-85.585467,(270) 432-2020,Kentucky
+Abbeville,720 Veterans Memorial Dr,Pizza Hut,"720 Veterans Memorial Dr Abbeville, LA 70510 US",70510,29.894612,-92.193173,(337) 893-9373,Louisiana
+Abita Springs,70326 Highway 59,Pizza Hut,"70326 Highway 59 Bldg 1, Suite 3 Abita Springs, LA 70420 US",70420,30.484687,-89.953028,(985) 867-3354,Louisiana
+Albany,19151 Florida Blvd,Pizza Hut,"19151 Florida Blvd Albany, LA 70711 US",70711,30.524507,-90.592005,(225) 500-9006,Louisiana
+Alexandria,2206 Memorial Drive,Pizza Hut Express,"2206 Memorial Drive Target - T0167 Alexandria, LA 71301 US",71301,31.274156,-92.467107,Not available,Louisiana
+Alexandria,3927 S Macarthur Dr,Pizza Hut,"3927 S Macarthur Dr Alexandria, LA 71302 US",71302,31.197018,-92.37022,(318) 443-4400,Louisiana
+Alexandria,4605-A Jackson St. Ext.,Pizza Hut,"4605-A Jackson St. Ext. #20 Alexandria, LA 71303 US",71303,31.281321,-92.547344,(318) 443-6000,Louisiana
+Amite,1108 West Oak St,Pizza Hut,"1108 West Oak St Suite A Amite, LA 70422 US",70422,30.734832,-90.480843,(985) 748-7008,Louisiana
+Baker,400 Main Street,Pizza Hut,"400 Main Street Baker, LA 70714 US",70714,30.587189,-91.127633,(225) 778-1700,Louisiana
+Bastrop,931 East Madison Avenue,Pizza Hut,"931 East Madison Avenue Ste #1 Bastrop, LA 71220 US",71220,32.864539,-91.908541,(318) 281-6158,Louisiana
+Baton Rouge,10000 Perkins Rowe Suite 125,Pizza Hut,"10000 Perkins Rowe Suite 125 Cinemark Perkins Rowe And Xd #372 Baton Rouge, LA 70810 US",70810,30.331942,-91.092135,Not available,Louisiana
+Baton Rouge,13214 Coursey Blvd.,Pizza Hut,"13214 Coursey Blvd. Suite D Baton Rouge, LA 70816 US",70816,30.431813,-91.021967,(225) 756-1935,Louisiana
+Baton Rouge,1809 S Sherwood Forest Blvd,Pizza Hut,"1809 S Sherwood Forest Blvd Space A-2 Baton Rouge, LA 70816 US",70816,30.431813,-91.021967,(225) 273-6630,Louisiana
+Baton Rouge,2906 Government St,Pizza Hut,"2906 Government St Baton Rouge, LA 70806 US",70806,30.448758,-91.124753,(225) 379-8551,Louisiana
+Baton Rouge,6885 Siegen Ln,Pizza Hut Express,"6885 Siegen Ln Baton Rouge, LA 70809 US",70809,30.394045,-91.070972,Not available,Louisiana
+Baton Rouge,7310 Airline Hwy,Pizza Hut,"7310 Airline Hwy Suite H Baton Rouge, LA 70805 US",70805,30.488923,-91.158261,(225) 355-7006,Louisiana
+Baton Rouge,9030 Siegen Ln,Pizza Hut,"9030 Siegen Ln Baton Rouge, LA 70810 US",70810,30.331942,-91.092135,(225) 768-1277,Louisiana
+Baton Rouge,930 O'Neal Lane,Pizza Hut,"930 O'Neal Lane Suite E2 Baton Rouge, LA 70816 US",70816,30.431813,-91.021967,(225) 275-1511,Louisiana
+Baton Rouge,9618 Jefferson Hwy,Pizza Hut,"9618 Jefferson Hwy Baton Rouge, LA 70809 US",70809,30.394045,-91.070972,(225) 425-1144,Louisiana
+Baton Rouge,9880 Bluebonnet Blvd,Pizza Hut,"9880 Bluebonnet Blvd Suite E-5 Baton Rouge, LA 70810 US",70810,30.331942,-91.092135,(225) 763-9407,Louisiana
+Benton,207 Burt Blvd,Pizza Hut,"207 Burt Blvd Suite B Benton, LA 71006 US",71006,32.722671,-93.630383,(318) 965-4191,Louisiana
+Braintree,250 Granite St.,Pizza Hut Express,"250 Granite St. Braintree, MA 02184 US",2184,42.206188,-71.00232,Not available,Massachusetts
+Chicopee,1471 Memorial Drive,Pizza Hut Express,"1471 Memorial Drive Chicopee, MA 01020 US",1020,42.172602,-72.562073,Not available,Massachusetts
+Dorchester,7 Allstate Road,Pizza Hut Express,"7 Allstate Road Dorchester, MA 02125 US",2125,42.315682,-71.055555,Not available,Massachusetts
+Everett,1 Mystic View Rd.,Pizza Hut Express,"1 Mystic View Rd. Everett, MA 02149 US",2149,42.405938,-71.054649,Not available,Massachusetts
+Everett,7 Sycamore St.,Pizza Hut,"7 Sycamore St. Everett, MA 02149 US",2149,42.405938,-71.054649,(781) 321-3335,Massachusetts
+Fall River,155 Hope Street,Pizza Hut,"155 Hope Street Fall River, MA 02721 US",2721,41.675125,-71.148281,(508) 567-5673,Massachusetts
+Haverhill,35 Computer Drive,Pizza Hut Express,"35 Computer Drive Haverhill, MA 01832 US",1832,42.791114,-71.132859,Not available,Massachusetts
+Holbrook,800 S Franklin St,Pizza Hut,"800 S Franklin St Holbrook, MA 02343 US",2343,42.140244,-70.997347,Not available,Massachusetts
+Lanesborough,655 Cheshire Rd,Pizza Hut Express,"655 Cheshire Rd Lanesborough, MA 01237 US",1237,42.547818,-73.268033,Not available,Massachusetts
+Leominster,86 Orchard Hill Park Drive,Pizza Hut Express,"86 Orchard Hill Park Drive Leominster, MA 01453 US",1453,42.519977,-71.763202,Not available,Massachusetts
+Lowell,131 Church St,Pizza Hut,"131 Church St Lowell, MA 01850 US",1850,42.656045,-71.303309,(978) 454-9201,Massachusetts
+Lowell,199 Plain Street,Pizza Hut Express,"199 Plain Street Lowell, MA 01852 US",1852,42.631912,-71.296025,Not available,Massachusetts
+Lynn,39 State St,Pizza Hut,"39 State St Lynn, MA 01901 US",1901,42.460419,-70.946379,(781) 592-0066,Massachusetts
+Marlborough,639 Boston Post Road East,Pizza Hut Express,"639 Boston Post Road East Marlborough, MA 01752 US",1752,42.349617,-71.547214,Not available,Massachusetts
+Methuen,216 Haverhill St,Pizza Hut,"216 Haverhill St Methuen, MA 01844 US",1844,42.742468,-71.179218,(978) 681-8993,Massachusetts
+Methuen,67 Pleasant Valley St,Pizza Hut Express,"67 Pleasant Valley St Methuen, MA 01844 US",1844,42.742468,-71.179218,Not available,Massachusetts
+Millbury,70 Worcester Providence Tpke #100,Pizza Hut Express,"70 Worcester Providence Tpke #100 Target - T1835 Millbury, MA 01527 US",1527,42.192246,-71.777649,Not available,Massachusetts
+New Bedford,914 Mount Pleasant St,Pizza Hut,"914 Mount Pleasant St New Bedford, MA 02745 US",2745,41.700737,-70.950546,Not available,Massachusetts
+Pittsfield,660 Merrill Rd,Pizza Hut,"660 Merrill Rd Pittsfield, MA 01202 US",1202,0,0,(413) 499-9891,Massachusetts
+Revere,36 Furlong Drive,Pizza Hut Express,"36 Furlong Drive Revere, MA 02151 US",2151,42.41829,-71.001251,Not available,Massachusetts
+Revere,5A Everett St,Pizza Hut,"5A Everett St Revere, MA 02151 US",2151,42.41829,-71.001251,(781) 325-8537,Massachusetts
+Annapolis,1336 Cape Saint Claire Rd,Pizza Hut,"1336 Cape Saint Claire Rd Annapolis, MD 21409 US",21409,39.018435,-76.442533,(410) 757-0207,Maryland
+Annapolis,1911 Towne Centre Blvd,Pizza Hut Express,"1911 Towne Centre Blvd Annapolis, MD 21401 US",21401,38.98775,-76.5528,Not available,Maryland
+Baltimore,1388 Taylor Ave,Pizza Hut,"1388 Taylor Ave Baltimore, MD 21234 US",21234,39.393417,-76.534228,(667) 688-2322,Maryland
+Baltimore,1519-21 Havenwood Rd,Pizza Hut,"1519-21 Havenwood Rd Baltimore, MD 21218 US",21218,39.330107,-76.601451,(667) 262-1083,Maryland
+Baltimore,2303 Rolling Road,Pizza Hut,"2303 Rolling Road Baltimore, MD 21244 US",21244,39.334931,-76.776589,(410) 265-7766,Maryland
+Baltimore,3559 Boston Street,Pizza Hut Express,"3559 Boston Street Baltimore, MD 21224 US",21224,39.27486,-76.542833,Not available,Maryland
+Baltimore,5230 Campbell Blvd,Pizza Hut Express,"5230 Campbell Blvd Baltimore, MD 21236 US",21236,39.388421,-76.48355,Not available,Maryland
+Baltimore,5417 Reisterstown Rd,Pizza Hut,"5417 Reisterstown Rd Baltimore, MD 21215 US",21215,39.345241,-76.683566,Not available,Maryland
+Baltimore,6663 Belair Rd,Pizza Hut,"6663 Belair Rd Baltimore, MD 21206 US",21206,39.338428,-76.538877,(410) 254-1222,Maryland
+Baltimore,8641 Belair Rd,Pizza Hut,"8641 Belair Rd Baltimore, MD 21236 US",21236,39.388421,-76.48355,(410) 256-4388,Maryland
+Bel Air,1216 Churchville Rd,Pizza Hut,"1216 Churchville Rd Bel Air, MD 21014 US",21014,39.536084,-76.352184,(410) 420-2200,Maryland
+Bel Air,1410 Handlir Drive,Pizza Hut,"1410 Handlir Drive Bel Air, MD 21015 US",21015,39.544176,-76.292469,(410) 297-8682,Maryland
+Beltsville,10810 Baltimore Avenue,Pizza Hut Express,"10810 Baltimore Avenue Beltsville, MD 20705 US",20705,39.049423,-76.900362,Not available,Maryland
+Bowie,10401 Martin Luther King Jr Hwy,Pizza Hut Express,"10401 Martin Luther King Jr Hwy Bowie, MD 20720 US",20720,38.98278,-76.785824,Not available,Maryland
+Bowie,1322 Crain Highway,Pizza Hut,"1322 Crain Highway Ste B Bowie, MD 20716 US",20716,38.926428,-76.715028,(240) 539-3051,Maryland
+Bowie,15480 Annapolis Rd,Pizza Hut,"15480 Annapolis Rd Ste 210 Bowie, MD 20715 US",20715,38.989393,-76.741331,(240) 245-1102,Maryland
+Bowie,4600 Mitchellville Rd,Pizza Hut Express,"4600 Mitchellville Rd Bowie, MD 20716 US",20716,38.926428,-76.715028,Not available,Maryland
+Brandywine,15805 Robert Crain Hwy,Pizza Hut,"15805 Robert Crain Hwy Brandywine, MD 20613 US",20613,38.671168,-76.805304,Not available,Maryland
+Brandywine,15922 Crain Highway S.E.,Pizza Hut Express,"15922 Crain Highway S.E. Brandywine, MD 20613 US",20613,38.671168,-76.805304,Not available,Maryland
+Brooklyn,5000 Ritchie Hwy,Pizza Hut,"5000 Ritchie Hwy Brooklyn, MD 21225 US",21225,39.226117,-76.615735,(410) 789-2112,Maryland
+Augusta,119 Crossing Way,Pizza Hut Express,"119 Crossing Way Augusta, ME 04330 US",4330,44.351895,-69.747626,Not available,Maine
+Augusta,215 Western Ave,Pizza Hut,"215 Western Ave Augusta, ME 04330 US",4330,44.351895,-69.747626,(207) 622-4095,Maine
+Bangor,60 Longview Drive,Pizza Hut Express,"60 Longview Drive Bangor, ME 04401 US",4401,44.848517,-68.850405,Not available,Maine
+Bangor,611 Broadway,Pizza Hut,"611 Broadway Broadway Shopping Center, Loc 19 Bangor, ME 04401 US",4401,44.848517,-68.850405,(207) 947-5858,Maine
+Ellsworth,211 High St,Pizza Hut,"211 High St Ellsworth, ME 04605 US",4605,44.672809,-68.391841,(207) 667-3335,Maine
+Farmington,564 Wilton Rd,Pizza Hut,"564 Wilton Rd Farmington, ME 04938 US",4938,44.661856,-70.103104,(207) 778-2400,Maine
+Houlton,136 North St,Pizza Hut,"136 North St Houlton, ME 04730 US",4730,46.191023,-67.860968,(207) 532-9002,Maine
+Lewiston,875 Sabattus St,Pizza Hut,"875 Sabattus St Lewiston, ME 04240 US",4240,44.089594,-70.172185,(207) 777-7111,Maine
+Newport,18 Main Street,Pizza Hut,"18 Main Street Newport, ME 04953 US",4953,44.8603,-69.236698,(207) 368-5222,Maine
+Oxford,1623 Main St,Pizza Hut,"1623 Main St Oxford, ME 04270 US",4270,44.117335,-70.527478,(207) 743-5800,Maine
+Presque Isle,814 North Main St,Pizza Hut,"814 North Main St Presque Isle, ME 04769 US",4769,46.688952,-67.991914,(207) 762-8651,Maine
+Rockland,190 Camden St,Pizza Hut,"190 Camden St Rockland, ME 04841 US",4841,44.133536,-69.133822,(207) 594-7330,Maine
+Sanford,1364 Main St,Pizza Hut,"1364 Main St Sanford, ME 04073 US",4073,43.418643,-70.747779,(207) 324-2012,Maine
+Skowhegan,318 Madison Ave,Pizza Hut,"318 Madison Ave Skowhegan, ME 04976 US",4976,44.789271,-69.667734,(207) 474-0050,Maine
+Waterville,440 Kennedy Memorial Dr.,Pizza Hut,"440 Kennedy Memorial Dr. Washington St. Extension Waterville, ME 04901 US",4901,44.541099,-69.573012,(207) 873-5000,Maine
+Westbrook,11 Main St,Pizza Hut,"11 Main St Ste 3 Westbrook, ME 04092 US",4092,43.70792,-70.352602,(207) 854-2400,Maine
+Adrian,1515 E US Hwy 223,Pizza Hut,"1515 E US Hwy 223 Unit 2 Adrian, MI 49221 US",49221,41.902354,-84.064698,(517) 265-1300,Michigan
+Albion,1435 N Eaton St,Pizza Hut,"1435 N Eaton St Albion, MI 49224 US",49224,42.279617,-84.746876,(517) 629-2137,Michigan
+Allegan,107 Locust St,Pizza Hut,"107 Locust St Allegan, MI 49010 US",49010,42.533307,-85.874766,(269) 673-5555,Michigan
+Allen Park,3100 Fairlane Drive,Pizza Hut Express,"3100 Fairlane Drive Allen Park, MI 48101 US",48101,42.259473,-83.21039,Not available,Michigan
+Alpena,2131 US 23 So.,Pizza Hut,"2131 US 23 So. Alpena, MI 49707 US",49707,45.094306,-83.476214,(989) 356-6655,Michigan
+Bad Axe,790 N Van Dyke,Pizza Hut,"790 N Van Dyke Bad Axe, MI 48413 US",48413,43.798506,-82.9942,(989) 269-2291,Michigan
+Battle Creek,1449 Michigan Ave W,Pizza Hut,"1449 Michigan Ave W Battle Creek, MI 49037 US",49037,42.330097,-85.244828,(269) 965-3700,Michigan
+Battle Creek,20 E. Columbia Ave,Pizza Hut,"20 E. Columbia Ave Battle Creek, MI 49015 US",49015,42.275471,-85.229044,(269) 966-8900,Michigan
+Battle Creek,724 Capital Ave NE,Pizza Hut,"724 Capital Ave NE Battle Creek, MI 49017 US",49017,42.401366,-85.215928,(269) 962-2999,Michigan
+Bay City,914 N. Euclid Ave.,Pizza Hut,"914 N. Euclid Ave. Bay City, MI 48706 US",48706,43.599622,-83.950504,(989) 778-1010,Michigan
+Belleville,2160 Rawsonville Rd,Pizza Hut,"2160 Rawsonville Rd Belleville, MI 48111 US",48111,42.177312,-83.488444,(734) 483-8800,Michigan
+Benton Harbor,1940 M 139,Pizza Hut,"1940 M 139 Benton Harbor, MI 49022 US",49022,42.112127,-86.359048,(269) 925-2300,Michigan
+Berrien Springs,624 Saint Joseph Ave,Pizza Hut,"624 Saint Joseph Ave Berrien Springs, MI 49103 US",49103,41.946299,-86.376474,(269) 471-2000,Michigan
+Big Rapids,14371 Northland,Pizza Hut,"14371 Northland Big Rapids, MI 49307 US",49307,43.699062,-85.489194,(231) 796-8700,Michigan
+Bloomfield Hills,2400 S. Telegraph Road,Pizza Hut Express,"2400 S. Telegraph Road Bloomfield Hills, MI 48302 US",48302,42.585108,-83.293467,Not available,Michigan
+Bridgman,9728 Red Arrow Hwy.,Pizza Hut,"9728 Red Arrow Hwy. Bridgman, MI 49106 US",49106,41.938074,-86.554845,(269) 465-6900,Michigan
+Buchanan,817 E Front St,Pizza Hut,"817 E Front St Buchanan, MI 49107 US",49107,41.844909,-86.417637,(269) 695-2400,Michigan
+Cadillac,8781 E 34 Rd,Pizza Hut,"8781 E 34 Rd Cadillac, MI 49601 US",49601,44.245955,-85.510205,(231) 775-6515,Michigan
+Caledonia,1925 Marketplace Drive,Pizza Hut Express,"1925 Marketplace Drive Caledonia, MI 49316 US",49316,42.793767,-85.550467,Not available,Michigan
+Caledonia,6450 100th St. SE,Pizza Hut,"6450 100th St. SE Suite A Caledonia, MI 49316 US",49316,42.793767,-85.550467,(616) 891-8920,Michigan
+Albert Lea,820 Happy Trails Lane,Pizza Hut,"820 Happy Trails Lane Albert Lea, MN 56007 US",56007,43.660887,-93.324563,Not available,Minnesota
+Alexandria,307 N Nokomis St,Pizza Hut,"307 N Nokomis St Alexandria, MN 56308 US",56308,45.878391,-95.386055,(320) 298-1976,Minnesota
+Andover,2000 Bunker Lake Blvd. N.W.,Pizza Hut Express,"2000 Bunker Lake Blvd. N.W. Andover, MN 55304 US",55304,45.247605,-93.275036,Not available,Minnesota
+Anoka,728 38th Ave,Pizza Hut,"728 38th Ave Anoka, MN 55303 US",55303,45.288298,-93.431102,(763) 323-0693,Minnesota
+Apple Valley,14844 Granada Drive,Pizza Hut,"14844 Granada Drive Apple Valley, MN 55124 US",55124,44.739462,-93.193842,(952) 431-3340,Minnesota
+Apple Valley,15560 Pilot Knob Road,Pizza Hut Express,"15560 Pilot Knob Road Apple Valley, MN 55124 US",55124,44.739462,-93.193842,Not available,Minnesota
+Austin,1004 18th Ave. NW,Pizza Hut,"1004 18th Ave. NW Austin, MN 55912 US",55912,43.682607,-92.98845,(507) 434-0333,Minnesota
+Baxter,8330 Highway 210 W,Pizza Hut,"8330 Highway 210 W Baxter, MN 56425 US",56425,46.343935,-94.276015,(218) 828-1424,Minnesota
+Bemidji,509 Paul Bunyan Dr NW,Pizza Hut,"509 Paul Bunyan Dr NW Bemidji, MN 56601 US",56601,47.507374,-94.863994,(218) 751-1601,Minnesota
+Blaine,1351 113th Ave NE,Pizza Hut,"1351 113th Ave NE Blaine, MN 55434 US",55434,45.163686,-93.250434,(651) 583-8148,Minnesota
+Blaine,1500 109th Avenue Northeast,Pizza Hut Express,"1500 109th Avenue Northeast Blaine, MN 55449 US",55449,45.17658,-93.181858,Not available,Minnesota
+Bloomington,2555 West 79th Street,Pizza Hut Express,"2555 West 79th Street Bloomington, MN 55431 US",55431,44.824534,-93.312602,Not available,Minnesota
+Bloomington,3701 W Old Shakopee Rd,Pizza Hut,"3701 W Old Shakopee Rd Ste 200 Bloomington, MN 55431 US",55431,44.824534,-93.312602,(952) 881-1222,Minnesota
+Bloomington,7844 Portland Ave,Pizza Hut,"7844 Portland Ave Bloomington, MN 55420 US",55420,44.835969,-93.277176,(952) 884-2822,Minnesota
+Blue Earth,1511 Domes Dr,Pizza Hut,"1511 Domes Dr Blue Earth, MN 56013 US",56013,43.62018,-94.103786,(507) 526-4646,Minnesota
+Brooklyn Center,5806 Xerxes Ave N,Pizza Hut,"5806 Xerxes Ave N Brooklyn Center, MN 55430 US",55430,45.067676,-93.302089,(763) 561-6161,Minnesota
+Buffalo,301 10th Ave. South,Pizza Hut Express,"301 10th Ave. South Buffalo, MN 55313 US",55313,45.174664,-93.851455,Not available,Minnesota
+Burnsville,2012 County Road 42 W,Pizza Hut,"2012 County Road 42 W Burnsville, MN 55337 US",55337,44.778472,-93.272269,(952) 892-7676,Minnesota
+Cambridge,200 2nd Ave NE,Pizza Hut,"200 2nd Ave NE Cambridge, MN 55008 US",55008,45.569486,-93.276659,(763) 689-2000,Minnesota
+Champlin,11456 Jefferson Ct.,Pizza Hut,"11456 Jefferson Ct. Champlin, MN 55316 US",55316,45.172932,-93.386829,(763) 421-1112,Minnesota
+Champlin,11990 Business Park Boulevard North,Pizza Hut Express,"11990 Business Park Boulevard North Champlin, MN 55316 US",55316,45.172932,-93.386829,Not available,Minnesota
+Affton,9245 Gravois Rd,Pizza Hut,"9245 Gravois Rd Affton, MO 63123 US",63123,38.547432,-90.328109,(314) 638-4444,Missouri
+Arnold,1926 Richardson Rd,Pizza Hut,"1926 Richardson Rd Arnold, MO 63010 US",63010,38.430371,-90.3921,(636) 467-5909,Missouri
+Aurora,2028 S Elliott,Pizza Hut,"2028 S Elliott Aurora, MO 65605 US",65605,36.771716,-93.654747,(417) 678-5185,Missouri
+Ballwin,15425 Manchester Rd.,Pizza Hut,"15425 Manchester Rd. Ste. 32 Ballwin, MO 63011 US",63011,38.603678,-90.559295,(636) 527-4526,Missouri
+Belton,213 Cedar St.,Pizza Hut,"213 Cedar St. Belton, MO 64012 US",64012,38.789354,-94.543625,(816) 322-3437,Missouri
+Bethany,303 S 25th St,Pizza Hut,"303 S 25th St Bethany, MO 64424 US",64424,40.261889,-94.036075,(660) 425-2271,Missouri
+Blue Springs,1040 NE Coronado Drive,Pizza Hut Express,"1040 NE Coronado Drive Blue Springs, MO 64014 US",64014,39.00676,-94.255136,Not available,Missouri
+Blue Springs,1114 NW Woods Chapel Rd,Pizza Hut,"1114 NW Woods Chapel Rd Blue Springs, MO 64015 US",64015,39.015059,-94.312603,(816) 228-2029,Missouri
+Blue Springs,1626 South Highway 7,Pizza Hut,"1626 South Highway 7 Blue Springs, MO 64014 US",64014,39.00676,-94.255136,(816) 229-9816,Missouri
+Blue Springs,1901 North Highway 7,Pizza Hut,"1901 North Highway 7 Unit A Blue Springs, MO 64014 US",64014,39.00676,-94.255136,(816) 228-1900,Missouri
+Bolivar,1988 S Springfield Ave,Pizza Hut,"1988 S Springfield Ave Bolivar, MO 65613 US",65613,37.636902,-93.396427,(417) 326-5505,Missouri
+Boonville,103 Boone Village Dr,Pizza Hut,"103 Boone Village Dr Boonville, MO 65233 US",65233,38.917096,-92.728078,(660) 882-5354,Missouri
+Bowling Green,4 Town Center Drive,Pizza Hut,"4 Town Center Drive Suite A Bowling Green, MO 63334 US",63334,39.297583,-91.188309,(573) 324-5075,Missouri
+Branson,1050 Branson Hills Parkway,Pizza Hut,"1050 Branson Hills Parkway Branson, MO 65616 US",65616,36.669373,-93.248879,(417) 332-2222,Missouri
+Branson,1200 Branson Hills Pkwy.,Pizza Hut Express,"1200 Branson Hills Pkwy. Branson, MO 65616 US",65616,36.669373,-93.248879,Not available,Missouri
+Branson,3000 Green Mountain Dr.,Pizza Hut,"3000 Green Mountain Dr. Suite 100 Branson, MO 65616 US",65616,36.669373,-93.248879,(417) 239-1111,Missouri
+Branson West,10922 State Hwy. 76,Pizza Hut,"10922 State Hwy. 76 Branson West, MO 65737 US",65737,36.711111,-93.359338,(417) 272-8425,Missouri
+Breckenridge Hills,9740 Saint Charles Rock Rd,Pizza Hut,"9740 Saint Charles Rock Rd Breckenridge Hills, MO 63114 US",63114,38.702256,-90.363674,(314) 423-2225,Missouri
+Brentwood,25 Brentwood Promenade Court,Pizza Hut Express,"25 Brentwood Promenade Court Brentwood, MO 63144 US",63144,38.619024,-90.347719,Not available,Missouri
+Bridgeton,12238 Saint Charles Rock Rd,Pizza Hut,"12238 Saint Charles Rock Rd Bridgeton, MO 63044 US",63044,38.772791,-90.430046,(314) 739-8864,Missouri
+Aberdeen,119 Hwy. 145 N,Pizza Hut,"119 Hwy. 145 N Suite C Aberdeen, MS 39730 US",39730,33.843635,-88.565615,(662) 319-8700,Mississippi
+Amory,406 South Main,Pizza Hut,"406 South Main Amory, MS 38821 US",38821,33.977521,-88.436749,(662) 256-2624,Mississippi
+Bay Saint Louis,599 Highway 90,Pizza Hut,"599 Highway 90 Bay Saint Louis, MS 39520 US",39520,30.271308,-89.481756,(228) 467-3155,Mississippi
+Bay Springs,2760A Hwy 15,Pizza Hut,"2760A Hwy 15 Bay Springs, MS 39422 US",39422,31.959313,-89.257708,(601) 764-3138,Mississippi
+Biloxi,10443 D'Iberville Avenue,Pizza Hut,"10443 D'Iberville Avenue Biloxi, MS 39532 US",39532,30.493085,-88.964318,(228) 392-8862,Mississippi
+Biloxi,1698-F Pass Rd,Pizza Hut,"1698-F Pass Rd Biloxi, MS 39531 US",39531,30.403986,-88.966183,(228) 374-5503,Mississippi
+Biloxi,2176 Pass Rd.,Pizza Hut,"2176 Pass Rd. Biloxi, MS 39531 US",39531,30.403986,-88.966183,(228) 385-0643,Mississippi
+Booneville,429 N 2nd St,Pizza Hut,"429 N 2nd St Booneville, MS 38829 US",38829,34.650609,-88.527209,(662) 728-7505,Mississippi
+Brandon,115 Village Square,Pizza Hut,"115 Village Square Brandon, MS 39047 US",39047,32.421115,-89.945501,(601) 992-3174,Mississippi
+Brandon,316 Stribling Ln,Pizza Hut,"316 Stribling Ln Ste A Brandon, MS 39042 US",39042,32.197548,-89.895006,(601) 825-3226,Mississippi
+Brandon,643A Holly Bush Road,Pizza Hut,"643A Holly Bush Road Brandon, MS 39047 US",39047,32.421115,-89.945501,(601) 829-9533,Mississippi
+Brookhaven,1053 Brookway Blvd,Pizza Hut,"1053 Brookway Blvd Brookhaven, MS 39601 US",39601,31.56308,-90.471262,(601) 833-1659,Mississippi
+Byhalia,8157 MS-178 W,Pizza Hut,"8157 MS-178 W Byhalia, MS 38611 US",38611,34.856233,-89.67602,(662) 850-2000,Mississippi
+Byram,5806 Terry Rd,Pizza Hut,"5806 Terry Rd Byram, MS 39272 US",39272,32.19061,-90.258327,(601) 502-1729,Mississippi
+Canton,552 W Peace St,Pizza Hut,"552 W Peace St Canton, MS 39046 US",39046,32.632163,-89.983933,(601) 859-9067,Mississippi
+Carthage,610 Highway 35 S,Pizza Hut,"610 Highway 35 S Carthage, MS 39051 US",39051,32.778076,-89.490169,(601) 267-5658,Mississippi
+Cleveland,700 N Davis Ave,Pizza Hut,"700 N Davis Ave Cleveland, MS 38732 US",38732,33.758855,-90.725595,(662) 846-6111,Mississippi
+Clinton,105 US-80 E,Pizza Hut,"105 US-80 E Clinton, MS 39056 US",39056,32.373751,-90.350864,(601) 926-1204,Mississippi
+Collins,3275 Hwy. 49,Pizza Hut,"3275 Hwy. 49 Suite 60 Collins, MS 39428 US",39428,31.651053,-89.57284,(601) 765-4788,Mississippi
+Columbia,125 Walter Payton Dr,Pizza Hut,"125 Walter Payton Dr Columbia, MS 39429 US",39429,31.239384,-89.763166,(601) 736-1501,Mississippi
+Anaconda,401 E Park Ave,Pizza Hut,"401 E Park Ave Anaconda, MT 59711 US",59711,46.094962,-113.140153,(406) 563-8433,Montana
+Belgrade,7001 Jackrabbit Ln,Pizza Hut,"7001 Jackrabbit Ln Ste F Belgrade, MT 59714 US",59714,45.980279,-111.129807,(406) 388-8800,Montana
+Billings,1411 38th Street West Suite 1,Pizza Hut,"1411 38th Street West Suite 1 Suite 1 Billings, MT 59102 US",59102,45.775641,-108.580209,(406) 248-1444,Montana
+Billings,1419 Main St,Pizza Hut,"1419 Main St Billings, MT 59105 US",59105,45.892816,-108.497574,(406) 259-8424,Montana
+Billings,2530 W. King Ave.,Pizza Hut,"2530 W. King Ave. Billings, MT 59102 US",59102,45.775641,-108.580209,(406) 656-1717,Montana
+Billings,2636 Belknap Ave,Pizza Hut,"2636 Belknap Ave Billings, MT 59101 US",59101,45.613054,-108.390305,(406) 252-7500,Montana
+Bozeman,2300 W Main St,Pizza Hut,"2300 W Main St Bozeman, MT 59718 US",59718,45.576265,-111.118089,(406) 587-9500,Montana
+Butte,3040 Busch St,Pizza Hut,"3040 Busch St Butte, MT 59701 US",59701,46.035043,-112.47572,(406) 723-2323,Montana
+Columbia Falls,605 9th St W,Pizza Hut,"605 9th St W Columbia Falls, MT 59912 US",59912,48.408842,-114.154162,(406) 892-1111,Montana
+Cut Bank,609 W Main St,Pizza Hut,"609 W Main St Cut Bank, MT 59427 US",59427,48.770665,-112.534338,(406) 873-4145,Montana
+Dillon,800 N Idaho St,Pizza Hut,"800 N Idaho St Dillon, MT 59725 US",59725,45.098017,-112.821472,(406) 683-6111,Montana
+Glasgow,619 1st Ave N,Pizza Hut,"619 1st Ave N Glasgow, MT 59230 US",59230,48.13099,-106.800334,(406) 228-2411,Montana
+Glendive,1515 W. Bell St.,Pizza Hut,"1515 W. Bell St. West Plaza Shopping Ctr Glendive, MT 59330 US",59330,47.098693,-104.748781,(406) 365-6004,Montana
+Great Falls,1518 10th Ave S,Pizza Hut,"1518 10th Ave S Great Falls, MT 59405 US",59405,47.319261,-111.298533,(406) 761-4121,Montana
+Great Falls,4900 2nd Ave N,Pizza Hut,"4900 2nd Ave N Great Falls, MT 59405 US",59405,47.319261,-111.298533,(406) 727-1775,Montana
+Hamilton,1002 N 1st St,Pizza Hut,"1002 N 1st St Hamilton, MT 59840 US",59840,46.185492,-114.193659,(406) 363-1502,Montana
+Hardin,219 West 14th Street,Pizza Hut,"219 West 14th Street Hardin, MT 59034 US",59034,45.697037,-107.694239,(406) 665-3334,Montana
+Havre,330 W 1st St,Pizza Hut,"330 W 1st St Havre, MT 59501 US",59501,48.689862,-109.78113,(406) 265-6747,Montana
+Helena,2955 Prospect Ave,Pizza Hut,"2955 Prospect Ave Helena, MT 59601 US",59601,46.530509,-112.199726,(406) 449-7111,Montana
+Helena,3267 North Montana Ave.,Pizza Hut,"3267 North Montana Ave. Helena, MT 59602 US",59602,46.739365,-111.905529,(406) 495-9996,Montana
+Ahoskie,405 A Peacock,Pizza Hut,"405 A Peacock Ahoskie, NC 27910 US",27910,36.290066,-76.993185,(252) 332-6000,North Carolina
+Albemarle,701 Hwy 52 N,Pizza Hut,"701 Hwy 52 N Albemarle, NC 28001 US",28001,35.338552,-80.208179,(704) 983-2760,North Carolina
+Albemarle,812 Hwy 24-27 E Byp,Pizza Hut,"812 Hwy 24-27 E Byp Albemarle, NC 28001 US",28001,35.338552,-80.208179,(704) 982-2151,North Carolina
+Angier,333 N. Raleigh St.,Pizza Hut,"333 N. Raleigh St. Ste. C Angier, NC 27501 US",27501,35.484941,-78.68457,(919) 639-0773,North Carolina
+Apex,1201 Beaver Creek Commons Drive,Pizza Hut Express,"1201 Beaver Creek Commons Drive Apex, NC 27502 US",27502,35.71525,-78.920992,Not available,North Carolina
+Apex,760 W Williams St,Pizza Hut,"760 W Williams St Apex, NC 27502 US",27502,35.71525,-78.920992,(919) 267-4517,North Carolina
+Archdale,10102 S Main Street,Pizza Hut,"10102 S Main Street Archdale, NC 27263 US",27263,35.911522,-79.936799,(336) 861-1220,North Carolina
+Arden,12 Miami Cir,Pizza Hut,"12 Miami Cir Arden, NC 28704 US",28704,35.457584,-82.580359,(828) 684-3044,North Carolina
+Arden,17 McKenna Road,Pizza Hut Express,"17 McKenna Road Arden, NC 28704 US",28704,35.457584,-82.580359,Not available,North Carolina
+Asheboro,1315 E Dixie Hwy,Pizza Hut,"1315 E Dixie Hwy Asheboro, NC 27203 US",27203,35.728464,-79.786527,(336) 625-9631,North Carolina
+Asheville,353 New Leicester Hwy,Pizza Hut,"353 New Leicester Hwy Asheville, NC 28806 US",28806,35.571971,-82.614729,(828) 254-8388,North Carolina
+Asheville,497 Weaverville Rd,Pizza Hut,"497 Weaverville Rd Ingles Shopping Ctr. Asheville, NC 28804 US",28804,35.648442,-82.563811,(828) 645-5005,North Carolina
+Asheville,790-C Fairview Rd,Pizza Hut,"790-C Fairview Rd Asheville, NC 28805 US",28805,35.633754,-82.48318,(828) 274-8739,North Carolina
+Ayden,134 Hwy 102 West,Pizza Hut,"134 Hwy 102 West Ayden, NC 28513 US",28513,35.441502,-77.388857,(252) 746-0822,North Carolina
+Belmont,685 Park St.,Pizza Hut,"685 Park St. Abbey Plaza Belmont, NC 28012 US",28012,35.211504,-81.037865,(704) 825-7335,North Carolina
+Benson,670 E Parrish Drive,Pizza Hut,"670 E Parrish Drive Benson, NC 27504 US",27504,35.400309,-78.518278,(919) 701-1282,North Carolina
+Bessemer City,911 Gastonia Highway,Pizza Hut,"911 Gastonia Highway Bessemer City, NC 28016 US",28016,35.314932,-81.283292,(704) 629-5555,North Carolina
+Beulaville,104 East Main St.,Pizza Hut,"104 East Main St. Beulaville, NC 28518 US",28518,34.894823,-77.747493,(910) 298-2333,North Carolina
+Black Mountain,250 US Highway 9,Pizza Hut,"250 US Highway 9 Black Mountain, NC 28711 US",28711,35.605271,-82.291854,(828) 669-9455,North Carolina
+Boone,821 Blowing Rock Rd,Pizza Hut,"821 Blowing Rock Rd Boone, NC 28607 US",28607,36.218005,-81.652138,(828) 832-7300,North Carolina
+Bismarck,1012 S 12th St,Pizza Hut,"1012 S 12th St Ste 100 Bismarck, ND 58504 US",58504,46.737571,-100.678406,(701) 223-2300,North Dakota
+Bismarck,2020 N 12th St,Pizza Hut,"2020 N 12th St Bismarck, ND 58501 US",58501,46.816035,-100.700296,(701) 258-1100,North Dakota
+Bismarck,800 Kirkwood Mall,Pizza Hut Express,"800 Kirkwood Mall Bismarck, ND 58504 US",58504,46.737571,-100.678406,Not available,North Dakota
+Dickinson,22 S State Ave,Pizza Hut,"22 S State Ave Dickinson, ND 58601 US",58601,46.916872,-102.834258,(701) 225-8000,North Dakota
+Fargo,2812 Broadway North,Pizza Hut,"2812 Broadway North Fargo, ND 58102 US",58102,46.927094,-96.834703,Not available,North Dakota
+Fargo,3051 25th St S,Pizza Hut,"3051 25th St S Ste E Fargo, ND 58103 US",58103,46.85614,-96.822073,(701) 232-2900,North Dakota
+Fargo,4202 13th Ave South,Pizza Hut Express,"4202 13th Ave South Fargo, ND 58103 US",58103,46.85614,-96.822073,Not available,North Dakota
+Fargo,4701 13th Ave SW,Pizza Hut,"4701 13th Ave SW Fargo, ND 58103 US",58103,46.85614,-96.822073,(701) 281-9000,North Dakota
+Grand Forks,1418 S. Washington St.,Pizza Hut,"1418 S. Washington St. Grand Forks, ND 58201 US",58201,47.866638,-97.141144,(701) 772-6000,North Dakota
+Grand Forks,3601 32nd Avenue South,Pizza Hut Express,"3601 32nd Avenue South Target - T1783 Grand Forks, ND 58201 US",58201,47.866638,-97.141144,Not available,North Dakota
+Mandan,503 E Main St,Pizza Hut,"503 E Main St Ste 1 Mandan, ND 58554 US",58554,46.742723,-100.9353,(701) 663-8095,North Dakota
+Minot,1407 S Broadway,Pizza Hut,"1407 S Broadway Minot, ND 58701 US",58701,48.144826,-101.326016,(701) 852-2000,North Dakota
+Steele,620 Mitchell Avenue,Pizza Hut Express,"620 Mitchell Avenue Coffee Cup Fuel Stop #2 Steele, ND 58482 US",58482,46.853459,-99.899917,Not available,North Dakota
+West Fargo,3163 Bluestem Dr,Pizza Hut,"3163 Bluestem Dr Suite 103 West Fargo, ND 58078 US",58078,46.8625,-96.924088,(701) 433-1793,North Dakota
+Williston,2609 1st Ave. West,Pizza Hut,"2609 1st Ave. West Williston, ND 58801 US",58801,48.21789,-103.763084,(701) 572-9000,North Dakota
+Ainsworth,1065 E 4th,Pizza Hut,"1065 E 4th Ainsworth, NE 69210 US",69210,42.359562,-99.92392,(402) 387-1830,Nebraska
+Albion,236 S 2nd St,Pizza Hut,"236 S 2nd St Albion, NE 68620 US",68620,41.744793,-98.076696,(402) 395-6281,Nebraska
+Alliance,1239 W 3rd St,Pizza Hut,"1239 W 3rd St Alliance, NE 69301 US",69301,42.122965,-102.88128,(308) 762-2920,Nebraska
+Auburn,909 Alden Dr,Pizza Hut,"909 Alden Dr Auburn, NE 68305 US",68305,40.370253,-95.864948,(402) 274-4391,Nebraska
+Aurora,1515 10th St,Pizza Hut,"1515 10th St Aurora, NE 68818 US",68818,40.817854,-98.005876,(402) 694-6599,Nebraska
+Beatrice,2400 N 6th St,Pizza Hut,"2400 N 6th St Beatrice, NE 68310 US",68310,40.249821,-96.74949,(402) 228-3317,Nebraska
+Bellevue,11515 S 36th St,Pizza Hut,"11515 S 36th St Bellevue, NE 68123 US",68123,41.101821,-95.943504,(402) 291-2999,Nebraska
+Bellevue,1411 Galvin Rd S,Pizza Hut,"1411 Galvin Rd S Bellevue, NE 68005 US",68005,41.142686,-95.892969,(402) 291-5900,Nebraska
+Blair,1045 S Highway 30,Pizza Hut,"1045 S Highway 30 Blair, NE 68008 US",68008,41.546834,-96.162598,(402) 426-4006,Nebraska
+Broken Bow,329 E South E St,Pizza Hut,"329 E South E St Broken Bow, NE 68822 US",68822,41.380918,-99.631719,(308) 872-6472,Nebraska
+Central City,1202 G St,Pizza Hut,"1202 G St Central City, NE 68826 US",68826,41.163588,-98.016399,(308) 946-3013,Nebraska
+Chadron,277 Lake,Pizza Hut,"277 Lake Chadron, NE 69337 US",69337,42.827175,-103.012899,(308) 432-4408,Nebraska
+Columbus,2510 23rd St,Pizza Hut,"2510 23rd St Columbus, NE 68601 US",68601,41.454231,-97.398164,(402) 564-3366,Nebraska
+Cozad,315 S Meridian Ave,Pizza Hut,"315 S Meridian Ave Cozad, NE 69130 US",69130,40.894116,-99.952965,(308) 784-2200,Nebraska
+Crete,845 East Hwy. 33,Pizza Hut,"845 East Hwy. 33 Crete, NE 68333 US",68333,40.622345,-96.949349,(402) 826-4361,Nebraska
+Fairbury,505 E 14th St,Pizza Hut,"505 E 14th St Fairbury, NE 68352 US",68352,40.142403,-97.229238,(402) 729-6106,Nebraska
+Fremont,1781 East 23rd South,Pizza Hut,"1781 East 23rd South Fremont, NE 68025 US",68025,41.437235,-96.48788,(402) 721-1212,Nebraska
+Gordon,100 E Hwy 20,Pizza Hut,"100 E Hwy 20 Gordon, NE 69343 US",69343,42.702367,-102.033115,(308) 282-0500,Nebraska
+Gothenburg,415 Platte River Drive,Pizza Hut,"415 Platte River Drive Gothenburg, NE 69138 US",69138,40.995816,-100.176551,(308) 537-3697,Nebraska
+Grand Island,1608 S. Locust,Pizza Hut,"1608 S. Locust Grand Island, NE 68801 US",68801,40.947669,-98.292138,(308) 398-1219,Nebraska
+Grand Island,707 N Diers Ave,Pizza Hut,"707 N Diers Ave Grand Island, NE 68803 US",68803,40.956077,-98.414575,(308) 398-2093,Nebraska
+Bedford,220 S. River Road,Pizza Hut Express,"220 S. River Road Bedford, NH 03110 US",3110,42.935584,-71.536871,Not available,New Hampshire
+Claremont,227 Washington St,Pizza Hut,"227 Washington St Claremont, NH 03743 US",3743,43.360727,-72.326929,(603) 543-1243,New Hampshire
+Concord,148 Loudon Rd,Pizza Hut,"148 Loudon Rd Concord, NH 03301 US",3301,43.238549,-71.555988,(603) 224-3231,New Hampshire
+Dover,915 Central Ave,Pizza Hut,"915 Central Ave Dover, NH 03820 US",3820,43.190658,-70.887655,(603) 742-3949,New Hampshire
+Greenland,1450 Greenland Road,Pizza Hut Express,"1450 Greenland Road Greenland, NH 03840 US",3840,43.039732,-70.845622,Not available,New Hampshire
+Keene,46 Ash Brook Road,Pizza Hut Express,"46 Ash Brook Road Keene, NH 03431 US",3431,42.965044,-72.294803,Not available,New Hampshire
+Manchester,503 Maple St,Pizza Hut,"503 Maple St Manchester, NH 03104 US",3104,43.009552,-71.439782,(603) 623-4838,New Hampshire
+Merrimack,727 Milford Rd,Pizza Hut,"727 Milford Rd Merrimack, NH 03054 US",3054,42.852034,-71.519876,(603) 883-5599,New Hampshire
+Nashua,199 Daniel Webster Hwy S,Pizza Hut,"199 Daniel Webster Hwy S Nashua, NH 03060 US",3060,42.741087,-71.458266,(603) 888-3553,New Hampshire
+Rochester,303 N. Main Street,Pizza Hut,"303 N. Main Street Rochester, NH 03866 US",3866,0,0,(603) 332-6633,New Hampshire
+Salem,15 Mall Road,Pizza Hut Express,"15 Mall Road Cinemark Salem #1149 Salem, NH 03079 US",3079,42.788264,-71.221726,Not available,New Hampshire
+Somersworth,11 Andrews Rd,Pizza Hut Express,"11 Andrews Rd Somersworth, NH 03878 US",3878,43.253476,-70.887944,Not available,New Hampshire
+Tilton,15 Lowes Drive,Pizza Hut,"15 Lowes Drive Tilton, NH 03276 US",3276,43.431031,-71.575998,(603) 286-3898,New Hampshire
+Absecon,335 E White Horse Pike,Pizza Hut,"335 E White Horse Pike Absecon, NJ 08205 US",8205,39.482,-74.452637,(609) 748-0332,New Jersey
+Atlantic City,1541 Atlantic Ave.,Pizza Hut,"1541 Atlantic Ave. Atlantic City, NJ 08401 US",8401,39.377297,-74.451082,(609) 428-4020,New Jersey
+Avenel,1236 Saint Georges Ave,Pizza Hut,"1236 Saint Georges Ave Avenel, NJ 07001 US",7001,40.582316,-74.271506,(848) 304-5500,New Jersey
+Bayonne,1347 Kennedy Blvd,Pizza Hut,"1347 Kennedy Blvd Bayonne, NJ 07002 US",7002,40.662338,-74.110275,(201) 436-8000,New Jersey
+Belleville,720 Washington Ave,Pizza Hut,"720 Washington Ave Belleville, NJ 07109 US",7109,40.794927,-74.162353,(973) 759-8244,New Jersey
+Bergenfield,391 S Washington Ave,Pizza Hut,"391 S Washington Ave Bergenfield, NJ 07621 US",7621,40.922334,-73.998001,(201) 385-9100,New Jersey
+Bloomfield,222 Bloomfield Ave,Pizza Hut,"222 Bloomfield Ave Bloomfield, NJ 07003 US",7003,40.809128,-74.187155,(973) 415-1003,New Jersey
+Brick,570 Route 70,Pizza Hut Express,"570 Route 70 Brick, NJ 08723 US",8723,40.038584,-74.1116,Not available,New Jersey
+Bridgeton,45 Cornwell Drive,Pizza Hut,"45 Cornwell Drive Bridgeton, NJ 08302 US",8302,39.438613,-75.260646,(856) 459-5769,New Jersey
+Bridgewater,200 Promenade Blvd.,Pizza Hut Express,"200 Promenade Blvd. Bridgewater, NJ 08807 US",8807,40.592434,-74.61884,Not available,New Jersey
+Cherry Hill,2137 Route 38,Pizza Hut Express,"2137 Route 38 Cherry Hill, NJ 08002 US",8002,39.931978,-75.027557,Not available,New Jersey
+Cherry Hill,512 Haddonfield Road Chapel Plaza,Pizza Hut,"512 Haddonfield Road Chapel Plaza Suite 3 Cherry Hill, NJ 08002 US",8002,39.931978,-75.027557,(856) 429-6688,New Jersey
+Clementon,144 Berlin Road,Pizza Hut Express,"144 Berlin Road #4504 Clementon, NJ 08021 US",8021,39.806194,-75.000151,Not available,New Jersey
+Clementon,1488 Blackwood-Clementon Rd,Pizza Hut,"1488 Blackwood-Clementon Rd Clementon, NJ 08021 US",8021,39.806194,-75.000151,(856) 346-2104,New Jersey
+Clifton,30 Kingsland Road,Pizza Hut Express,"30 Kingsland Road Target - T1822 Clifton, NJ 07014 US",7014,40.831339,-74.135419,Not available,New Jersey
+Clifton,850 Van Houten Ave,Pizza Hut,"850 Van Houten Ave Clifton, NJ 07013 US",7013,40.869405,-74.173062,(973) 773-7575,New Jersey
+Columbia,2 Simpson Road,Pizza Hut Express,"2 Simpson Road Travel Centers Of America Columbia, NJ 07832 US",7832,40.962126,-75.053728,Not available,New Jersey
+Delran,4000 Route 130,Pizza Hut Express,"4000 Route 130 Delran, NJ 08075 US",8075,40.029586,-74.948936,Not available,New Jersey
+Edison,100 Parsonage Road,Pizza Hut Express,"100 Parsonage Road Edison, NJ 08817 US",8817,40.514658,-74.393104,Not available,New Jersey
+Edison,1908A Route 27,Pizza Hut,"1908A Route 27 Edison, NJ 08817 US",8817,40.514658,-74.393104,(732) 287-6410,New Jersey
+Alamogordo,615 S. White Sands Blvd.,Pizza Hut,"615 S. White Sands Blvd. Alamogordo, NM 88310 US",88310,32.641272,-106.072883,(575) 437-9785,New Mexico
+Albuquerque,1020 Juan T.B. Blvd NE,Pizza Hut,"1020 Juan T.B. Blvd NE Albuquerque, NM 87112 US",87112,35.100609,-106.516275,(505) 294-9800,New Mexico
+Albuquerque,10660 Unser Blvd,Pizza Hut,"10660 Unser Blvd Suite C Albuquerque, NM 87114 US",87114,35.19364,-106.685666,(505) 792-3344,New Mexico
+Albuquerque,11120 Lomas Blvd NE,Pizza Hut Express,"11120 Lomas Blvd NE Albuquerque, NM 87123 US",87123,35.067584,-106.470746,Not available,New Mexico
+Albuquerque,2120 Louisiana Blvd NE,Pizza Hut Express,"2120 Louisiana Blvd NE Albuquerque, NM 87110 US",87110,35.108194,-106.578147,Not available,New Mexico
+Albuquerque,2916 San Mateo NE,Pizza Hut,"2916 San Mateo NE Albuquerque, NM 87110 US",87110,35.108194,-106.578147,(505) 880-1300,New Mexico
+Albuquerque,303 Coors Blvd NW,Pizza Hut,"303 Coors Blvd NW Albuquerque, NM 87121 US",87121,35.08917,-106.871772,(505) 831-1133,New Mexico
+Albuquerque,3055 Coors Blvd,Pizza Hut,"3055 Coors Blvd Albuquerque, NM 87121 US",87121,35.08917,-106.871772,(505) 873-3753,New Mexico
+Albuquerque,410 Washington SE,Pizza Hut,"410 Washington SE Albuquerque, NM 87108 US",87108,35.072479,-106.578362,(505) 266-6666,New Mexico
+Albuquerque,4400 Wyoming Blvd. NE,Pizza Hut,"4400 Wyoming Blvd. NE Albuquerque, NM 87109 US",87109,35.152882,-106.575536,(505) 293-2500,New Mexico
+Albuquerque,4801 Montano Rd NW,Pizza Hut,"4801 Montano Rd NW Suite B9 Albuquerque, NM 87120 US",87120,35.140539,-106.760969,(505) 898-7900,New Mexico
+Albuquerque,4901 Pan American Pl NE,Pizza Hut Express,"4901 Pan American Pl NE Century Rio 24 Plex #419 Albuquerque, NM 87109 US",87109,35.152882,-106.575536,Not available,New Mexico
+Albuquerque,5801 Wyoming Blvd NE,Pizza Hut Express,"5801 Wyoming Blvd NE Albuquerque, NM 87109 US",87109,35.152882,-106.575536,Not available,New Mexico
+Albuquerque,6100 Paseo Del Norte N.E.,Pizza Hut Express,"6100 Paseo Del Norte N.E. Albuquerque, NM 87109 US",87109,35.152882,-106.575536,Not available,New Mexico
+Albuquerque,700 Lomas Blvd NW,Pizza Hut,"700 Lomas Blvd NW Albuquerque, NM 87102 US",87102,35.081357,-106.646575,(505) 242-9400,New Mexico
+Albuquerque,7120 Wyoming NE,Pizza Hut,"7120 Wyoming NE Suite 1A Albuquerque, NM 87109 US",87109,35.152882,-106.575536,(505) 821-3222,New Mexico
+Albuquerque,8700 Central SE,Pizza Hut,"8700 Central SE Albuquerque, NM 87123 US",87123,35.067584,-106.470746,(505) 255-9000,New Mexico
+Albuquerque,9395 Coors Rd NW,Pizza Hut Express,"9395 Coors Rd NW Albuquerque, NM 87114 US",87114,35.19364,-106.685666,Not available,New Mexico
+Artesia,1911 W. Main,Pizza Hut,"1911 W. Main Artesia, NM 88210 US",88210,32.771797,-104.219669,(575) 748-1204,New Mexico
+Aztec,222 W Aztec Blvd,Pizza Hut,"222 W Aztec Blvd Aztec, NM 87410 US",87410,36.868277,-107.882308,(505) 334-7516,New Mexico
+Carson City,2441 N Carson St,Pizza Hut,"2441 N Carson St Carson City, NV 89706 US",89706,39.222699,-119.701535,(775) 882-5878,Nevada
+Dayton,9 Retail Rd.,Pizza Hut,"9 Retail Rd. #8 Dayton, NV 89403 US",89403,39.227192,-119.475598,(775) 246-0481,Nevada
+Elko,2200 Idaho St,Pizza Hut,"2200 Idaho St Elko, NV 89801 US",89801,41.247991,-115.761405,(775) 738-2171,Nevada
+Fallon,615 E. Williams Ave.,Pizza Hut,"615 E. Williams Ave. Fallon, NV 89406 US",89406,39.53771,-118.264165,(775) 423-1123,Nevada
+Fernley,1201 Penny Lane,Pizza Hut,"1201 Penny Lane Fernley, NV 89408 US",89408,39.565417,-119.174165,(775) 835-8198,Nevada
+Henderson,10525 S Eastern Ave.,Pizza Hut,"10525 S Eastern Ave. #130 Henderson, NV 89052 US",89052,35.955108,-115.056693,(702) 407-0912,Nevada
+Henderson,1280 Warm Springs Rd.,Pizza Hut,"1280 Warm Springs Rd. Henderson, NV 89014 US",89014,36.061718,-115.058058,(702) 451-9011,Nevada
+Henderson,1500 N Green Valley Pkwy.,Pizza Hut,"1500 N Green Valley Pkwy. #120 Bldg 100 Henderson, NV 89074 US",89074,36.036567,-115.080932,(702) 260-9011,Nevada
+Henderson,2850 Bicentennial Pkwy.,Pizza Hut,"2850 Bicentennial Pkwy. #130 Henderson, NV 89044 US",89044,35.902434,-115.178912,(702) 260-0679,Nevada
+Henderson,350 West Lake Mead Parkway,Pizza Hut Express,"350 West Lake Mead Parkway Henderson, NV 89015 US",89015,36.039314,-114.928032,Not available,Nevada
+Henderson,605 N. Stephanie Street,Pizza Hut Express,"605 N. Stephanie Street Henderson, NV 89014 US",89014,36.061718,-115.058058,Not available,Nevada
+Henderson,642 E. Horizon Dr.,Pizza Hut,"642 E. Horizon Dr. #130 Henderson, NV 89015 US",89015,36.039314,-114.928032,(702) 558-9032,Nevada
+Henderson,6510 Boulder Hwy,Pizza Hut,"6510 Boulder Hwy Bldg F #102 Henderson, NV 89122 US",89122,36.106432,-115.040286,(702) 433-3371,Nevada
+Henderson,695 South Green Valley Parkway,Pizza Hut Express,"695 South Green Valley Parkway Henderson, NV 89052 US",89052,35.955108,-115.056693,Not available,Nevada
+Henderson,714 S Boulder Hwy,Pizza Hut,"714 S Boulder Hwy Henderson, NV 89015 US",89015,36.039314,-114.928032,(702) 566-9011,Nevada
+Las Vegas,10260 W. Charleston Blvd,Pizza Hut,"10260 W. Charleston Blvd #J5 Las Vegas, NV 89135 US",89135,36.100973,-115.375908,(702) 341-9110,Nevada
+Las Vegas,10420 W Cheyenne Ave.,Pizza Hut,"10420 W Cheyenne Ave. Suite 110 Las Vegas, NV 89129 US",89129,36.233315,-115.29015,(702) 395-9011,Nevada
+Las Vegas,10520 Southern Highlands Pkwy.,Pizza Hut,"10520 Southern Highlands Pkwy. Las Vegas, NV 89141 US",89141,35.988424,-115.207059,(702) 407-9090,Nevada
+Las Vegas,1131 Tropicana Ave,Pizza Hut,"1131 Tropicana Ave Suite B Las Vegas, NV 89119 US",89119,36.084721,-115.146129,(702) 732-9011,Nevada
+Las Vegas,115 E. Tropicana Ave.,Pizza Hut Express,"115 E. Tropicana Ave. Hooter's Casino & Hotel Las Vegas, NV 89119 US",89119,36.084721,-115.146129,Not available,Nevada
+Las Vegas,1840 East Charleston Blvd.,Pizza Hut,"1840 East Charleston Blvd. K6 Las Vegas, NV 89104 US",89104,36.151382,-115.108648,(702) 385-9011,Nevada
+Las Vegas,2600 W Sahara Ave,Pizza Hut,"2600 W Sahara Ave Suite 102 Las Vegas, NV 89102 US",89102,36.14543,-115.186825,(702) 362-9011,Nevada
+Las Vegas,2625 E Tropicana Ave,Pizza Hut,"2625 E Tropicana Ave Ste H Las Vegas, NV 89121 US",89121,36.121526,-115.091277,(702) 435-9011,Nevada
+Las Vegas,274 S Decatur Blvd,Pizza Hut,"274 S Decatur Blvd Las Vegas, NV 89107 US",89107,36.171241,-115.209288,(702) 258-9011,Nevada
+Las Vegas,3050 E Desert Inn Rd.,Pizza Hut,"3050 E Desert Inn Rd. #101 Las Vegas, NV 89121 US",89121,36.121526,-115.091277,(702) 735-9011,Nevada
+Las Vegas,3101 Las Vegas Blvd N,Pizza Hut,"3101 Las Vegas Blvd N Las Vegas, NV 89115 US",89115,36.25364,-115.041052,(702) 644-9011,Nevada
+Las Vegas,3411 S. Las Vegas Blvd,Pizza Hut Express,"3411 S. Las Vegas Blvd Casino Royale Las Vegas, NV 89109 US",89109,36.13172,-115.168382,Not available,Nevada
+Las Vegas,345 E Silverado Ranch Blvd,Pizza Hut,"345 E Silverado Ranch Blvd Ste 120 Las Vegas, NV 89183 US",89183,35.995843,-115.157612,(702) 799-9077,Nevada
+Las Vegas,3850 Las Vegas Blvd. South,Pizza Hut Express,"3850 Las Vegas Blvd. South Excalibur Hotel And Casino Las Vegas, NV 89109 US",89109,36.13172,-115.168382,Not available,Nevada
+Las Vegas,4001 South Maryland Parkway,Pizza Hut Express,"4001 South Maryland Parkway Las Vegas, NV 89119 US",89119,36.084721,-115.146129,Not available,Nevada
+Albany,203 Wolf Rd,Pizza Hut,"203 Wolf Rd Albany, NY 12205 US",12205,42.718785,-73.82924,(518) 458-1221,New York
+Amherst,4005 Sheridan Dr,Pizza Hut,"4005 Sheridan Dr Amherst, NY 14226 US",14226,42.971014,-78.796455,(716) 810-7693,New York
+Amsterdam,100 Amsterdam Commons,Pizza Hut Express,"100 Amsterdam Commons Amsterdam, NY 12010 US",12010,42.937632,-74.173325,Not available,New York
+Astoria,3078 Steinway Street,Pizza Hut,"3078 Steinway Street Inline Txpx Astoria, NY 11103 US",11103,40.762574,-73.913447,Not available,New York
+Auburn,374 Grant Avenue,Pizza Hut,"374 Grant Avenue Auburn, NY 13021 US",13021,42.922279,-76.558539,(315) 255-2756,New York
+Batavia,4300 Veterans Memorial Drive,Pizza Hut Express,"4300 Veterans Memorial Drive Batavia, NY 14020 US",14020,42.99619,-78.213412,Not available,New York
+Bath,31 West Morris Street,Pizza Hut,"31 West Morris Street Bath, NY 14810 US",14810,42.349751,-77.343379,Not available,New York
+Brentwood,1490 Islip Ave,Pizza Hut Express,"1490 Islip Ave Kings Brentwood C-Store Brentwood, NY 11717 US",11717,40.783805,-73.252263,Not available,New York
+Brentwood,717 Suffolk Ave,Pizza Hut,"717 Suffolk Ave Brentwood, NY 11717 US",11717,40.783805,-73.252263,(631) 231-2323,New York
+Brockport,64 N Main St,Pizza Hut,"64 N Main St Brockport, NY 14420 US",14420,43.211739,-77.934564,(585) 637-2154,New York
+Bronx,1048 Ogden Ave,Pizza Hut,"1048 Ogden Ave Bronx, NY 10452 US",10452,40.837393,-73.923437,(347) 226-5938,New York
+Bronx,2019 Westchester Avenue,Pizza Hut,"2019 Westchester Avenue Bronx, NY 10462 US",10462,40.84328,-73.860389,(718) 822-2909,New York
+Bronx,213 W 230th Street,Pizza Hut,"213 W 230th Street Bronx, NY 10463 US",10463,40.880678,-73.90654,(718) 530-1007,New York
+Bronx,2148 White Plains Road,Pizza Hut Express,"2148 White Plains Road Bronx, NY 10462 US",10462,40.84328,-73.860389,Not available,New York
+Bronx,2829 Edson Avenue,Pizza Hut,"2829 Edson Avenue Bronx, NY 10469 US",10469,40.868607,-73.848133,(718) 320-0126,New York
+Bronx,306 E 204th St,Pizza Hut,"306 E 204th St Bronx, NY 10467 US",10467,40.869953,-73.865746,(516) 706-0560,New York
+Bronx,3429 E Tremont Ave,Pizza Hut,"3429 E Tremont Ave Bronx, NY 10465 US",10465,40.822615,-73.822239,(718) 414-1113,New York
+Bronx,40 W. 225th Street,Pizza Hut Express,"40 W. 225th Street #50 Bronx, NY 10463 US",10463,40.880678,-73.90654,Not available,New York
+Bronx,601 Westchester Avenue,Pizza Hut,"601 Westchester Avenue Bronx, NY 10455 US",10455,40.81471,-73.908593,(718) 585-1401,New York
+Bronx,700 Exterior Street,Pizza Hut Express,"700 Exterior Street Bronx, NY 10451 US",10451,40.820479,-73.925084,Not available,New York
+Bronx,765 E Gun Hill Rd,Pizza Hut,"765 E Gun Hill Rd Bronx, NY 10467 US",10467,40.869953,-73.865746,(718) 547-2716,New York
+Bronx,815 E. Hutchinson River Parkway,Pizza Hut Express,"815 E. Hutchinson River Parkway Bronx, NY 10465 US",10465,40.822615,-73.822239,Not available,New York
+Akron,1591 Copley Rd,Pizza Hut,"1591 Copley Rd Akron, OH 44320 US",44320,41.07314,-81.582414,(330) 864-4444,Ohio
+Akron,1694 W Market St,Pizza Hut,"1694 W Market St Akron, OH 44313 US",44313,41.130094,-81.573169,(330) 869-4848,Ohio
+Akron,2383 S Main St,Pizza Hut,"2383 S Main St Akron, OH 44319 US",44319,40.98153,-81.527413,(330) 724-2229,Ohio
+Akron,2665 Manchester Rd,Pizza Hut,"2665 Manchester Rd Akron, OH 44319 US",44319,40.98153,-81.527413,(330) 745-4000,Ohio
+Akron,2797 E Waterloo Rd,Pizza Hut,"2797 E Waterloo Rd Akron, OH 44312 US",44312,41.01412,-81.443701,(330) 784-2525,Ohio
+Akron,396 East Market,Pizza Hut,"396 East Market Akron, OH 44304 US",44304,41.083177,-81.507852,(330) 535-4444,Ohio
+Alliance,2200 W State Street,Pizza Hut,"2200 W State Street Alliance, OH 44601 US",44601,40.918593,-81.128745,(330) 823-4433,Ohio
+Amelia,1761 E Ohio Pike,Pizza Hut,"1761 E Ohio Pike Amelia, OH 45102 US",45102,39.01719,-84.204345,(513) 797-7100,Ohio
+Amherst,8000 Oak Point Road,Pizza Hut Express,"8000 Oak Point Road Amherst, OH 44001 US",44001,41.366331,-82.259924,Not available,Ohio
+Ashland,1274 Claremont Ave,Pizza Hut,"1274 Claremont Ave Ashland, OH 44805 US",44805,40.872668,-82.317033,(419) 281-8999,Ohio
+Ashland,715 U.S. Highway 250 East,Pizza Hut Express,"715 U.S. Highway 250 East Travel Centers Of America Ashland, OH 44805 US",44805,40.872668,-82.317033,Not available,Ohio
+Ashland,715 U.S. Highway 250 East,Pizza Hut,"715 U.S. Highway 250 East Travel Centers Of America Ashland, OH 44805 US",44805,40.872668,-82.317033,Not available,Ohio
+Ashtabula,1951 W Prospect Rd,Pizza Hut,"1951 W Prospect Rd Ashtabula, OH 44004 US",44004,41.85594,-80.791866,(440) 992-2828,Ohio
+Athens,743 East State Street,Pizza Hut,"743 East State Street Suite D-1 Athens, OH 45701 US",45701,39.311963,-82.08602,(740) 594-8195,Ohio
+Aurora,18855 Market,Pizza Hut Express,"18855 Market Aurora, OH 44202 US",44202,41.315087,-81.338371,Not available,Ohio
+Aurora,70 Barrington Town Square Dr,Pizza Hut,"70 Barrington Town Square Dr Aurora, OH 44202 US",44202,41.315087,-81.338371,(330) 562-1888,Ohio
+Avon Lake,377 Lear Rd,Pizza Hut,"377 Lear Rd Ste A Avon Lake, OH 44012 US",44012,41.498342,-82.017368,(440) 930-8600,Ohio
+Bay Village,380 Dover Center Rd,Pizza Hut,"380 Dover Center Rd Bay Village, OH 44140 US",44140,41.487794,-81.931435,(440) 835-7050,Ohio
+Beavercreek,1195 N Fairfield Rd,Pizza Hut,"1195 N Fairfield Rd Beavercreek, OH 45432 US",45432,39.739492,-84.085195,(937) 956-7676,Ohio
+Beavercreek,4489 Glengarry Dr,Pizza Hut Express,"4489 Glengarry Dr The Greene 14 #1102 Beavercreek, OH 45440 US",45440,39.674725,-84.097808,Not available,Ohio
+Ada,1230 N Mississippi Ave,Pizza Hut,"1230 N Mississippi Ave Ada, OK 74820 US",74820,34.788674,-96.715184,(580) 332-5662,Oklahoma
+Altus,1201 E Broadway St,Pizza Hut,"1201 E Broadway St Altus, OK 73521 US",73521,34.641313,-99.31594,(580) 477-4444,Oklahoma
+Altus,1703 N Main St,Pizza Hut,"1703 N Main St Altus, OK 73521 US",73521,34.641313,-99.31594,(580) 477-1376,Oklahoma
+Alva,205 E Oklahoma Blvd.,Pizza Hut,"205 E Oklahoma Blvd. Alva, OK 73717 US",73717,36.848381,-98.764389,(580) 327-2430,Oklahoma
+Anadarko,925 S. Mission,Pizza Hut,"925 S. Mission Anadarko, OK 73005 US",73005,35.051308,-98.240141,(405) 247-7385,Oklahoma
+Ardmore,1606 N. Commerce,Pizza Hut,"1606 N. Commerce Ardmore, OK 73401 US",73401,34.203289,-97.11552,(580) 226-2502,Oklahoma
+Ardmore,410 S Rockford Rd,Pizza Hut,"410 S Rockford Rd Ardmore, OK 73401 US",73401,34.203289,-97.11552,(580) 226-5050,Oklahoma
+Atoka,1815 S Mississippi/Hwy 69 South,Pizza Hut,"1815 S Mississippi/Hwy 69 South Atoka, OK 74525 US",74525,34.336039,-96.068096,(580) 889-6644,Oklahoma
+Bartlesville,300 S Cherokee Ave,Pizza Hut,"300 S Cherokee Ave Bartlesville, OK 74003 US",74003,36.728272,-96.067573,(918) 336-3771,Oklahoma
+Bartlesville,3085 SE Washington Blvd,Pizza Hut,"3085 SE Washington Blvd Bartlesville, OK 74006 US",74006,36.712435,-95.895038,(918) 333-7711,Oklahoma
+Beaver,415 Douglas,Pizza Hut,"415 Douglas Hwy 270 Beaver, OK 73932 US",73932,36.70692,-100.492472,(580) 625-3448,Oklahoma
+Bethany,6808 NW 23rd,Pizza Hut,"6808 NW 23rd Bethany, OK 73008 US",73008,35.513888,-97.647993,(405) 789-8686,Oklahoma
+Bixby,12102 S Memorial Dr,Pizza Hut,"12102 S Memorial Dr Bixby, OK 74008 US",74008,35.924521,-95.877641,(918) 369-2071,Oklahoma
+Blackwell,528 W Doolin Ave.,Pizza Hut,"528 W Doolin Ave. Blackwell, OK 74631 US",74631,36.792837,-97.305252,(580) 363-5011,Oklahoma
+Bristow,800 N Main St,Pizza Hut,"800 N Main St Bristow, OK 74010 US",74010,35.814546,-96.363831,(918) 367-3353,Oklahoma
+Broken Arrow,1150 East Hillside Drive,Pizza Hut Express,"1150 East Hillside Drive Broken Arrow, OK 74012 US",74012,36.051414,-95.805721,Not available,Oklahoma
+Broken Arrow,2302 E Kenosha St,Pizza Hut,"2302 E Kenosha St Broken Arrow, OK 74014 US",74014,36.055628,-95.680816,(918) 355-1530,Oklahoma
+Broken Arrow,3321 S. Elm,Pizza Hut,"3321 S. Elm Broken Arrow, OK 74012 US",74012,36.051414,-95.805721,(918) 451-1190,Oklahoma
+Broken Arrow,802 S Aspen Ave,Pizza Hut,"802 S Aspen Ave Broken Arrow, OK 74012 US",74012,36.051414,-95.805721,(918) 251-4155,Oklahoma
+Broken Bow,703 S Park Dr,Pizza Hut,"703 S Park Dr Broken Bow, OK 74728 US",74728,34.150313,-94.802807,(405) 898-0780,Oklahoma
+Albany,2215 14th Ave SE,Pizza Hut,"2215 14th Ave SE Albany, OR 97322 US",97322,44.627553,-123.017613,(541) 926-1643,Oregon
+Baker City,780 Campbell Street,Pizza Hut,"780 Campbell Street Baker City, OR 97814 US",97814,44.827571,-117.757799,(541) 523-7781,Oregon
+Beaverton,6047 SW 185th Ave,Pizza Hut,"6047 SW 185th Ave Beaverton, OR 97007 US",97007,45.454271,-122.879619,(503) 591-9651,Oregon
+Beaverton,9458 SW Allen Blvd,Pizza Hut,"9458 SW Allen Blvd Beaverton, OR 97005 US",97005,45.490959,-122.803586,(503) 244-8610,Oregon
+Bend,740 NE 3rd St.,Pizza Hut,"740 NE 3rd St. Bend, OR 97701 US",97701,44.112338,-121.20634,(541) 382-1191,Oregon
+Central Point,507 S. Front,Pizza Hut,"507 S. Front #1 Central Point, OR 97502 US",97502,42.414574,-122.954536,(541) 664-1199,Oregon
+Clackamas,9000 SE Sunnyside Road,Pizza Hut Express,"9000 SE Sunnyside Road Clackamas, OR 97015 US",97015,45.413524,-122.536758,Not available,Oregon
+Corvallis,700 NE Circle Blvd,Pizza Hut,"700 NE Circle Blvd Corvallis, OR 97330 US",97330,44.647997,-123.259576,(541) 753-1240,Oregon
+Dallas,244 Main St,Pizza Hut,"244 Main St Dallas, OR 97338 US",97338,44.926618,-123.347413,(971) 289-0020,Oregon
+Eugene,1930 River Road,Pizza Hut,"1930 River Road Eugene, OR 97404 US",97404,44.105457,-123.133235,(541) 688-1800,Oregon
+Eugene,3577 W 11th Ave,Pizza Hut,"3577 W 11th Ave Eugene, OR 97402 US",97402,44.047736,-123.230905,(541) 344-4141,Oregon
+Eugene,579 E Broadway,Pizza Hut,"579 E Broadway Eugene, OR 97401 US",97401,44.067988,-123.080181,(541) 686-1166,Oregon
+Forest Grove,2323 Pacific Ave.,Pizza Hut,"2323 Pacific Ave. Forest Grove, OR 97116 US",97116,45.580822,-123.165693,(503) 357-3368,Oregon
+Happy Valley,10723 SE 82nd Ave,Pizza Hut,"10723 SE 82nd Ave Happy Valley, OR 97086 US",97086,45.445048,-122.528173,(503) 652-1361,Oregon
+Happy Valley,14679 SE Sunnyside Rd,Pizza Hut,"14679 SE Sunnyside Rd Ste B Happy Valley, OR 97015 US",97015,45.413524,-122.536758,(971) 206-6490,Oregon
+Hermiston,1125 N 1st St,Pizza Hut,"1125 N 1st St Hermiston, OR 97838 US",97838,45.853004,-119.287265,(541) 567-7177,Oregon
+Hillsboro,1335 NW 185th Ave,Pizza Hut,"1335 NW 185th Ave Hillsboro, OR 97006 US",97006,45.517009,-122.859817,(503) 629-0858,Oregon
+Keizer,4492 River Rd N,Pizza Hut,"4492 River Rd N Keizer, OR 97303 US",97303,45.030354,-123.023689,(503) 390-9400,Oregon
+King City,15715 SW 116th Ave,Pizza Hut,"15715 SW 116th Ave King City, OR 97224 US",97224,45.405501,-122.795056,(503) 620-7687,Oregon
+Klamath Falls,1826 Austin St,Pizza Hut,"1826 Austin St Klamath Falls, OR 97603 US",97603,42.152018,-121.683526,(541) 884-9070,Oregon
+Abington,1495 Old York Rd,Pizza Hut Express,"1495 Old York Rd Abington, PA 19001 US",19001,40.125912,-75.125442,Not available,Pennsylvania
+Aliquippa,2685 Brodhead Road,Pizza Hut,"2685 Brodhead Road Aliquippa, PA 15001 US",15001,40.595263,-80.322877,(724) 375-7749,Pennsylvania
+Allentown,1600 N. Cedar Crest Blvd.,Pizza Hut Express,"1600 N. Cedar Crest Blvd. Allentown, PA 18104 US",18104,40.611658,-75.546853,Not available,Pennsylvania
+Allentown,1761 S 4th St,Pizza Hut,"1761 S 4th St Allentown, PA 18103 US",18103,40.570308,-75.488926,(610) 797-6776,Pennsylvania
+Allentown,3315 Hamilton Blvd.,Pizza Hut,"3315 Hamilton Blvd. Allentown, PA 18103 US",18103,40.570308,-75.488926,(610) 395-1200,Pennsylvania
+Allentown,912 Airport Center Drive,Pizza Hut Express,"912 Airport Center Drive Allentown, PA 18109 US",18109,40.636938,-75.439893,Not available,Pennsylvania
+Allison Park,4873 Route 8,Pizza Hut,"4873 Route 8 Allison Park, PA 15101 US",15101,40.580328,-79.955241,(724) 443-5680,Pennsylvania
+Altoona,3420 Pleasant Valley Blvd,Pizza Hut,"3420 Pleasant Valley Blvd Altoona, PA 16602 US",16602,40.512662,-78.373929,(814) 944-8000,Pennsylvania
+Altoona,400 E 25th Ave,Pizza Hut,"400 E 25th Ave Altoona, PA 16601 US",16601,40.555264,-78.370416,(814) 944-2229,Pennsylvania
+Baden,285 Johnson Ave,Pizza Hut,"285 Johnson Ave Baden, PA 15005 US",15005,40.64508,-80.186648,(724) 869-5700,Pennsylvania
+Bala Cynwyd,5 W. City Avenue,Pizza Hut Express,"5 W. City Avenue Bala Cynwyd, PA 19004 US",19004,40.009753,-75.231508,Not available,Pennsylvania
+Beaver Falls,729-731 Shenango Rd,Pizza Hut,"729-731 Shenango Rd Beaver Falls, PA 15010 US",15010,40.770872,-80.351446,(724) 847-0700,Pennsylvania
+Bedford,4303 Business 220,Pizza Hut,"4303 Business 220 Bedford, PA 15522 US",15522,39.941732,-78.548409,(814) 623-2707,Pennsylvania
+Belle Vernon,50 Sara Way,Pizza Hut,"50 Sara Way Belle Vernon, PA 15012 US",15012,40.155417,-79.812946,(724) 929-6000,Pennsylvania
+Bellefonte,372 Phoenix Ave,Pizza Hut,"372 Phoenix Ave Bellefonte, PA 16823 US",16823,40.939052,-77.772647,(814) 355-5160,Pennsylvania
+Bellevue,481 Lincoln Ave,Pizza Hut,"481 Lincoln Ave Bellevue, PA 15202 US",15202,40.504968,-80.067821,(412) 734-5700,Pennsylvania
+Bensalem,2250 Street Rd,Pizza Hut,"2250 Street Rd Bensalem, PA 19020 US",19020,40.100591,-74.938934,(267) 522-5590,Pennsylvania
+Bentleyville,149 Wilson Road,Pizza Hut,"149 Wilson Road Bentleyville, PA 15314 US",15314,40.146306,-80.016809,(724) 239-2358,Pennsylvania
+Bethel Park,4960 Library Road,Pizza Hut,"4960 Library Road Bethel Park, PA 15102 US",15102,40.32135,-80.036546,(412) 854-2500,Pennsylvania
+Bethlehem,1314 Easton Ave,Pizza Hut,"1314 Easton Ave Bethlehem, PA 18018 US",18018,40.627594,-75.395584,(610) 974-9675,Pennsylvania
+Lincoln,620 George Washington Highway,Pizza Hut Express,"620 George Washington Highway Lincoln, RI 02865 US",2865,41.915455,-71.449815,Not available,Rhode Island
+North Providence,1565 Mineral Spring Ave,Pizza Hut,"1565 Mineral Spring Ave North Providence, RI 02904 US",2904,41.858334,-71.436294,(401) 437-8600,Rhode Island
+Pawtucket,1242 Newport Avenue,Pizza Hut,"1242 Newport Avenue Pawtucket, RI 02861 US",2861,41.878603,-71.353131,(401) 722-4222,Rhode Island
+Warwick,1627 Warwick Ave,Pizza Hut,"1627 Warwick Ave Warwick, RI 02889 US",2889,41.700591,-71.376927,(401) 244-5422,Rhode Island
+Abbeville,812 W Greenwood St,Pizza Hut,"812 W Greenwood St Abbeville, SC 29620 US",29620,34.182407,-82.425607,(864) 459-2685,South Carolina
+Aiken,1036 York St NE,Pizza Hut,"1036 York St NE Aiken, SC 29801 US",29801,33.588993,-81.697037,(803) 648-1348,South Carolina
+Aiken,1490 Whiskey Rd,Pizza Hut,"1490 Whiskey Rd Aiken, SC 29803 US",29803,33.490342,-81.762819,(803) 649-0909,South Carolina
+Anderson,105 Video Warehouse Way,Pizza Hut,"105 Video Warehouse Way Anderson, SC 29624 US",29624,34.435943,-82.624115,(864) 760-1812,South Carolina
+Anderson,1647 E. Greenville St.,Pizza Hut,"1647 E. Greenville St. Anderson, SC 29621 US",29621,34.506671,-82.605272,(864) 226-9026,South Carolina
+Anderson,862 Highway 28 Byp,Pizza Hut,"862 Highway 28 Byp Anderson, SC 29624 US",29624,34.435943,-82.624115,Not available,South Carolina
+Bamberg,2779 Main Hwy,Pizza Hut,"2779 Main Hwy Bamberg, SC 29003 US",29003,33.241221,-81.023815,(803) 245-5113,South Carolina
+Barnwell,1017 Dunbarton Blvd,Pizza Hut,"1017 Dunbarton Blvd Barnwell, SC 29812 US",29812,33.231937,-81.428404,(803) 259-2811,South Carolina
+Batesburg-Leesville,254 W Columbia Ave,Pizza Hut,"254 W Columbia Ave Batesburg-Leesville, SC 29006 US",29006,33.869101,-81.551078,(803) 532-8123,South Carolina
+Beaufort,10 Sams Point Road,Pizza Hut,"10 Sams Point Road Suite B-2 Beaufort, SC 29907 US",29907,32.474692,-80.599222,(843) 770-0033,South Carolina
+Beaufort,35 Robert Smalls Pkwy,Pizza Hut,"35 Robert Smalls Pkwy Suite 102 Beaufort, SC 29902 US",29902,32.334933,-80.684304,(843) 524-7948,South Carolina
+Bennettsville,102 Hwy 15-401 Byp,Pizza Hut,"102 Hwy 15-401 Byp Bennettsville, SC 29512 US",29512,34.619033,-79.718041,(843) 479-8281,South Carolina
+Bishopville,1070 Sumter Hwy,Pizza Hut,"1070 Sumter Hwy Bishopville, SC 29010 US",29010,34.223091,-80.27265,(803) 428-2001,South Carolina
+Bluffton,10 Discovery Dr,Pizza Hut,"10 Discovery Dr Bluffton, SC 29910 US",29910,32.214521,-80.89157,(843) 706-9100,South Carolina
+Bluffton,50 Burnt Church Rd,Pizza Hut,"50 Burnt Church Rd Unit 100-I Bluffton, SC 29910 US",29910,32.214521,-80.89157,(843) 815-5474,South Carolina
+Boiling Springs,4410 Highway 9,Pizza Hut,"4410 Highway 9 Suite 201 Boiling Springs, SC 29316 US",29316,35.043045,-81.975107,(864) 814-4140,South Carolina
+Camden,201 Dekalb St,Pizza Hut,"201 Dekalb St Camden, SC 29020 US",29020,34.314345,-80.573719,(803) 432-1101,South Carolina
+Cayce,2221 Charleston Hwy,Pizza Hut,"2221 Charleston Hwy Cayce, SC 29033 US",29033,33.956189,-81.057488,(803) 794-4440,South Carolina
+Charleston,2457 Ashley River Rd.,Pizza Hut,"2457 Ashley River Rd. Ste. 1 Charleston, SC 29414 US",29414,32.839966,-80.089182,(843) 735-6500,South Carolina
+Cheraw,203 Chesterfield Hwy,Pizza Hut,"203 Chesterfield Hwy Cheraw, SC 29520 US",29520,34.679486,-79.927292,(843) 537-5206,South Carolina
+Aberdeen,519 6th Ave SE,Pizza Hut,"519 6th Ave SE Aberdeen, SD 57401 US",57401,45.482335,-98.53254,(605) 225-0052,South Dakota
+Alexandria,1151 Spruce Street,Pizza Hut Express,"1151 Spruce Street Friendly's Fuel Stop Alexandria, SD 57311 US",57311,43.655651,-97.763378,Not available,South Dakota
+Belle Fourche,1824 5th Ave,Pizza Hut,"1824 5th Ave Belle Fourche, SD 57717 US",57717,44.933872,-103.895745,(605) 892-2671,South Dakota
+Box Elder,475 Villa Dr,Pizza Hut,"475 Villa Dr Ste 1 Box Elder, SD 57719 US",57719,44.232442,-102.976094,(605) 981-2843,South Dakota
+Brandon,101 N. Splitrock Blvd.,Pizza Hut,"101 N. Splitrock Blvd. Brandon, SD 57005 US",57005,43.592068,-96.585656,(605) 582-4488,South Dakota
+Custer,549 Mt Rushmore Rd.,Pizza Hut,"549 Mt Rushmore Rd. Custer, SD 57730 US",57730,43.720822,-103.641848,(605) 673-3330,South Dakota
+Hartford,1001 S Western Ave,Pizza Hut Express,"1001 S Western Ave Coffee Cup Fuel Stop #10 Hartford Hartford, SD 57033 US",57033,43.617972,-96.960938,Not available,South Dakota
+Hot Springs,723 Jensen Hwy,Pizza Hut,"723 Jensen Hwy Hot Springs, SD 57747 US",57747,43.384853,-103.52724,(605) 745-5443,South Dakota
+Kimball,801 South Main Street,Pizza Hut,"801 South Main Street Ditty's Travel Center Kimball, SD 57355 US",57355,43.783607,-98.931444,Not available,South Dakota
+Milbank,1201 E Milbank Ave,Pizza Hut,"1201 E Milbank Ave Milbank, SD 57252 US",57252,45.200406,-96.612559,(605) 432-9311,South Dakota
+Mitchell,616 East Havens Street,Pizza Hut,"616 East Havens Street Mitchell, SD 57301 US",57301,43.713759,-98.047697,(605) 996-2451,South Dakota
+Pierre,505 E Sioux Ave,Pizza Hut,"505 E Sioux Ave Pierre, SD 57501 US",57501,44.5276,-100.309037,(605) 224-6214,South Dakota
+Pine Ridge,Hwy 18 & C Street,Pizza Hut,"Hwy 18 & C Street Pine Ridge, SD 57770 US",57770,43.057997,-102.589621,(605) 867-1780,South Dakota
+Rapid City,1315 Haines Ave,Pizza Hut,"1315 Haines Ave Rapid City, SD 57701 US",57701,44.146058,-103.206715,(605) 342-1542,South Dakota
+Rapid City,1402 E. St. Patrick,Pizza Hut,"1402 E. St. Patrick Rapid City, SD 57701 US",57701,44.146058,-103.206715,(605) 342-4200,South Dakota
+Rapid City,3464 Sturgis Road,Pizza Hut,"3464 Sturgis Road Suite 300 Rapid City, SD 57702 US",57702,44.048284,-103.420467,Not available,South Dakota
+Sioux Falls,1021 Highline Place,Pizza Hut Express,"1021 Highline Place Sioux Falls, SD 57110 US",57110,43.545488,-96.642616,Not available,South Dakota
+Sioux Falls,2207 W 12th St,Pizza Hut,"2207 W 12th St Sioux Falls, SD 57104 US",57104,43.604785,-96.707425,(605) 332-2277,South Dakota
+Sioux Falls,3600 S. Louise Avenue,Pizza Hut Express,"3600 S. Louise Avenue Sioux Falls, SD 57106 US",57106,43.507512,-96.840667,Not available,South Dakota
+Sioux Falls,6507 W. 41st Street,Pizza Hut,"6507 W. 41st Street Sioux Falls, SD 57106 US",57106,43.507512,-96.840667,(605) 361-6666,South Dakota
+Sioux Falls,7730 S Dakota Hawk Ave.,Pizza Hut,"7730 S Dakota Hawk Ave. Sioux Falls, SD 57108 US",57108,43.479527,-96.704993,(605) 371-1777,South Dakota
+Sioux Falls,824 S Highline Pl,Pizza Hut,"824 S Highline Pl Sioux Falls, SD 57110 US",57110,43.545488,-96.642616,(605) 332-5200,South Dakota
+Alcoa,2418 Airport Hwy,Pizza Hut,"2418 Airport Hwy Alcoa, TN 37701 US",37701,35.791709,-83.987225,(865) 970-2648,Tennessee
+Alcoa,375 Hannum St,Pizza Hut,"375 Hannum St Alcoa, TN 37701 US",37701,35.791709,-83.987225,(865) 984-4340,Tennessee
+Antioch,2701 Murfreesboro Rd,Pizza Hut,"2701 Murfreesboro Rd Antioch, TN 37013 US",37013,36.052231,-86.632515,(615) 361-1515,Tennessee
+Antioch,3800 Murfreesboro Pike,Pizza Hut Express,"3800 Murfreesboro Pike Mapco #7551 Antioch, TN 37013 US",37013,36.052231,-86.632515,Not available,Tennessee
+Antioch,944 Richards Rd,Pizza Hut,"944 Richards Rd Antioch, TN 37013 US",37013,36.052231,-86.632515,(615) 832-5000,Tennessee
+Ardmore,26439 Main Street,Pizza Hut,"26439 Main Street Ardmore, TN 38449 US",38449,35.040439,-86.818172,(931) 427-3676,Tennessee
+Arlington,11615 Highway 70,Pizza Hut,"11615 Highway 70 Suite 102 Arlington, TN 38002 US",38002,35.286355,-89.700274,(901) 867-2391,Tennessee
+Arlington,8979 US Hwy 64,Pizza Hut,"8979 US Hwy 64 #3 Arlington, TN 38002 US",38002,35.286355,-89.700274,(901) 213-3484,Tennessee
+Athens,1215 Congress Pkwy NW,Pizza Hut,"1215 Congress Pkwy NW Athens, TN 37303 US",37303,35.442462,-84.640077,(423) 745-2111,Tennessee
+Atoka,382 Atoka McLaughlin Dr.,Pizza Hut,"382 Atoka McLaughlin Dr. Suite B Atoka, TN 38004 US",38004,35.411411,-89.759757,(901) 837-9999,Tennessee
+Bartlett,2919 Elmore Park Rd,Pizza Hut,"2919 Elmore Park Rd Ste 1 Bartlett, TN 38134 US",38134,35.174957,-89.859879,(901) 372-7260,Tennessee
+Baxter,6099 Nashville Hwy.,Pizza Hut,"6099 Nashville Hwy. Suite F Baxter, TN 38544 US",38544,36.123588,-85.663143,(931) 858-2180,Tennessee
+Brentwood,780 Old Hickory Blvd.,Pizza Hut Express,"780 Old Hickory Blvd. Brentwood, TN 37027 US",37027,35.999288,-86.785062,Not available,Tennessee
+Bristol,2167 Volunteer Pkwy,Pizza Hut,"2167 Volunteer Pkwy Bristol, TN 37620 US",37620,36.549613,-82.09404,(423) 968-9411,Tennessee
+Camden,243B W Main St,Pizza Hut,"243B W Main St Camden, TN 38320 US",38320,36.051656,-88.1126,(731) 584-9777,Tennessee
+Carthage,53 Dixon Springs Hwy,Pizza Hut,"53 Dixon Springs Hwy Carthage, TN 37030 US",37030,36.271546,-85.94212,(615) 735-2614,Tennessee
+Centerville,1230 Highway 100,Pizza Hut,"1230 Highway 100 Centerville, TN 37033 US",37033,35.74473,-87.558144,(931) 729-0123,Tennessee
+Chattanooga,1204 Hixson Pike,Pizza Hut,"1204 Hixson Pike Chattanooga, TN 37405 US",37405,35.120403,-85.407828,(423) 267-5588,Tennessee
+Chattanooga,2282 Encompass Drive,Pizza Hut Express,"2282 Encompass Drive Mapco #7553 Chattanooga, TN 37421 US",37421,35.030496,-85.14578,Not available,Tennessee
+Chattanooga,4850 Hwy 58,Pizza Hut,"4850 Hwy 58 Space B Chattanooga, TN 37416 US",37416,35.0976,-85.180301,(423) 894-9044,Tennessee
+Chattanooga,6514 Ringgold Road,Pizza Hut,"6514 Ringgold Road Mapco #3680 Chattanooga, TN 37412 US",37412,34.997526,-85.22743,Not available,Tennessee
+Chattanooga,7550 E Brainerd Rd,Pizza Hut,"7550 E Brainerd Rd Ste 115 Chattanooga, TN 37421 US",37421,35.030496,-85.14578,(423) 894-4835,Tennessee
+Abilene,24 Hospital Dr,Pizza Hut,"24 Hospital Dr Abilene, TX 79606 US",79606,32.362783,-99.817314,(325) 695-3770,Texas
+Abilene,2750 S 14th St,Pizza Hut,"2750 S 14th St Abilene, TX 79605 US",79605,32.434599,-99.781827,(325) 692-9328,Texas
+Abilene,550 E Ambler Ave,Pizza Hut,"550 E Ambler Ave Abilene, TX 79601 US",79601,32.576489,-99.665323,(325) 676-1892,Texas
+Abilene,672 E. Overland Trail,Pizza Hut Express,"672 E. Overland Trail Cinemark Abilene #1146 Abilene, TX 79601 US",79601,32.576489,-99.665323,Not available,Texas
+Alamo,522 N Alamo Rd,Pizza Hut,"522 N Alamo Rd Alamo, TX 78516 US",78516,26.144539,-98.121312,(956) 783-1515,Texas
+Alice,2022 E Main St,Pizza Hut,"2022 E Main St Alice, TX 78332 US",78332,27.72486,-98.134831,(361) 664-2189,Texas
+Allen,150 East Stacy Road,Pizza Hut Express,"150 East Stacy Road Building 2400 Allen, TX 75002 US",75002,33.089854,-96.6086,Not available,Texas
+Allen,1505 W McDermott Dr.,Pizza Hut,"1505 W McDermott Dr. #150 Allen, TX 75013 US",75013,33.114327,-96.693964,(214) 547-1515,Texas
+Allen,1546 E. Stacy Rd.,Pizza Hut,"1546 E. Stacy Rd. #155 Allen, TX 75002 US",75002,33.089854,-96.6086,(972) 747-0559,Texas
+Allen,300 Rivercrest Blvd.,Pizza Hut Express,"300 Rivercrest Blvd. Allen High School Allen, TX 75013 US",75013,33.114327,-96.693964,Not available,Texas
+Allen,801 S Greenville Ave.,Pizza Hut,"801 S Greenville Ave. #121 Allen, TX 75002 US",75002,33.089854,-96.6086,(972) 396-8200,Texas
+Allen,921 Sh 121,Pizza Hut Express,"921 Sh 121 Cinemark - Allen 16 #370 Allen, TX 75013 US",75013,33.114327,-96.693964,Not available,Texas
+Alpine,2300 Hwy 90 East,Pizza Hut,"2300 Hwy 90 East Alpine, TX 79831 US",79831,30.429399,-103.325765,(432) 837-5819,Texas
+Alvarado,1056 W Hwy 67,Pizza Hut,"1056 W Hwy 67 Alvarado, TX 76009 US",76009,32.414937,-97.200076,(817) 783-2197,Texas
+Alvin,1591 E. Hwy. 6,Pizza Hut,"1591 E. Hwy. 6 Alvin, TX 77511 US",77511,29.380858,-95.241857,(281) 331-6009,Texas
+Amarillo,2106 S Grand St,Pizza Hut,"2106 S Grand St Amarillo, TX 79103 US",79103,35.177308,-101.794475,(806) 372-6051,Texas
+Amarillo,2509 S Georgia St,Pizza Hut,"2509 S Georgia St Amarillo, TX 79109 US",79109,35.166416,-101.886423,(806) 467-1555,Texas
+Amarillo,3404 NE 24th Ave.,Pizza Hut,"3404 NE 24th Ave. Suite A Amarillo, TX 79107 US",79107,35.230592,-101.802502,(806) 383-3000,Texas
+Amarillo,5101 S. Western,Pizza Hut,"5101 S. Western Amarillo, TX 79109 US",79109,35.166416,-101.886423,(806) 358-6521,Texas
+Amarillo,5611 Gem Lake Rd,Pizza Hut Express,"5611 Gem Lake Rd #100 Amarillo, TX 79106 US",79106,35.203066,-101.895003,(806) 372-1004,Texas
+Amarillo,6019 S Coulter,Pizza Hut,"6019 S Coulter Amarillo, TX 79119 US",79119,35.109084,-102.017887,(806) 467-1800,Texas
+Amarillo,6905 I-40 West,Pizza Hut,"6905 I-40 West Amarillo, TX 79106 US",79106,35.203066,-101.895003,(806) 355-8288,Texas
+Amarillo,7000 I-40 East,Pizza Hut Express,"7000 I-40 East Travel Centers Of America Amarillo, TX 79118 US",79118,35.106367,-101.739911,Not available,Texas
+American Fork,76 North 100 East,Pizza Hut,"76 North 100 East American Fork, UT 84003 US",84003,40.471654,-111.68059,(801) 756-9696,Utah
+Bountiful,529 South 200 West,Pizza Hut,"529 South 200 West Bountiful, UT 84010 US",84010,40.867942,-111.867845,(801) 298-8844,Utah
+Brigham City,585 S Main St,Pizza Hut,"585 S Main St Brigham City, UT 84302 US",84302,41.553593,-112.050764,(435) 723-2625,Utah
+Cedar City,579 S Main St,Pizza Hut,"579 S Main St Cedar City, UT 84720 US",84720,37.590627,-113.190988,(435) 586-9896,Utah
+Centerville,1078 W Legacy Crossing Blvd,Pizza Hut Express,"1078 W Legacy Crossing Blvd Megaplex 14 At Legacy Crossing Centerville, UT 84014 US",84014,40.932087,-111.884033,Not available,Utah
+Clearfield,301 State St,Pizza Hut,"301 State St Clearfield, UT 84015 US",84015,41.120367,-112.06076,(801) 776-5000,Utah
+Clinton,2201 North 2000 West,Pizza Hut,"2201 North 2000 West Clinton, UT 84015 US",84015,41.120367,-112.06076,(801) 773-1750,Utah
+Draper,148 East 12300 South,Pizza Hut,"148 East 12300 South Draper, UT 84020 US",84020,40.500154,-111.869576,(801) 572-0300,Utah
+Eagle Mountain,1388 E Eagle Mountain Blvd,Pizza Hut,"1388 E Eagle Mountain Blvd Eagle Mountain, UT 84005 US",84005,40.325116,-111.996538,(801) 789-4888,Utah
+Herriman,13284 South 5600 West,Pizza Hut,"13284 South 5600 West Herriman, UT 84065 US",84065,40.49386,-111.943722,(801) 302-9110,Utah
+Hurricane,222 W State St,Pizza Hut,"222 W State St Hurricane, UT 84737 US",84737,37.044712,-113.206012,(435) 288-0119,Utah
+Kanab,421 S 100 E,Pizza Hut,"421 S 100 E Kanab, UT 84741 US",84741,37.187126,-112.249416,(435) 644-2513,Utah
+Kaysville,265 N. Main Street,Pizza Hut,"265 N. Main Street Kaysville, UT 84037 US",84037,41.027605,-111.950941,(801) 451-5300,Utah
+Kearns,4655 W 5415 S,Pizza Hut,"4655 W 5415 S Kearns, UT 84118 US",84118,40.653522,-112.013415,(801) 969-2400,Utah
+Layton,2996 N Hillfield Rd,Pizza Hut,"2996 N Hillfield Rd Layton, UT 84041 US",84041,41.069915,-111.981254,(801) 773-1000,Utah
+Layton,815 West 2000 North,Pizza Hut Express,"815 West 2000 North Layton, UT 84041 US",84041,41.069915,-111.981254,Not available,Utah
+Lehi,1578 E. 3500 N.,Pizza Hut,"1578 E. 3500 N. Lehi, UT 84043 US",84043,40.410762,-111.87679,(801) 855-5388,Utah
+Lehi,2935 Thanksgiving Way,Pizza Hut Express,"2935 Thanksgiving Way Megaplex 17 At Thanksgiving Point Lehi, UT 84043 US",84043,40.410762,-111.87679,Not available,Utah
+Logan,110 E 400 N,Pizza Hut,"110 E 400 N Logan, UT 84321 US",84321,41.717722,-111.836493,(435) 752-6400,Utah
+Magna,8095 W 3500 S,Pizza Hut,"8095 W 3500 S Suite 1 Magna, UT 84044 US",84044,40.72115,-112.164945,(801) 508-9070,Utah
+Abingdon,121 Cook St,Pizza Hut,"121 Cook St Abingdon, VA 24210 US",24210,36.768935,-82.027531,(276) 300-2020,Virginia
+Alexandria,1049 W Glebe Rd,Pizza Hut,"1049 W Glebe Rd Alexandria, VA 22305 US",22305,38.836463,-77.062098,(703) 836-3200,Virginia
+Alexandria,5145 Duke St,Pizza Hut,"5145 Duke St Ste A Alexandria, VA 22304 US",22304,38.813169,-77.112139,(703) 461-6666,Virginia
+Alexandria,7013-H Manchester Blvd,Pizza Hut,"7013-H Manchester Blvd Alexandria, VA 22310 US",22310,38.783717,-77.122678,(703) 971-3331,Virginia
+Alexandria,7611 Richmond Hwy.,Pizza Hut,"7611 Richmond Hwy. #105 Alexandria, VA 22306 US",22306,38.755738,-77.097779,(703) 765-0101,Virginia
+Alexandria,8640 Rte 1,Pizza Hut,"8640 Rte 1 Engleside Plaza Alexandria, VA 22309 US",22309,38.720336,-77.106155,(703) 781-8181,Virginia
+Altavista,105 Clarion Rd.,Pizza Hut,"105 Clarion Rd. Suite C Altavista, VA 24517 US",24517,37.147516,-79.23716,(434) 369-0111,Virginia
+Amelia,15071 Patrick Henry Hwy.,Pizza Hut,"15071 Patrick Henry Hwy. Amelia, VA 23002 US",23002,37.35106,-77.967875,(804) 561-1908,Virginia
+Annandale,7122 Columbia Pike,Pizza Hut,"7122 Columbia Pike Annandale, VA 22003 US",22003,38.829817,-77.215318,(703) 354-1114,Virginia
+Appomattox,150 Oakville Rd.,Pizza Hut,"150 Oakville Rd. Appomattox, VA 24522 US",24522,37.376791,-78.778773,(434) 352-5096,Virginia
+Arlington,3311 Lee Hwy,Pizza Hut,"3311 Lee Hwy Arlington, VA 22207 US",22207,38.906665,-77.124238,(703) 243-3100,Virginia
+Ashburn,43761 Parkhurst Plaza,Pizza Hut,"43761 Parkhurst Plaza #112 Ashburn, VA 20147 US",20147,39.041947,-77.47813,(703) 724-0444,Virginia
+Ashland,10134 Lewistown Road,Pizza Hut Express,"10134 Lewistown Road Travel Centers Of America Ashland, VA 23005 US",23005,37.759696,-77.48187,Not available,Virginia
+Ashland,9539 Kings Charter Dr.,Pizza Hut,"9539 Kings Charter Dr. Ashland, VA 23005 US",23005,37.759696,-77.48187,(804) 550-4999,Virginia
+Bealeton,6385 Village Center Drive,Pizza Hut,"6385 Village Center Drive Bealeton, VA 22712 US",22712,38.564008,-77.757247,(540) 439-3686,Virginia
+Blacksburg,Owens Dining Hall,Pizza Hut Express,"Owens Dining Hall Virginia Polytechnic Institute & State University Blacksburg, VA 24061 US",24061,0,0,Not available,Virginia
+Blackstone,1445 S. Main Street,Pizza Hut,"1445 S. Main Street Blackstone, VA 23824 US",23824,37.085581,-77.97218,(434) 292-3336,Virginia
+Bluefield,1001 Leatherwood Ln,Pizza Hut,"1001 Leatherwood Ln Bluefield, VA 24605 US",24605,37.254178,-81.371211,(276) 322-2126,Virginia
+Bracey,2883 Highway 903,Pizza Hut Express,"2883 Highway 903 Bracey Shell Slip In Bracey, VA 23919 US",23919,36.593409,-78.131154,Not available,Virginia
+Bristol,16600 Highlands Center Blvd.,Pizza Hut Express,"16600 Highlands Center Blvd. Bristol, VA 24202 US",24202,36.65631,-82.212219,Not available,Virginia
+Bristol,170 Gate City Hwy,Pizza Hut,"170 Gate City Hwy Bristol, VA 24201 US",24201,36.610715,-82.17005,(423) 968-2988,Virginia
+Bennington,207 Northside Drive,Pizza Hut,"207 Northside Drive Bennington, VT 05201 US",5201,42.869211,-73.128516,(802) 447-7980,Vermont
+Berlin,1490 US Rt 302,Pizza Hut,"1490 US Rt 302 Berlin, VT 05641 US",5641,44.188842,-72.472172,(802) 479-1031,Vermont
+Rutland,157 Woodstock Ave,Pizza Hut,"157 Woodstock Ave Rutland, VT 05701 US",5701,43.624577,-72.910204,(802) 773-6008,Vermont
+Saint Albans,211 Swanton Rd,Pizza Hut,"211 Swanton Rd Highgate Commons Shop Center Saint Albans, VT 05478 US",5478,44.808422,-73.082507,(802) 524-7409,Vermont
+Saint Johnsbury,1009 Memorial Dr,Pizza Hut,"1009 Memorial Dr Saint Johnsbury, VT 05819 US",5819,44.404737,-71.983075,(802) 748-5322,Vermont
+South Burlington,225 Dorset Street,Pizza Hut,"225 Dorset Street South Burlington, VT 05403 US",5403,44.444866,-73.173468,Not available,Vermont
+Airway Heights,11820 W Sunset Hwy,Pizza Hut,"11820 W Sunset Hwy Airway Heights, WA 99001 US",99001,47.63649,-117.586305,(509) 244-4300,Washington
+Auburn,1243 Auburn Way S,Pizza Hut,"1243 Auburn Way S Auburn, WA 98002 US",98002,47.308286,-122.216812,(253) 939-4099,Washington
+Battle Ground,2404 W. Main St.,Pizza Hut,"2404 W. Main St. Suite 101 Battle Ground, WA 98604 US",98604,45.805747,-122.510777,(360) 666-9293,Washington
+Bellevue,15600 NE 8th St,Pizza Hut,"15600 NE 8th St Ste A6 Bellevue, WA 98008 US",98008,47.605797,-122.099118,Not available,Washington
+Bellingham,1251 Lincoln St,Pizza Hut,"1251 Lincoln St Ste 106 Bellingham, WA 98229 US",98229,48.696127,-122.413538,(360) 733-5660,Washington
+Bellingham,4285 Meridian St,Pizza Hut,"4285 Meridian St Ste 102 Bellingham, WA 98226 US",98226,48.798606,-122.445693,(360) 684-1894,Washington
+Bonney Lake,19940 S Prairie Rd,Pizza Hut,"19940 S Prairie Rd Bonney Lake, WA 98390 US",98390,47.209523,-122.227504,(253) 863-7300,Washington
+Bothell,20806 Bothell-Everett Hwy,Pizza Hut,"20806 Bothell-Everett Hwy Suite 106 Bothell, WA 98021 US",98021,47.79253,-122.208207,(425) 806-8700,Washington
+Bremerton,2119 6th St,Pizza Hut,"2119 6th St Bremerton, WA 98312 US",98312,47.573702,-122.786447,(360) 373-7600,Washington
+Bremerton,5060 State Route 303 NE,Pizza Hut,"5060 State Route 303 NE Suite 130 Bremerton, WA 98311 US",98311,47.631197,-122.631017,(360) 373-8600,Washington
+Burlington,199 Cascade Mall Drive,Pizza Hut Express,"199 Cascade Mall Drive Burlington, WA 98233 US",98233,48.500911,-122.345655,Not available,Washington
+Centralia,705 Harrison Ave,Pizza Hut,"705 Harrison Ave Centralia, WA 98531 US",98531,46.730437,-122.902774,(360) 736-1144,Washington
+Deer Park,11 East H Street,Pizza Hut,"11 East H Street Deer Park, WA 99006 US",99006,47.984122,-117.502192,(509) 276-6620,Washington
+Dupont,1175 Center Dr,Pizza Hut,"1175 Center Dr Ste 160 Dupont, WA 98327 US",98327,47.103909,-122.665131,(253) 582-8000,Washington
+East Wenatchee,720 Grant Rd,Pizza Hut,"720 Grant Rd East Wenatchee, WA 98802 US",98802,47.48609,-120.180328,(509) 884-5678,Washington
+Edgewood,719 Meridian St East,Pizza Hut,"719 Meridian St East Edgewood, WA 98371 US",98371,47.199448,-122.323541,(253) 925-1200,Washington
+Edmonds,23830 Highway 99,Pizza Hut,"23830 Highway 99 Ste 118 Edmonds, WA 98026 US",98026,47.840735,-122.33266,(425) 776-8700,Washington
+Ellensburg,730 E University Way,Pizza Hut,"730 E University Way Ellensburg, WA 98926 US",98926,47.014195,-120.458691,(509) 925-7888,Washington
+Enumclaw,421 Roosevelt Ave,Pizza Hut,"421 Roosevelt Ave Enumclaw, WA 98022 US",98022,47.216372,-121.912906,(360) 825-6559,Washington
+Ephrata,1115 Basin St. SW,Pizza Hut,"1115 Basin St. SW Ephrata, WA 98823 US",98823,47.308654,-119.649345,(509) 754-4355,Washington
+Abbotsford,801 E Spruce St,Pizza Hut,"801 E Spruce St Pizza Hut #263 Abbotsford, WI 54405 US",54405,44.96753,-90.282268,(715) 223-4045,Wisconsin
+Antigo,2104 Neva Rd,Pizza Hut,"2104 Neva Rd Pizza Hut #269 Antigo, WI 54409 US",54409,45.1222,-89.170828,(715) 623-7671,Wisconsin
+Appleton,1924 S Oneida St,Pizza Hut,"1924 S Oneida St Pizza Hut #246 Appleton, WI 54915 US",54915,44.243351,-88.355904,(920) 733-6033,Wisconsin
+Appleton,2730 N. Meade,Pizza Hut,"2730 N. Meade Pizza Hut #279 Appleton, WI 54911 US",54911,44.281533,-88.381003,(920) 739-5599,Wisconsin
+Appleton,3825 E Calumet St,Pizza Hut,"3825 E Calumet St Appleton, WI 54915 US",54915,44.243351,-88.355904,Not available,Wisconsin
+Ashwaubenon,1001 Cormier Rd.,Pizza Hut Express,"1001 Cormier Rd. Ashwaubenon, WI 54304 US",54304,44.49279,-88.067301,Not available,Wisconsin
+Baraboo,422 W Pine St,Pizza Hut,"422 W Pine St Baraboo, WI 53913 US",53913,43.49284,-89.728705,(608) 356-9500,Wisconsin
+Beaver Dam,115 E. Industrial Drive,Pizza Hut,"115 E. Industrial Drive Beaver Dam, WI 53916 US",53916,43.466797,-88.867753,(920) 887-3176,Wisconsin
+Bellevue,2015 Lime Kiln Rd,Pizza Hut,"2015 Lime Kiln Rd Suite 120 Bellevue, WI 54311 US",54311,44.480461,-87.892165,(920) 544-9018,Wisconsin
+Beloit,2787 Prairie Ave,Pizza Hut,"2787 Prairie Ave Beloit, WI 53511 US",53511,42.553995,-89.094444,(608) 365-5777,Wisconsin
+Beloit,802 4th St,Pizza Hut,"802 4th St Beloit, WI 53511 US",53511,42.553995,-89.094444,(608) 365-8900,Wisconsin
+Black River Falls,666 Highway 54 E,Pizza Hut,"666 Highway 54 E Black River Falls, WI 54615 US",54615,44.260473,-90.813319,(715) 284-4000,Wisconsin
+Brookfield,12725 W. Bluemound Road,Pizza Hut Express,"12725 W. Bluemound Road Brookfield, WI 53005 US",53005,43.062401,-88.098804,Not available,Wisconsin
+Burlington,1080 Milwaukee Ave.,Pizza Hut,"1080 Milwaukee Ave. Burlington, WI 53105 US",53105,42.663216,-88.280346,(262) 763-8432,Wisconsin
+Chippewa Falls,225 Prairieview Rd,Pizza Hut,"225 Prairieview Rd Chippewa Falls, WI 54729 US",54729,44.945626,-91.392954,(715) 723-9800,Wisconsin
+Cottage Grove,536 Southing Grange,Pizza Hut,"536 Southing Grange Cottage Grove, WI 53527 US",53527,43.051357,-89.192257,(608) 839-3939,Wisconsin
+Cudahy,6001 S Packard Ave,Pizza Hut,"6001 S Packard Ave Cudahy, WI 53110 US",53110,42.950505,-87.860883,Not available,Wisconsin
+De Forest,633 S Main St,Pizza Hut,"633 S Main St De Forest, WI 53532 US",53532,43.250204,-89.326329,(608) 846-8484,Wisconsin
+De Pere,400 Reid Street,Pizza Hut,"400 Reid Street Suite M De Pere, WI 54115 US",54115,44.397967,-88.09639,(920) 336-1648,Wisconsin
+Delafield,2730 Hillside Dr.,Pizza Hut,"2730 Hillside Dr. Delafield, WI 53018 US",53018,43.048165,-88.390515,(262) 646-2375,Wisconsin
+Barboursville,6007 Route 60 East,Pizza Hut,"6007 Route 60 East Suite 230 Barboursville, WV 25504 US",25504,38.376421,-82.270009,(304) 736-1561,West Virginia
+Beaver,199 S Beaver Ln,Pizza Hut,"199 S Beaver Ln Beaver, WV 25813 US",25813,37.761846,-81.101871,(304) 252-8063,West Virginia
+Beckley,1034 N Eisenhower Dr,Pizza Hut,"1034 N Eisenhower Dr Beckley, WV 25801 US",25801,37.822892,-81.266198,(304) 252-6821,West Virginia
+Beckley,1912 Harper Rd,Pizza Hut,"1912 Harper Rd Beckley, WV 25801 US",25801,37.822892,-81.266198,(304) 255-0708,West Virginia
+Bridgeport,1023 W Main St,Pizza Hut,"1023 W Main St Bridgeport, WV 26330 US",26330,39.285269,-80.220851,(304) 842-6976,West Virginia
+Buckhannon,Box 45 Clarksburg Road,Pizza Hut,"Box 45 Clarksburg Road Buckhannon, WV 26201 US",26201,39.001871,-80.197424,(304) 472-0335,West Virginia
+Ceredo,5300 Ceredo Plaza,Pizza Hut,"5300 Ceredo Plaza US Route 60 @ 4th St. Ceredo, WV 25507 US",25507,38.395279,-82.563009,(304) 453-5300,West Virginia
+Chapmanville,80 Friendly Neighbor Road,Pizza Hut,"80 Friendly Neighbor Road Chapmanville, WV 25508 US",25508,37.96394,-82.021969,(304) 855-4503,West Virginia
+Charles Town,184 Flowing Springs Rd.,Pizza Hut,"184 Flowing Springs Rd. Suite 100 Charles Town, WV 25414 US",25414,39.242415,-77.865749,(304) 728-0018,West Virginia
+Charleston,1657 4th Avenue,Pizza Hut,"1657 4th Avenue Charleston, WV 25387 US",25387,0,0,(304) 342-2300,West Virginia
+Charleston,5730 MacCorkle Ave SE,Pizza Hut,"5730 MacCorkle Ave SE Charleston, WV 25304 US",25304,38.306056,-81.593194,(304) 925-6604,West Virginia
+Charleston,6279 Sissonville Dr,Pizza Hut,"6279 Sissonville Dr Charleston, WV 25312 US",25312,38.448403,-81.659346,(304) 984-9777,West Virginia
+Clarksburg,1708 Adams Ave,Pizza Hut,"1708 Adams Ave Clarksburg, WV 26301 US",26301,39.301498,-80.393977,(304) 622-5667,West Virginia
+Craigsville,43 Craft Lane,Pizza Hut,"43 Craft Lane Craigsville, WV 26205 US",26205,38.326803,-80.650399,(304) 742-5398,West Virginia
+Cross Lanes,5458 Big Tyler Road,Pizza Hut,"5458 Big Tyler Road Cross Lanes, WV 25313 US",25313,38.419303,-81.766456,(304) 776-5918,West Virginia
+Danville,1498 Smoot Ave,Pizza Hut,"1498 Smoot Ave Danville, WV 25053 US",25053,38.036736,-81.878922,(304) 369-0263,West Virginia
+Elkins,1513 Harrison Ave.,Pizza Hut,"1513 Harrison Ave. Elkins, WV 26241 US",26241,38.932602,-79.788254,(304) 636-2212,West Virginia
+Elkview,The Crossing Shopping Center,Pizza Hut,"The Crossing Shopping Center Suite 211 Elkview, WV 25071 US",25071,38.462464,-81.466833,(304) 935-0445,West Virginia
+Eskdale,73 West Virginia Turnpike,Pizza Hut,"73 West Virginia Turnpike Eskdale, WV 25075 US",25075,38.060218,-81.405213,Not available,West Virginia
+Fairmont,1501 Fairmont Ave.,Pizza Hut,"1501 Fairmont Ave. Fairmont, WV 26554 US",26554,39.465392,-80.109845,(304) 366-5566,West Virginia
+Afton,338 Washington,Pizza Hut,"338 Washington Afton, WY 83110 US",83110,42.725902,-110.849219,(307) 886-9224,Wyoming
+Buffalo,110 E Hart St,Pizza Hut,"110 E Hart St Hwy 16 E Buffalo, WY 82834 US",82834,44.239738,-106.658714,(307) 684-2596,Wyoming
+Casper,1300 S. Poplar,Pizza Hut,"1300 S. Poplar Casper, WY 82601 US",82601,43.05894,-106.439816,(307) 237-8646,Wyoming
+Casper,3738 Cy Ave,Pizza Hut,"3738 Cy Ave Casper, WY 82604 US",82604,42.857603,-106.770764,(307) 265-0804,Wyoming
+Casper,3741 E 2nd St,Pizza Hut,"3741 E 2nd St Casper, WY 82609 US",82609,42.805201,-106.180846,(307) 577-9112,Wyoming
+Cheyenne,1308 S. Greeley Hwy.,Pizza Hut,"1308 S. Greeley Hwy. Cheyenne, WY 82007 US",82007,41.080998,-104.698483,(307) 635-4151,Wyoming
+Cheyenne,3901 E. Pershing Blvd.,Pizza Hut,"3901 E. Pershing Blvd. Unit A Cheyenne, WY 82001 US",82001,41.092356,-104.936269,(307) 637-6666,Wyoming
+Cheyenne,5320 Yellowstone Rd,Pizza Hut,"5320 Yellowstone Rd Cheyenne, WY 82009 US",82009,41.373553,-104.84281,(307) 634-0854,Wyoming
+Cody,736 Yellowstone Ave,Pizza Hut,"736 Yellowstone Ave Cody, WY 82414 US",82414,44.492387,-109.593597,(307) 527-7819,Wyoming
+Diamondville,335 Hwy 30/189,Pizza Hut,"335 Hwy 30/189 Diamondville, WY 83116 US",83116,41.769544,-110.533471,(307) 877-1111,Wyoming
+Douglas,1830 Richards St,Pizza Hut,"1830 Richards St Douglas, WY 82633 US",82633,43.020861,-105.41068,(307) 358-2224,Wyoming
+Evanston,134 Yellow Creek Rd,Pizza Hut,"134 Yellow Creek Rd Evanston, WY 82930 US",82930,41.016132,-110.64493,(307) 789-1372,Wyoming
+Gillette,1711 W 2nd St,Pizza Hut,"1711 W 2nd St Gillette, WY 82716 US",82716,44.464635,-105.695059,(307) 686-0360,Wyoming
+Gillette,627 E. Boxelder Rd.,Pizza Hut,"627 E. Boxelder Rd. Gillette, WY 82718 US",82718,43.878837,-105.621622,(307) 682-8200,Wyoming
+Green River,220 Uinta Drive,Pizza Hut,"220 Uinta Drive Green River, WY 82935 US",82935,41.688569,-109.664735,(307) 875-7885,Wyoming
+Lander,670 E. Main,Pizza Hut,"670 E. Main Lander, WY 82520 US",82520,42.69917,-108.618598,(307) 332-6224,Wyoming
+Laramie,1460 N 3rd St,Pizza Hut,"1460 N 3rd St Laramie, WY 82072 US",82072,41.414287,-105.477151,(307) 742-8118,Wyoming
+Moorcroft,506 E Converse St.,Pizza Hut Express,"506 E Converse St. Coffee Cup Fuel Stop #5 Moorcroft Moorcroft, WY 82721 US",82721,44.481838,-104.916416,Not available,Wyoming
+Mountain View,653 Hwy 414,Pizza Hut,"653 Hwy 414 Mountain View, WY 82939 US",82939,41.218918,-110.345571,(307) 782-6661,Wyoming
+Newcastle,802 Seneca,Pizza Hut,"802 Seneca Newcastle, WY 82701 US",82701,43.711636,-104.433861,(307) 746-3507,Wyoming
