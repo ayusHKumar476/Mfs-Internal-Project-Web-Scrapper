@@ -1,0 +1,954 @@
+city_name,store_name,store_address,phone_number,zip_code,latitude,longitude,state
+Alabaster,125 Buck Creek Plaza,"125 Buck Creek Plaza, Alabaster",205-621-1811,35007,33.215623,-86.797656,Alabama
+Albertville,503 N Carlisle,"503 N Carlisle, Albertville",256-891-1010,35950,34.24975,-86.261097,Alabama
+Alexander City,855 Market Place,"855 Market Place, Alexander",256-329-2236,35010,32.916719,-85.940589,Alabama
+Andalusia,1098 Martin Luther King Expy,"1098 Martin Luther King Expy, Andalusia",334-427-1100,36420,31.172401,-86.565077,Alabama
+Anniston,5130-C McClellan Blvd,"5130-C McClellan Blvd, Anniston",256-530-4100,36206,33.733273,-85.809624,Alabama
+Arab,602 11th Ave Nw,"602 11th Ave Nw, Arab",256-586-2150,35016,34.32387,-86.502006,Alabama
+Athens,119 Highway 31 S,"119 Highway 31 S, Athens",256-233-4700,35611,34.773833,-87.084145,Alabama
+Attalla,964 Gilbert Ferry Rd.,"964 Gilbert Ferry Rd., Attalla",256-538-1171,35954,34.089754,-86.057449,Alabama
+Auburn,175 N College St,"175 N College St, Auburn",334-821-3030,36830,32.53893,-85.492645,Alabama
+Bay Minette,201 Chamber Dr Suite G,"201 Chamber Dr Suite G, Bay",251-239-8338,36507,30.858609,-87.742025,Alabama
+Bessemer,3979 Parkwood Rd Suite 101,"3979 Parkwood Rd Suite 101, Bessemer",205-426-1131,35022,33.322849,-86.971458,Alabama
+Birmingham,4527 Valleydale Rd.,"4527 Valleydale Rd., Birmingham",205-991-0070,35242,33.425247,-86.672084,Alabama
+Boaz,102 N Mcclesky Street,"102 N Mcclesky Street, Boaz",256-593-9790,35957,34.196159,-86.196898,Alabama
+Brewton,2578 Douglas Ave,"2578 Douglas Ave, Brewton",251-241-6042,36426,31.140984,-87.071111,Alabama
+Calera,3 Beverly Drive,"3 Beverly Drive, Calera",205-690-8484,35040,33.102967,-86.728894,Alabama
+Chelsea,376 Chesser Drive,"376 Chesser Drive, Chelsea",205-678-2007,35043,33.314842,-86.659872,Alabama
+Childersburg,101 8th Ave. SW,"101 8th Ave. SW, Childersburg",938-777-0020,35044,33.243975,-86.380759,Alabama
+Clanton,400 Lay Dam Rd,"400 Lay Dam Rd, Clanton",205-258-5090,35045,32.799962,-86.676761,Alabama
+Columbiana,225 W College St,"225 W College St, Columbiana",877-883-9643,35051,33.205032,-86.618915,Alabama
+Cullman,5601 Hwy 157,"5601 Hwy 157, Cullman",256-727-9393,35058,34.228856,-86.737261,Alabama
+Anchorage,3024 Mountain View dr Suite 104,"3024 Mountain View dr Suite 104, Anchorage",907-258-3030,99501,61.220018,-149.855702,Alaska
+Eagle River,11431 Business Boulevard Ste 103,"11431 Business Boulevard Ste 103, Eagle",907-726-5000,99577,0,0,Alaska
+Fairbanks,410 Merhar Ave #1,"410 Merhar Ave #1, Fairbanks",907-451-8201,99701,0,0,Alaska
+JBER,3805 Provider Drive,"3805 Provider Drive, JBER",907-337-3377,99505,61.256851,-149.602697,Alaska
+Juneau,607 W Willoughby Ave,"607 W Willoughby Ave, Juneau",907-586-3030,99801,0,0,Alaska
+Soldotna,43981 Sterling Highway,"43981 Sterling Highway, Soldotna",907-600-4001,99669,0,0,Alaska
+Wasilla,1731 E Palmer-Wasilla Hwy,"1731 E Palmer-Wasilla Hwy, Wasilla",907-376-1000,99654,0,0,Alaska
+Apache Junction,10826 E Apache Trl,"10826 E Apache Trl, Apache",480-380-3030,85220,0,0,Arizona
+Arizona City,13540 S Sunland Gin Rd,"13540 S Sunland Gin Rd, Arizona",520-494-1010,85123,32.715299,-111.697714,Arizona
+Avondale,10719 W Indian School Rd,"10719 W Indian School Rd, Avondale",623-877-3030,85323,33.419233,-112.326866,Arizona
+Buckeye,19445 W. Indian School Road STE 101,"19445 W. Indian School Road STE 101, Buckeye",480-934-0120,85396,33.527803,-112.701269,Arizona
+Bullhead City,998 Highway 95,"998 Highway 95, Bullhead",928-450-4155,86429,35.163628,-114.484927,Arizona
+Camp Verde,452 Finnie Flats Road,"452 Finnie Flats Road, Camp",928-554-0999,86322,34.500279,-111.801158,Arizona
+Casa Grande,104 W Florence Blvd,"104 W Florence Blvd, Casa",520-836-1111,85122,32.917126,-111.744208,Arizona
+Chandler,3125 S. Alma School Road Suite #1,"3125 S. Alma School Road Suite #1, Chandler",480-786-3338,85248,33.214955,-111.869973,Arizona
+Chino Valley,1021 N Hwy 89 Suite 103,"1021 N Hwy 89 Suite 103, Chino",928-636-6000,86323,34.778347,-112.407143,Arizona
+Coolidge,1417 North Arizona Blvd,"1417 North Arizona Blvd, Coolidge",520-464-9628,85228,0,0,Arizona
+Cottonwood,1100 East State Route 260 C-3,"1100 East State Route 260 C-3, Cottonwood",928-634-7500,86326,34.700031,-112.023634,Arizona
+El Mirage,12550 W Thunderbird Rd Ste 117,"12550 W Thunderbird Rd Ste 117, El",623-876-9393,85335,33.592283,-112.327691,Arizona
+Flagstaff,1529 S Milton Rd,"1529 S Milton Rd, Flagstaff",928-779-3686,86001,35.287661,-111.639303,Arizona
+Fort Mohave,4508 S. Highway 95,"4508 S. Highway 95, Fort",928-704-4700,86426,35.007773,-114.569324,Arizona
+Gilbert,754 S Val Vista Dr STE 101,"754 S Val Vista Dr STE 101, Gilbert",480-926-3030,85296,33.332328,-111.749802,Arizona
+Glendale,9141 W Glendale Ave #100,"9141 W Glendale Ave #100, Glendale",623-387-9080,85305,33.531745,-112.256093,Arizona
+Gold Canyon,5301 S Superstition Mountain Dr Suite A101,"5301 S Superstition Mountain Dr Suite A101, Gold",480-300-6988,85118,33.401783,-111.351777,Arizona
+Goodyear,14175 W Indian School Rd Ste A3,"14175 W Indian School Rd Ste A3, Goodyear",623-935-5000,85338,33.372975,-112.410829,Arizona
+Green Valley,1060 W. Beta Street #180,"1060 W. Beta Street #180, Green",520-320-6060,85614,31.814301,-110.9194,Arizona
+Kingman,1949 Beverly Ave,"1949 Beverly Ave, Kingman",928-681-3030,86401,35.131719,-113.703932,Arizona
+Alma,705 Highway 71 North,"705 Highway 71 North, Alma",479-370-3298,72921,35.477101,-94.196225,Arkansas
+Arkadelphia,1412 Pine St,"1412 Pine St, Arkadelphia",870-246-3131,71923,34.085089,-93.04527,Arkansas
+Batesville,1436 Harrison Street,"1436 Harrison Street, Batesville",870-698-9099,72501,35.791171,-91.653381,Arkansas
+Beebe,903 ASU Blvd,"903 ASU Blvd, Beebe",501-232-0430,72012,35.094842,-91.907583,Arkansas
+Bella Vista,2840 Bella Vista Way,"2840 Bella Vista Way, Bella",479-876-7373,72714,36.46735,-94.222151,Arkansas
+Benton,17310 I-30 Suite 3,"17310 I-30 Suite 3, Benton",501-408-4688,72015,34.485899,-92.585099,Arkansas
+Bentonville,406 South Walton Blvd,"406 South Walton Blvd, Bentonville",479-326-8787,72712,36.346567,-94.25628,Arkansas
+Blytheville,400 N 6th St,"400 N 6th St, Blytheville",870-762-1800,72315,35.902669,-89.903375,Arkansas
+Bryant,3415 Highway 5 N,"3415 Highway 5 N, Bryant",501-847-6100,72019,34.63803,-92.685264,Arkansas
+Cabot,721 S. 2nd Street,"721 S. 2nd Street, Cabot",501-605-9111,72023,34.964267,-92.063652,Arkansas
+Camden,941 California Ave SW Suite B,"941 California Ave SW Suite B, Camden",870-498-8600,71701,33.586463,-92.81969,Arkansas
+Centerton,1227 West Centerton Road,"1227 West Centerton Road, Centerton",479-354-5494,72719,36.367161,-94.295087,Arkansas
+Clarksville,123 W. Main St,"123 W. Main St, Clarksville",479-802-5044,72830,35.509167,-93.515619,Arkansas
+Conway,740 S. Salem Rd. Suite 114,"740 S. Salem Rd. Suite 114, Conway",501-450-3000,72034,35.049921,-92.486049,Arkansas
+Eldorado,1300 N West Avenue,"1300 N West Avenue, Eldorado",870-862-0300,71730,33.198844,-92.627076,Arkansas
+Farmington,320 West Main Street,"320 West Main Street, Farmington",479-300-6363,72730,36.030477,-94.268676,Arkansas
+Fayetteville,1113 N Garland Ave,"1113 N Garland Ave, Fayetteville",479-442-3600,72703,36.118332,-94.043243,Arkansas
+Forrest City,201 Deadrick Rd,"201 Deadrick Rd, Forrest",870-494-3030,72335,34.994363,-90.745986,Arkansas
+Fort Smith,3701 Phoenix Ave,"3701 Phoenix Ave, Fort",479-785-0841,72903,35.350978,-94.361247,Arkansas
+Greenbrier,52 SOUTH BROADVIEW STE 101,"52 SOUTH BROADVIEW STE 101, Greenbrier",501-679-3988,72058,35.245918,-92.374199,Arkansas
+Alameda,1215 Lincoln Avenue,"1215 Lincoln Avenue, Alameda",510-865-8000,94501,37.773793,-122.278115,California
+Albany,1421 Solano Avenue,"1421 Solano Avenue, Albany",510-526-9346,94706,37.889704,-122.295531,California
+Alhambra,703 S Atlantic Blvd,"703 S Atlantic Blvd, Alhambra",626-289-5694,91803,34.074736,-118.145959,California
+Aliso Viejo,27131 Aliso Creek,"27131 Aliso Creek, Aliso",949-389-0333,92656,33.576212,-117.730368,California
+Alta Loma,10431 Lemon St. #N,"10431 Lemon St. #N, Alta",909-989-7777,91737,34.152583,-117.577707,California
+Anaheim,1235 S Euclid St,"1235 S Euclid St, Anaheim",714-776-0111,92802,33.808267,-117.923658,California
+Antelope,8008 Walerga Rd. Suite 400,"8008 Walerga Rd. Suite 400, Antelope",916-721-0304,95842,38.686809,-121.349146,California
+Antioch,2333 B Buchanan Road,"2333 B Buchanan Road, Antioch",925-757-3030,94909,0,0,California
+Apple Valley,20200 Outer Hwy 18 Ste D,"20200 Outer Hwy 18 Ste D, Apple",760-946-2323,92307,34.571218,-117.133073,California
+Arcata,1731 G Street,"1731 G Street, Arcata",999-999-9999,95521,40.855694,-124.066898,California
+Arroyo Grande,1231 E. Grand Ave #107,"1231 E. Grand Ave #107, Arroyo",805-481-3171,93420,35.176043,-120.476694,California
+Artesia,12210 Artesia Blvd,"12210 Artesia Blvd, Artesia",562-860-3320,90701,33.8676,-118.080612,California
+Atascadero,8305 El Camino Real,"8305 El Camino Real, Atascadero",805-466-7880,93422,35.463544,-120.692911,California
+Atwater,510 E Bellevue Rd,"510 E Bellevue Rd, Atwater",209-357-9866,95301,37.321233,-120.654395,California
+Auburn,2260 A Grass Valley Hwy,"2260 A Grass Valley Hwy, Auburn",530-325-0330,95603,38.915869,-121.080284,California
+Azusa,734 N Azusa Ave,"734 N Azusa Ave, Azusa",626-969-3030,91702,34.280333,-117.866141,California
+Bakersfield,2306 Brundage Lane,"2306 Brundage Lane, Bakersfield",661-323-3030,93304,35.339702,-119.023451,California
+Baldwin Park,14604 Ramona Blvd #3,"14604 Ramona Blvd #3, Baldwin",626-960-5002,91706,34.09741,-117.968269,California
+Banning,3559 W. Ramsey Street Ste B,"3559 W. Ramsey Street Ste B, Banning",951-849-7770,92220,33.948948,-116.832362,California
+Barstow,560 East Virginia Way Suite B,"560 East Virginia Way Suite B, Barstow",760-256-0668,92311,34.980294,-116.964449,California
+Alamosa,1109 6th St,"1109 6th St, Alamosa",719-587-3030,81101,37.481245,-105.833213,Colorado
+Arvada,8757 Wadsworth Blvd,"8757 Wadsworth Blvd, Arvada",303-425-0993,80003,39.825373,-105.063525,Colorado
+Aurora,15355 E Colfax Ave Suite L,"15355 E Colfax Ave Suite L, Aurora",303-360-9091,80011,39.738764,-104.782159,Colorado
+Avon,51 West Beaver Creek Place,"51 West Beaver Creek Place, Avon",970-949-3230,81620,39.595601,-106.513435,Colorado
+Bennett,550 East Colfax Ave,"550 East Colfax Ave, Bennett",303-644-4400,80102,39.74599,-104.442841,Colorado
+Boulder,1538 28th St,"1538 28th St, Boulder",30344908,80302,40.043465,-105.372324,Colorado
+Brighton,530 East Bromley Lane Unit #110,"530 East Bromley Lane Unit #110, Brighton",720-685-3334,80601,39.962027,-104.807809,Colorado
+Broomfield,5159 W 120th Ave,"5159 W 120th Ave, Broomfield",303-466-4664,80020,39.930782,-105.074287,Colorado
+Buckley Air Force Base,365 N. Telluride,"365 N. Telluride, Buckley",303-367-3008,80011,39.738764,-104.782159,Colorado
+Buena Vista,12950 Hwy 24-285 Unit B,"12950 Hwy 24-285 Unit B, Buena",719-395-3331,81211,38.973327,-106.381258,Colorado
+Canon City,1003 Royal Gorge Blvd,"1003 Royal Gorge Blvd, Canon",719-275-1631,81212,38.535754,-105.398394,Colorado
+Carbondale,1089 Highway 133,"1089 Highway 133, Carbondale",970-704-0330,81623,39.24658,-107.162855,Colorado
+Castle Rock,558 Castle Pines Pkwy,"558 Castle Pines Pkwy, Castle",720-738-3030,80108,39.44552,-104.853001,Colorado
+Centennial,10909 E. Arapahoe Pl,"10909 E. Arapahoe Pl, Centennial",303-779-8202,80111,39.613005,-104.877957,Colorado
+Colorado Springs,9673 Prominent Pt,"9673 Prominent Pt, Colorado",719-434-9996,80918,38.910393,-104.780362,Colorado
+Commerce City,12302 E 104th Place,"12302 E 104th Place, Commerce",303-577-3030,80022,39.879646,-104.798722,Colorado
+Conifer,25597 Conifer Rd,"25597 Conifer Rd, Conifer",720-770-1212,80433,39.477721,-105.262386,Colorado
+Cortez,2224 E Main St,"2224 E Main St, Cortez",970-565-7373,81321,37.31297,-108.734537,Colorado
+Craig,1111 W. Victory Way Ste 124,"1111 W. Victory Way Ste 124, Craig",970-824-4855,81625,40.745223,-107.694794,Colorado
+Delta,350 Stafford Lane,"350 Stafford Lane, Delta",970-874-5678,81416,38.752074,-108.136959,Colorado
+Ansonia,137-139 N Main St,"137-139 N Main St, Ansonia",203-732-3030,06401,41.344249,-73.069825,Connecticut
+Berlin,544 Demming Rd. Suite C,"544 Demming Rd. Suite C, Berlin",860-438-7895,06037,41.605477,-72.778459,Connecticut
+Bethel,286 Greenwood Ave,"286 Greenwood Ave, Bethel",203-748-3300,06801,41.369778,-73.389503,Connecticut
+Bloomfield,699 Park Ave,"699 Park Ave, Bloomfield",860-969-4777,06002,41.84493,-72.740951,Connecticut
+Bridgeport,2308 Main Street,"2308 Main Street, Bridgeport",203-334-3030,06606,41.21211,-73.206673,Connecticut
+Bristol,656 Farmington Avenue,"656 Farmington Avenue, Bristol",860-582-5100,06010,41.681578,-72.940749,Connecticut
+Clinton,266 East Main Street,"266 East Main Street, Clinton",860-552-4829,06413,41.29561,-72.529125,Connecticut
+Cos Cob,142 East Putnam Ave,"142 East Putnam Ave, Cos",203-661-2202,06807,41.056732,-73.592029,Connecticut
+Danbury,36 Tamarack Ave,"36 Tamarack Ave, Danbury",203-790-7700,06811,41.422586,-73.478364,Connecticut
+Dayville,1070 N Main St,"1070 N Main St, Dayville",860-774-4442,06241,41.853901,-71.847371,Connecticut
+East Granby,52 Rainbow rd,"52 Rainbow rd, East",860-413-3499,06026,41.929719,-72.745378,Connecticut
+East Hartford,775 Silver Lane Unit 2A,"775 Silver Lane Unit 2A, East",860-569-1700,06108,41.780375,-72.623945,Connecticut
+East Haven,9 Foxon Blvd,"9 Foxon Blvd, East",203-467-1361,06513,41.316688,-72.870791,Connecticut
+Enfield,920 ENFIELD ST,"920 ENFIELD ST, Enfield",860-265-2424,06082,41.983993,-72.555553,Connecticut
+Fairfield,1580 Post Rd,"1580 Post Rd, Fairfield",203-255-8823,06824,41.173039,-73.280818,Connecticut
+Groton,314 Route 12,"314 Route 12, Groton",860-449-9135,06340,41.357477,-72.04178,Connecticut
+Hamden,2545 Whitney Ave,"2545 Whitney Ave, Hamden",203-288-3800,06518,41.430832,-72.912021,Connecticut
+Hartford,312 Farmington Ave,"312 Farmington Ave, Hartford",860-246-8333,06105,41.774705,-72.705037,Connecticut
+Manchester,23 Main St,"23 Main St, Manchester",860-645-6000,06042,41.802752,-72.521008,Connecticut
+Meriden,172 West Main Street,"172 West Main Street, Meriden",203-630-3030,06451,41.541906,-72.823409,Connecticut
+Bear,797 Pulaski Highway,"797 Pulaski Highway, Bear",302-836-3300,19701,39.583171,-75.700899,Delaware
+Camden,374 Walmart Drive Unit 5,"374 Walmart Drive Unit 5, Camden",302-697-8888,19934,39.084727,-75.627355,Delaware
+Cheswold,4 Jerome Drive,"4 Jerome Drive, Cheswold",302-674-1111,19901,39.181546,-75.473517,Delaware
+Dover,261 N. Dupont Hwy #3B,"261 N. Dupont Hwy #3B, Dover",302-735-3333,19901,39.181546,-75.473517,Delaware
+Elsmere,504 Kirkwood Highway,"504 Kirkwood Highway, Elsmere",302-990-2000,19805,39.743799,-75.593842,Delaware
+Georgetown,20775 Dupont Blvd,"20775 Dupont Blvd, Georgetown",302-855-9000,19947,38.66649,-75.398202,Delaware
+Harrington,1000 midway dr,"1000 midway dr, Harrington",302-398-4400,19952,38.921424,-75.628425,Delaware
+Hockessin,7465 Lancaster Pike,"7465 Lancaster Pike, Hockessin",302-307-3333,19707,39.785685,-75.68364,Delaware
+Laurel,30182 Sussex Hwy Unit 3,"30182 Sussex Hwy Unit 3, Laurel",302-875-1000,19956,38.547715,-75.538158,Delaware
+Lewes,17884 Coastal Highway,"17884 Coastal Highway, Lewes",302-604-5200,19958,38.728722,-75.168469,Delaware
+Middletown,4416 Summit Bridge Road,"4416 Summit Bridge Road, Middletown",302-376-7000,19709,39.494582,-75.675004,Delaware
+Milford,105 Aerenson Drive,"105 Aerenson Drive, Milford",302-424-4444,19963,38.943253,-75.362567,Delaware
+Millsboro,26396 Bay Farm Rd,"26396 Bay Farm Rd, Millsboro",302-945-5000,19966,38.579422,-75.277196,Delaware
+Milton,132 Broadkill Rd.,"132 Broadkill Rd., Milton",302-684-5000,19968,38.773925,-75.286885,Delaware
+New Castle,1202 Delaware St,"1202 Delaware St, New",302-323-1515,19720,39.646922,-75.604852,Delaware
+Newark,266 Polly Drummond Hill Road,"266 Polly Drummond Hill Road, Newark",302-738-2200,19711,39.713598,-75.741073,Delaware
+Seaford,234737 Sussex Hwy,"234737 Sussex Hwy, Seaford",302-628-5000,19973,38.638896,-75.615899,Delaware
+Smyrna,230 E Glenwood Ave,"230 E Glenwood Ave, Smyrna",302-653-3333,19977,39.298946,-75.546122,Delaware
+Wilmington,4528 Kirkwood Highway,"4528 Kirkwood Highway, Wilmington",302-994-3030,19808,39.737615,-75.667057,Delaware
+Alachua,15634 NW Hwy 441,"15634 NW Hwy 441, Alachua",386-462-2000,32615,29.819084,-82.486161,Florida
+Altamonte Springs,532 W SR 436,"532 W SR 436, Altamonte",407-682-2737,32714,28.662553,-81.411702,Florida
+Apollo Beach,221 Apollo Beach Blvd,"221 Apollo Beach Blvd, Apollo",813-773-7333,33572,27.761109,-82.40858,Florida
+Apopka,3840 Florida 436,"3840 Florida 436, Apopka",407-789-2500,32703,28.671439,-81.553055,Florida
+Arcadia,1332 E Oak Street,"1332 E Oak Street, Arcadia",863-993-3737,34266,27.192286,-81.820248,Florida
+Atlantic Beach,2440 Mayport Rd #1,"2440 Mayport Rd #1, Atlantic",904-241-7231,32233,30.358873,-81.419388,Florida
+Auburndale,316 Havendale Blvd,"316 Havendale Blvd, Auburndale",863-280-6900,33823,28.085735,-81.813731,Florida
+Aventura,18173 Biscayne Blvd,"18173 Biscayne Blvd, Aventura",786-648-5400,33160,25.933997,-80.135801,Florida
+Avon Park,1093 W Main St,"1093 W Main St, Avon",863-452-5116,33825,27.620252,-81.458826,Florida
+Bal Harbour,9501 Harding Ave,"9501 Harding Ave, Bal",786-744-7739,33154,25.883337,-80.131831,Florida
+Belleview,5830 Se Abshire Blvd,"5830 Se Abshire Blvd, Belleview",352-307-8885,34420,29.052734,-82.036487,Florida
+Boca Raton,21073 Powerline Road Ste 39,"21073 Powerline Road Ste 39, Boca",561-483-8331,33433,26.347159,-80.159235,Florida
+Bonita Springs,26455 Old US 41 #2,"26455 Old US 41 #2, Bonita",239-992-9400,34135,26.355541,-81.75432,Florida
+Boynton Beach,1660 S. Congress Ave,"1660 S. Congress Ave, Boynton",561-600-4999,33426,26.533736,-80.083152,Florida
+Bradenton,909 1st St E,"909 1st St E, Bradenton",941-747-7879,34205,27.484084,-82.581821,Florida
+Brandon,1903 W Brandon Blvd,"1903 W Brandon Blvd, Brandon",813-681-4330,33511,27.909778,-82.295738,Florida
+Brooksville,7305 Broad st,"7305 Broad st, Brooksville",352-796-8888,34601,28.588628,-82.351186,Florida
+Callahan,450092 SR 200 #7B,"450092 SR 200 #7B, Callahan",904-879-5211,32011,30.571111,-81.839579,Florida
+Cantonment,394 Highway 29 South,"394 Highway 29 South, Cantonment",850-968-1233,32533,30.610506,-87.326783,Florida
+Cape Coral,1609 Andalusia Blvd,"1609 Andalusia Blvd, Cape",239-458-9905,33909,26.693201,-81.945126,Florida
+Acworth,3505 Baker Rd,"3505 Baker Rd, Acworth",770-975-3030,30101,34.034515,-84.707349,Georgia
+Adel,410 N. Hutchinson Ave,"410 N. Hutchinson Ave, Adel",229-896-2100,31620,31.117296,-83.434236,Georgia
+Albany,262 Cordele Rd,"262 Cordele Rd, Albany",229-800-8444,31705,31.51689,-84.042942,Georgia
+Alpharetta,9925 Haynes Bridge Road,"9925 Haynes Bridge Road, Alpharetta",770-442-3030,30022,34.029865,-84.239745,Georgia
+Americus,611 A E. Lamar,"611 A E. Lamar, Americus",229-928-2000,31709,32.064806,-84.123242,Georgia
+Athens,3190 Atlanta Hwy Ste 30,"3190 Atlanta Hwy Ste 30, Athens",706-354-1179,30606,33.937551,-83.424964,Georgia
+Atlanta,3300 Buford Highway,"3300 Buford Highway, Atlanta",404-633-3231,30329,33.827479,-84.323017,Georgia
+Augusta,46 13th Street,"46 13th Street, Augusta",706-481-2009,30901,33.437213,-81.956156,Georgia
+Austell,3999 Austell Rd,"3999 Austell Rd, Austell",678-784-3660,30106,33.83901,-84.628247,Georgia
+Bainbridge,505 S Scott Street,"505 S Scott Street, Bainbridge",229-243-0992,39817,30.943525,-84.602003,Georgia
+Ball Ground,8302 Canton Hwy,"8302 Canton Hwy, Ball",678-454-5000,30107,34.336291,-84.345793,Georgia
+Baxley,371 West Parker Street Suite A,"371 West Parker Street Suite A, Baxley",912-333-8008,31513,31.77705,-82.347726,Georgia
+Blackshear,3509 US Hwy 84,"3509 US Hwy 84, Blackshear",912-807-8700,31516,31.309373,-82.25325,Georgia
+Blairsville,199 Highway 515 W,"199 Highway 515 W, Blairsville",706-745-5400,30512,34.85953,-83.960571,Georgia
+Blue Ridge,4295 Old Hwy. 76 Suite E,"4295 Old Hwy. 76 Suite E, Blue",706-632-4777,30513,34.821043,-84.322383,Georgia
+Braselton,6072 Highway 53 Ste A,"6072 Highway 53 Ste A, Braselton",706-658-0000,30517,34.130358,-83.797204,Georgia
+Bremen,151 US Hwy 27 Bypass,"151 US Hwy 27 Bypass, Bremen",770-537-5170,30110,33.744459,-85.135938,Georgia
+Brunswick,108 Scranton Connector,"108 Scranton Connector, Brunswick",912-267-0822,31525,31.3211,-81.526435,Georgia
+Buford,1879 Hwy 13,"1879 Hwy 13, Buford",770-945-1400,30518,34.130846,-84.027398,Georgia
+Byron,233 GA HWY 49,"233 GA HWY 49, Byron",478-654-7272,31008,32.665346,-83.785924,Georgia
+Ewa Beach,91-1001 Kaimalie,"91-1001 Kaimalie, Ewa",808-689-8323,96706,21.344763,-158.022279,Hawaii
+Hauula,54-316 Kamehameha Hwy #8,"54-316 Kamehameha Hwy #8, Hauula",808-293-2300,96717,21.557794,-157.90534,Hawaii
+Hilo,315 Maka'ala Street,"315 Maka'ala Street, Hilo",808-825-4030,96720,19.65981,-155.232473,Hawaii
+Honolulu,535 Wisser Road,"535 Wisser Road, Honolulu",808-744-1500,96819,21.347117,-157.877317,Hawaii
+Kahului,80 Hookele Street Unit 410,"80 Hookele Street Unit 410, Kahului",808-793-3434,96732,20.883783,-156.462641,Hawaii
+Kailua,26 Hoolai St Unit 800,"26 Hoolai St Unit 800, Kailua",808-262-9072,96734,21.395084,-157.758188,Hawaii
+Kailua Kona,75-1027 Henry St.,"75-1027 Henry St., Kailua",808-329-9500,96740,19.75682,-155.919968,Hawaii
+Kamuela,67-1185 Mamalahoa Highway,"67-1185 Mamalahoa Highway, Kamuela",808-885-4400,96743,19.862159,-155.69887,Hawaii
+Kaneohe,45-934 Kamehameha Highway,"45-934 Kamehameha Highway, Kaneohe",808-468-8080,96744,21.451733,-157.824227,Hawaii
+Kapolei,4850 Kapolei Parkway #B-1,"4850 Kapolei Parkway #B-1, Kapolei",808-492-1100,96707,21.363106,-158.082206,Hawaii
+Lihue,4454 Nuhou street Unit 401,"4454 Nuhou street Unit 401, Lihue",808-212-1010,96766,21.991913,-159.398906,Hawaii
+Mililani,95-1057 Ainamakua Drive Building F-1,"95-1057 Ainamakua Drive Building F-1, Mililani",808-888-0030,96789,21.483875,-157.934284,Hawaii
+Pahoa,15-2714 Pahoa Village Road Ste I-1,"15-2714 Pahoa Village Road Ste I-1, Pahoa",808-491-0111,96778,19.43894,-155.028176,Hawaii
+Pearl City,1160 Kuala Street #202,"1160 Kuala Street #202, Pearl",808-200-1500,96782,21.417374,-157.936867,Hawaii
+Schofield Barracks,Bldg 694 McCornack Road FD004,"Bldg 694 McCornack Road FD004, Schofield",808-744-0137,96857,21.486745,-158.0515,Hawaii
+Wahiawa,211 Hiwi Pl,"211 Hiwi Pl, Wahiawa",808-200-2000,96786,21.564057,-157.979306,Hawaii
+Waikoloa,68-1820 Waikoloa Road #E502,"68-1820 Waikoloa Road #E502, Waikoloa",808-333-5463,96738,19.871941,-155.802163,Hawaii
+Wailuku,52 Maui Lani Parkway D-6,"52 Maui Lani Parkway D-6, Wailuku",808-213-0303,96793,20.895445,-156.530122,Hawaii
+Waipahu,94 673 Kupuohi Street #B207,"94 673 Kupuohi Street #B207, Waipahu",808-888-6161,96797,21.430996,-157.972895,Hawaii
+Ammon,1675 Market Way,"1675 Market Way, Ammon",208-523-3030,83406,43.443948,-111.811633,Idaho
+Blackfoot,1233 Parkway Drive Suite D,"1233 Parkway Drive Suite D, Blackfoot",208-782-0303,83221,43.324081,-112.552045,Idaho
+Boise,10396 Fairview Ave,"10396 Fairview Ave, Boise",208-377-5201,83704,43.627161,-116.287653,Idaho
+Buhl,715 Hwy 30,"715 Hwy 30, Buhl",208-537-7333,83316,42.619859,-114.882859,Idaho
+Burley,216 E 5th St N,"216 E 5th St N, Burley",208-647-0333,83318,42.439675,-113.815864,Idaho
+Caldwell,5720 Cleveland Blvd. Suite 101,"5720 Cleveland Blvd. Suite 101, Caldwell",208-453-7111,83607,43.709411,-116.750541,Idaho
+Chubbuck,110 KNUDSON BLVD SUITE C,"110 KNUDSON BLVD SUITE C, CHUBBUCK",208-237-5500,83202,42.925511,-112.182742,Idaho
+Coeur D Alene,50 E. Neider Ave,"50 E. Neider Ave, Coeur",208-765-1216,83815,47.726282,-116.789948,Idaho
+Eagle,498 East State Street,"498 East State Street, Eagle",208-939-4440,83616,43.775559,-116.394918,Idaho
+Emmett,1103 S Washington,"1103 S Washington, Emmett",208-963-4733,83617,43.936819,-116.505193,Idaho
+Fruitland,1700 N Whitley Dr,"1700 N Whitley Dr, Fruitland",208-452-6755,83619,43.966099,-116.910257,Idaho
+Hailey,20 E Bullion St,"20 E Bullion St, Hailey",208-578-2100,83333,43.568308,-114.31095,Idaho
+Hayden,9000 Hess Street,"9000 Hess Street, Hayden",208-772-8210,83835,47.79695,-116.660251,Idaho
+Idaho Falls,945 W. Broadway,"945 W. Broadway, Idaho",208-523-7530,83402,43.534886,-112.174467,Idaho
+Jerome,2716 S Lincoln Ave,"2716 S Lincoln Ave, Jerome",208-644-1300,83338,42.725104,-114.431903,Idaho
+Kellogg,2 North Division Street,"2 North Division Street, Kellogg",208-682-1500,83837,47.506543,-116.109692,Idaho
+Kuna,1027 E. Kuna Rd,"1027 E. Kuna Rd, Kuna",208-922-3399,83634,43.455641,-116.32854,Idaho
+Lewiston,513 Main St,"513 Main St, Lewiston",208-746-9595,83501,46.208729,-116.913734,Idaho
+Meridian,1701 W Cherry Lane,"1701 W Cherry Lane, Meridian",208-887-6400,83642,43.568006,-116.404411,Idaho
+Moscow,317 West 6th Street suite #105,"317 West 6th Street suite #105, Moscow",208-883-1555,83843,46.722245,-116.940158,Idaho
+Algonquin,3903 W Algonquin Rd,"3903 W Algonquin Rd, Algonquin",847-854-5554,60102,42.165165,-88.308768,Illinois
+Antioch,646 Rt. 173,"646 Rt. 173, Antioch",847-838-3030,60002,42.471741,-88.084493,Illinois
+Arlington Heights,1141 S Arlington Hts Rd #A,"1141 S Arlington Hts Rd #A, Arlington",847-758-1010,60005,42.06449,-87.985462,Illinois
+Aurora,950 North Farnsworth,"950 North Farnsworth, Aurora",630-898-5710,60505,41.764527,-88.294658,Illinois
+Batavia,135 N Randall Rd,"135 N Randall Rd, Batavia",630-425-2800,60510,41.841141,-88.306602,Illinois
+Beach Park,38973 N. Lewis Avenue,"38973 N. Lewis Avenue, Beach",847-249-4050,60099,42.459988,-87.865021,Illinois
+Belleville,4000 W Main Street,"4000 W Main Street, Belleville",618-277-0300,62226,38.535162,-89.999556,Illinois
+Benton,321 N Main Street,"321 N Main Street, Benton",618-439-9200,62812,37.997347,-88.916946,Illinois
+Berwyn,6613 Cermak Rd,"6613 Cermak Rd, Berwyn",708-749-4949,60402,41.835216,-87.791373,Illinois
+Bethalto,147 E. Bethalto Dr,"147 E. Bethalto Dr, Bethalto",618-377-3030,62010,38.921117,-90.045305,Illinois
+Bloomington,1514 West Market Street,"1514 West Market Street, Bloomington",309-603-2121,61701,40.476769,-88.992994,Illinois
+Blue Island,2411 W 119th Street,"2411 W 119th Street, Blue",708-239-0009,60406,41.654945,-87.681952,Illinois
+Bolingbrook,158 N. Bolingbrook Dr.,"158 N. Bolingbrook Dr., Bolingbrook",630-759-7421,60440,41.7006,-88.075006,Illinois
+Bourbonnais,100 E John Casey Drive,"100 E John Casey Drive, Bourbonnais",815-939-6400,60914,41.187368,-87.861802,Illinois
+Bridgeport,3145 South Ashland,"3145 South Ashland, Bridgeport",773-901-4900,60608,41.84688,-87.670664,Illinois
+Bridgeview,10260 s Harlem ave,"10260 s Harlem ave, Bridgeview",708-233-0700,60455,41.742093,-87.808649,Illinois
+Buffalo Grove,133 N Arlington Heights Road,"133 N Arlington Heights Road, Buffalo",847-459-1803,60089,42.167231,-87.964063,Illinois
+Burnham,13850 Brainard Ave,"13850 Brainard Ave, Burnham",872-221-1399,60633,41.663809,-87.56147,Illinois
+Cahokia,1302-1 Camp Jackson Rd.,"1302-1 Camp Jackson Rd., Cahokia",618-332-2266,62206,38.572218,-90.166692,Illinois
+Calumet City,1088-1086 Sibley Blvd,"1088-1086 Sibley Blvd, Calumet",708-808-2121,60409,41.613641,-87.552122,Illinois
+Anderson,1827 E. 18th St.,"1827 E. 18th St., Anderson",765-644-2900,46016,40.097817,-85.681513,Indiana
+Angola,1500 N Wayne St,"1500 N Wayne St, Angola",260-665-3880,46703,41.649589,-85.00655,Indiana
+Avon,7810 E. U.S. 36 SUITE A AVON,"7810 E. U.S. 36 SUITE A AVON, AVON",317-272-3050,46123,39.764395,-86.403457,Indiana
+Batesville,14 Alpine Drive,"14 Alpine Drive, Batesville",812-717-3555,47170,38.685201,-85.844056,Indiana
+Bedford,1605 M Street,"1605 M Street, Bedford",812-508-8484,47421,38.863494,-86.45223,Indiana
+Bloomington,2504 East 3rd Street,"2504 East 3rd Street, Bloomington",812-650-7033,47401,39.102306,-86.442835,Indiana
+Brazil,324 East National Avenue,"324 East National Avenue, Brazil",812-420-5011,47834,39.525549,-87.121971,Indiana
+Brownsburg,5801 N. GREEN ST. STE 107,"5801 N. GREEN ST. STE 107, BROWNSBURG",317-852-6222,46112,39.86391,-86.382425,Indiana
+Carmel,1441 S. Guilford Rd. Suite 110,"1441 S. Guilford Rd. Suite 110, Carmel",317-846-6100,46032,39.962604,-86.174761,Indiana
+Charlestown,1033 Market St,"1033 Market St, Charlestown",812-256-6600,47111,38.466355,-85.632505,Indiana
+Chesterton,560 Indian Boundary,"560 Indian Boundary, Chesterton",219-250-3068,46304,41.613633,-87.046206,Indiana
+Cicero,130 South Peru Street,"130 South Peru Street, Cicero",317-984-7307,46034,40.127927,-86.046784,Indiana
+Clarksville,914 Eastern Blvd suite 500,"914 Eastern Blvd suite 500, Clarksville",812-288-4444,47129,38.313141,-85.768453,Indiana
+Columbus,1770 25th Street,"1770 25th Street, Columbus",812-348-6300,47201,39.158873,-85.993199,Indiana
+Connersville,2050 N Park Rd,"2050 N Park Rd, Connersville",765-222-3015,47331,39.624084,-85.157338,Indiana
+Corydon,1780 OLD HWY 135 NW,"1780 OLD HWY 135 NW, Corydon",812-738-6999,47112,38.195517,-86.162499,Indiana
+Crawfordsville,1500 S. Washington Street,"1500 S. Washington Street, Crawfordsville",765-307-4047,47933,40.038913,-86.896849,Indiana
+Crown Point,1494 N Main St,"1494 N Main St, Crown",219-662-0313,46307,41.403937,-87.326039,Indiana
+Edinburgh,8843 US Hwy 31,"8843 US Hwy 31, Edinburgh",812-526-4000,46124,39.370017,-85.92791,Indiana
+Elkhart,30830 Old US 20,"30830 Old US 20, Elkhart",574-621-3330,46514,41.722641,-85.976908,Indiana
+Adel,710 Common Pl,"710 Common Pl, Adel",515-581-7020,50003,41.611504,-94.043026,Iowa
+Altoona,408 8th St SW,"408 8th St SW, Altoona",515-957-0003,50009,41.644957,-93.45933,Iowa
+Ames,122 Hayward Ave,"122 Hayward Ave, Ames",515-292-3030,50014,42.046297,-93.694448,Iowa
+Ankeny,1002 SE National Dr,"1002 SE National Dr, Ankeny",515-650-8777,50021,41.724267,-93.56532,Iowa
+Bettendorf,2420 18th Street,"2420 18th Street, Bettendorf",563-359-7777,52722,41.5743,-90.471526,Iowa
+Boone,528 Story St,"528 Story St, Boone",515-236-5747,50036,42.085554,-93.864204,Iowa
+Burlington,3220 E Agency St,"3220 E Agency St, Burlington",319-752-3030,52601,40.85605,-91.129717,Iowa
+Cedar Falls,2024 College St.,"2024 College St., Cedar",319-266-3333,50613,42.53138,-92.485808,Iowa
+Cedar Rapids,2460 EDGEWOOD RD SW SUIT 300 Cedar Rapids,"2460 EDGEWOOD RD SW SUIT 300 Cedar Rapids, Cedar",319-366-3030,52404,41.923056,-91.698866,Iowa
+Clinton,1122 North 2nd Street,"1122 North 2nd Street, Clinton",563-241-7900,52732,41.891044,-90.253005,Iowa
+Clive,15920 HICKMAN RD #100,"15920 HICKMAN RD #100, Clive",515-987-0770,50325,41.613243,-93.797871,Iowa
+Coralville,2441 James St,"2441 James St, Coralville",319-499-1900,52241,41.699578,-91.595951,Iowa
+Council Bluffs,2004 W Broadway,"2004 W Broadway, Council",712-325-8848,51501,41.227277,-95.878439,Iowa
+Creston,806 Laurel Street,"806 Laurel Street, Creston",641-362-4777,50801,41.078671,-94.401822,Iowa
+Davenport,902 W Kimberly Rd,"902 W Kimberly Rd, Davenport",563-362-2424,52806,41.589689,-90.625902,Iowa
+Des Moines,3701 E 14st Suite 110,"3701 E 14st Suite 110, Des",515-505-3230,50313,41.654477,-93.62418,Iowa
+Dubuque,2013 Central,"2013 Central, Dubuque",563-556-2300,52001,42.545527,-90.695841,Iowa
+Eldridge,619 E Le Claire Rd,"619 E Le Claire Rd, Eldridge",563-279-0007,52748,41.665776,-90.554924,Iowa
+Fort Dodge,1430 5th Ave S,"1430 5th Ave S, Fort",515-576-1111,50501,42.492334,-94.192499,Iowa
+Indianola,1011 N. Jefferson Way #400,"1011 N. Jefferson Way #400, Indianola",515-552-1030,50125,41.335185,-93.584634,Iowa
+Andover,321 S. Andover Rd. #500,"321 S. Andover Rd. #500, Andover",316-351-5882,67002,37.700947,-97.107258,Kansas
+Arkansas City,2401 N Summit St,"2401 N Summit St, Arkansas",620-307-5998,67005,37.065173,-96.995733,Kansas
+Augusta,2330 Ohio Street #100,"2330 Ohio Street #100, Augusta",316-247-9247,67010,37.663117,-96.96528,Kansas
+Basehor,15630 Pinehurst Dr,"15630 Pinehurst Dr, Basehor",913-662-7878,66007,39.156186,-94.941707,Kansas
+Chanute,1422 S Santa Fe,"1422 S Santa Fe, Chanute",620-305-4010,66720,37.64833,-95.45719,Kansas
+Derby,2100 N. Rock Rd. Suite 600,"2100 N. Rock Rd. Suite 600, Derby",316-295-2829,67037,37.571832,-97.217235,Kansas
+Dodge City,2205 Central Avenue,"2205 Central Avenue, Dodge",620-371-5498,67801,37.723603,-100.057186,Kansas
+El Dorado,2422 W. Central Ave Suite 100,"2422 W. Central Ave Suite 100, El",316-320-3533,67042,37.857264,-96.780718,Kansas
+Emporia,2326 Industrial Rd Suite 100,"2326 Industrial Rd Suite 100, Emporia",620-341-9411,66801,38.414215,-96.218301,Kansas
+Fort Riley,6914 Warren Rd,"6914 Warren Rd, Fort",999-999-9999,66442,39.091847,-96.790133,Kansas
+Ft. Riley,640 Huebner Rd.,"640 Huebner Rd., Ft.",785-761-2480,66442,39.091847,-96.790133,Kansas
+Ft. Scott,2 Jersey St,"2 Jersey St, Ft.",620-768-5533,66701,37.823655,-94.765014,Kansas
+Garden City,2312 E Kansas Ave Suite C,"2312 E Kansas Ave Suite C, Garden",620-277-7096,67846,38.034156,-100.768068,Kansas
+Gardner,937 Lincoln Lane,"937 Lincoln Lane, Gardner",913-884-7200,66030,38.815137,-94.940266,Kansas
+Great Bend,3703 10 St STE 3703,"3703 10 St STE 3703, Great",620-400-5030,67530,38.352059,-98.794484,Kansas
+Hays,2505 Vine Street,"2505 Vine Street, Hays",785-625-2311,67601,38.876881,-99.349544,Kansas
+Hutchinson,2500 N. Main,"2500 N. Main, Hutchinson",620-259-7585,67502,38.126736,-97.929949,Kansas
+Independence,100 N 25th St,"100 N 25th St, Independence",620-577-6060,67301,37.20823,-95.756081,Kansas
+Junction City,603 W 6th St.,"603 W 6th St., Junction",785-762-2500,66441,38.97352,-96.803088,Kansas
+Kansas City,8055 State Ave,"8055 State Ave, Kansas",913-766-2333,66112,39.11452,-94.773577,Kansas
+Alexandria,7647 Alexandria Pike,"7647 Alexandria Pike, Alexandria",859-448-2600,41001,38.917606,-84.40337,Kentucky
+Ashland,1243 Carter Ave.,"1243 Carter Ave., Ashland",606-325-7777,41101,38.473824,-82.647933,Kentucky
+Bardstown,701 N. Third Street,"701 N. Third Street, Bardstown",502-348-1274,40004,37.803188,-85.465955,Kentucky
+Beaver Dam,1351 North Main Street,"1351 North Main Street, Beaver",270-363-2218,42320,37.332728,-86.867017,Kentucky
+Benton,31 Carroll Dr Ste B,"31 Carroll Dr Ste B, Benton",270-527-1030,42025,36.856924,-88.334714,Kentucky
+Berea,119 Clay Drive,"119 Clay Drive, Berea",859-986-7445,40403,37.570447,-84.271931,Kentucky
+Bowling Green,3901 Scottsville Road,"3901 Scottsville Road, Bowling",270-781-1000,42104,36.876864,-86.45119,Kentucky
+Brandenburg,757 Bypass Road,"757 Bypass Road, Brandenburg",270-422-4230,40108,37.969937,-86.172853,Kentucky
+Burlington,1785 Patrick Drive,"1785 Patrick Drive, Burlington",859-586-0444,41005,39.006759,-84.760116,Kentucky
+Campbellsville,716 E Broadway Street,"716 E Broadway Street, Campbellsville",270-789-1115,42718,37.385228,-85.373081,Kentucky
+Central City,605 W Everly Brothers Blvd,"605 W Everly Brothers Blvd, Central",270-757-9300,42330,37.321997,-87.115992,Kentucky
+Corbin,1504 Cumberland Falls Hwy,"1504 Cumberland Falls Hwy, Corbin",606-528-0414,40701,36.921744,-84.15771,Kentucky
+Covington,4331 Winston Avenue,"4331 Winston Avenue, Covington",859-655-9999,41015,38.97971,-84.478596,Kentucky
+Crescent Springs,2353 Buttermilk Crossing,"2353 Buttermilk Crossing, Crescent",859-331-4040,41017,39.029195,-84.562134,Kentucky
+Crestwood,6332 W Highway 146 Ste #2,"6332 W Highway 146 Ste #2, Crestwood",502-241-0600,40014,38.340259,-85.429678,Kentucky
+Danville,135 E Main St.,"135 E Main St., Danville",859-236-2900,40422,37.640997,-84.797275,Kentucky
+Dry Ridge,90 S MAIN ST. STE 1A Dry Ridge,"90 S MAIN ST. STE 1A Dry Ridge, Dry",859-823-1234,41035,38.719224,-84.654354,Kentucky
+Edgewood,160 Barnwood Drive,"160 Barnwood Drive, Edgewood",859-331-3500,41017,39.029195,-84.562134,Kentucky
+Elizabethtown,603 N Miles St,"603 N Miles St, Elizabethtown",270-769-5901,42701,37.703686,-85.837111,Kentucky
+Florence,7550 Dixie Highway,"7550 Dixie Highway, Florence",859-371-8500,41042,39.000968,-84.651005,Kentucky
+Abbeville,2510 Veterans Memorial Dr,"2510 Veterans Memorial Dr, Abbeville",337-898-0730,70510,29.894612,-92.193173,Louisiana
+Albany,19105 Florida Blvd,"19105 Florida Blvd, Albany",225-567-2500,70711,30.524507,-90.592005,Louisiana
+Alexandria,534 McArthur Drive,"534 McArthur Drive, Alexandria",318-442-2440,71303,31.281321,-92.547344,Louisiana
+Baker,2170 Main St,"2170 Main St, Baker",225-774-2166,70714,30.587189,-91.127633,Louisiana
+Baton Rouge,8910 Greenwell Springs Rd,"8910 Greenwell Springs Rd, Baton",225-231-2690,70814,30.485177,-91.067983,Louisiana
+Belle Chasse,7580 Highway 23,"7580 Highway 23, Belle",504-392-9500,70037,29.827451,-90.024702,Louisiana
+Bogalusa,201 Superior Avenue,"201 Superior Avenue, Bogalusa",985-732-5551,70427,30.744198,-89.912079,Louisiana
+Bossier City,1002 A Johnson Street,"1002 A Johnson Street, Bossier",318-747-9303,71112,32.453017,-93.620859,Louisiana
+Boutte,13505 Highway 90 Suite B,"13505 Highway 90 Suite B, Boutte",985-785-1200,70039,29.886943,-90.389006,Louisiana
+Breaux Bridge,1880 Rees St Ste 206-B,"1880 Rees St Ste 206-B, Breaux",337-332-0323,70517,30.298246,-91.83357,Louisiana
+Broussard,6025 U.S. Hwy. 90 East,"6025 U.S. Hwy. 90 East, Broussard",337-839-3660,70518,30.134781,-91.927467,Louisiana
+Central,10544 Sullivan Rd,"10544 Sullivan Rd, Central",225-261-9691,70818,30.542532,-91.049894,Louisiana
+Chalmette,316 E. Judge Perez Dr,"316 E. Judge Perez Dr, Chalmette",504-279-3010,70043,29.948414,-89.962678,Louisiana
+Covington,70380 Hwy 21 Ste 10,"70380 Hwy 21 Ste 10, Covington",985-875-7743,70433,30.458752,-90.156313,Louisiana
+Cutoff,16646 W Main St,"16646 W Main St, Cutoff",985-325-3030,70345,29.548416,-90.25902,Louisiana
+Denham Springs,33716 LA-16,"33716 LA-16, Denham",225-664-3015,70706,30.607223,-90.907369,Louisiana
+Deridder,1132 N Pine Dr,"1132 N Pine Dr, DeRidder",337-462-3030,70634,30.793357,-93.240067,Louisiana
+Destrehan,1955 Ormond Blvd. Suite K,"1955 Ormond Blvd. Suite K, Destrehan",985-764-8751,70047,29.968947,-90.367309,Louisiana
+Erath,1616 Veterans Memorial Drive Suite 3,"1616 Veterans Memorial Drive Suite 3, Erath",337-685-3030,70533,29.89014,-92.046464,Louisiana
+Franklin,212 Sterling Dr,"212 Sterling Dr, Franklin",337-828-5570,70538,29.805551,-91.498353,Louisiana
+Auburn,62 School St,"62 School St, Auburn",207-783-2200,04210,44.084537,-70.249649,Maine
+Augusta,28 Western Ave,"28 Western Ave, Augusta",207-622-1900,04330,44.351895,-69.747626,Maine
+Bangor,6 Clinton St,"6 Clinton St, Bangor",207-947-2100,04401,44.848517,-68.850405,Maine
+Bath,4 Oak Grove Ave,"4 Oak Grove Ave, Bath",207-443-4343,04530,43.888228,-69.826699,Maine
+Berwick,12 Sullivan Stree,"12 Sullivan Stree, Berwick",207-800-1500,03901,43.299332,-70.842077,Maine
+Biddeford,111 Elm St,"111 Elm St, Biddeford",207-282-3388,04005,43.492102,-70.486566,Maine
+Brunswick,208 Maine St,"208 Maine St, Brunswick",207-729-5561,04011,43.896405,-69.973436,Maine
+Farmington,596 Wilton Road,"596 Wilton Road, Farmington",207-860-4545,04938,44.661856,-70.103104,Maine
+Freeport,8 School St,"8 School St, Freeport",207-869-6000,04032,43.844826,-70.089953,Maine
+Gardiner,192 Water St,"192 Water St, Gardiner",207-203-2200,04345,44.195074,-69.793912,Maine
+Gorham,621 Main St,"621 Main St, Gorham",207-854-2500,04038,43.703617,-70.46378,Maine
+Houlton,127 North Street,"127 North Street, Houlton",207-538-3131,04730,46.191023,-67.860968,Maine
+Kennebunk,45 Portland Rd,"45 Portland Rd, Kennebunk",207-985-0345,04043,43.392979,-70.577032,Maine
+Kittery,450 US Route 1,"450 US Route 1, Kittery",207-439-1300,03904,43.108051,-70.728595,Maine
+Lewiston,1104 Lisbon St,"1104 Lisbon St, Lewiston",207-344-3400,04240,44.089594,-70.172185,Maine
+Lisbon,586 Lisbon St,"586 Lisbon St, Lisbon",207-407-8900,04252,44.036688,-70.058799,Maine
+Norway,66 Main St,"66 Main St, Norway",207-739-7039,04268,44.225867,-70.610021,Maine
+Old Orchard Beach,8 Heath St Suite A,"8 Heath St Suite A, Old",207-690-4141,04064,43.525032,-70.388253,Maine
+Old Town,496 Stillwater Avenue,"496 Stillwater Avenue, Old",207-817-6090,04468,45.024673,-68.734534,Maine
+Portland,788 Forest Avenue,"788 Forest Avenue, Portland",207-774-1489,04103,43.694105,-70.287927,Maine
+Aberdeen,306 S Philadelphia Blvd,"306 S Philadelphia Blvd, Aberdeen",410-272-3033,21001,39.503056,-76.202096,Maryland
+Annapolis,110 Hillsmere Dr,"110 Hillsmere Dr, Annapolis",410-263-3030,21403,38.942123,-76.489628,Maryland
+Arbutus,5400 East Dr.,"5400 East Dr., Arbutus",410-242-3030,21227,39.23997,-76.67945,Maryland
+Arnold,963 Ritchie Hwy,"963 Ritchie Hwy, Arnold",410-421-9400,21012,39.046525,-76.495552,Maryland
+Baltimore,5815 Johnnycake Rd,"5815 Johnnycake Rd, Baltimore",410-744-0033,21207,39.324167,-76.719484,Maryland
+Bel Air,312 N Main St,"312 N Main St, Bel",410-836-0880,21014,39.536084,-76.352184,Maryland
+Beltsville,10486 Baltimore Ave,"10486 Baltimore Ave, Beltsville",301-937-7776,20705,39.049423,-76.900362,Maryland
+Berlin,11121 Ocean Gateway,"11121 Ocean Gateway, Berlin",410-641-6900,21811,38.318877,-75.216741,Maryland
+Berwyn Heights,8904 62nd Avenue Suite B,"8904 62nd Avenue Suite B, Berwyn",301-474-3030,20740,39.002745,-76.931721,Maryland
+Bethesda,7309 Macarthur Blvd,"7309 Macarthur Blvd, Bethesda",301-913-9700,20816,38.95695,-77.120006,Maryland
+Boonsboro,4 Tiger Way,"4 Tiger Way, Boonsboro",301-349-3300,21713,39.529683,-77.675671,Maryland
+Bowie,3544 Robert Crain Hwy,"3544 Robert Crain Hwy, Bowie",301-390-7711,20716,38.926428,-76.715028,Maryland
+Brooklyn Park,5507 Ritchie Hwy Ste D,"5507 Ritchie Hwy Ste D, Brooklyn",410-636-3030,21225,39.226117,-76.615735,Maryland
+Brunswick,74 Souder Rd Unit 74,"74 Souder Rd Unit 74, Brunswick",301-834-3000,21716,39.314453,-77.620019,Maryland
+Bryans Road,7091 Indian Head Hwy,"7091 Indian Head Hwy, BRYANS",301-375-6006,20616,38.661976,-77.098485,Maryland
+Burtonsville,15530 Old Columbia Pike,"15530 Old Columbia Pike, Burtonsville",301-421-0112,20866,39.109275,-76.933973,Maryland
+California,23415 Three Notch Road,"23415 Three Notch Road, California",301-245-7900,20619,38.292364,-76.527888,Maryland
+Cambridge,2753 Dorchester Square Shopping Center,"2753 Dorchester Square Shopping Center, Cambridge",410-228-0100,21613,38.502789,-76.078875,Maryland
+Capitol Heights,6254 Central Ave,"6254 Central Ave, Capitol",301-333-5900,20743,38.88423,-76.893317,Maryland
+Centreville,2478 Centreville Rd,"2478 Centreville Rd, Centreville",410-758-3773,21617,39.049357,-76.044545,Maryland
+Acton,Pope Rd & Great Rd,"Pope Rd & Great Rd, Acton",978-264-4141,01720,42.483953,-71.438495,Massachusetts
+Adams,clifford & summer,"clifford & summer, Adams",413-743-7170,01220,42.623799,-73.116736,Massachusetts
+Agawam,312 Springfield St,"312 Springfield St, Agawam",413-821-0800,01001,42.062368,-72.625754,Massachusetts
+Allston,416 Cambridge St,"416 Cambridge St, Allston",617-254-4800,02134,42.358016,-71.128608,Massachusetts
+Amesbury,100 Macy St,"100 Macy St, Amesbury",978-792-7007,01913,42.851293,-70.95581,Massachusetts
+Andover,63 Park St,"63 Park St, Andover",978-474-0066,01810,42.648044,-71.161751,Massachusetts
+Arlington,671 Massachusetts Avenue,"671 Massachusetts Avenue, Arlington",781-643-2300,02476,42.415637,-71.17567,Massachusetts
+Athol,321 Main St,"321 Main St, Athol",978-330-7676,01331,42.562408,-72.19108,Massachusetts
+Attleboro,271 County Street,"271 County Street, Attleboro",508-226-6000,02703,41.931653,-71.294503,Massachusetts
+Auburn,711 Southbridge St,"711 Southbridge St, Auburn",508-936-3030,01501,42.198708,-71.846006,Massachusetts
+Bedford,186 The Great Road STE #4 Bedford,"186 The Great Road STE #4 Bedford, Bedford",781-280-2929,01730,42.499295,-71.281889,Massachusetts
+Belchertown,33 Main Street,"33 Main Street, Belchertown",413-461-3222,01007,42.27901,-72.400468,Massachusetts
+Belmont,240 Trapelo Road,"240 Trapelo Road, Belmont",617-489-4242,02478,42.395317,-71.180284,Massachusetts
+Beverly,398 Cabot St,"398 Cabot St, Beverly",978-927-2999,01915,42.570665,-70.867583,Massachusetts
+Billerica,729 Boston Rd,"729 Boston Rd, Billerica",978-663-3000,01821,42.54933,-71.251725,Massachusetts
+Boston,508 Park Dr,"508 Park Dr, Boston",617-424-9000,02215,42.347635,-71.103082,Massachusetts
+Bourne,2 Bridge Approach Street,"2 Bridge Approach Street, Bourne",774-302-0500,02532,41.751759,-70.597552,Massachusetts
+Brighton,464 Washington Street,"464 Washington Street, Brighton",617-782-5655,02135,42.349688,-71.153964,Massachusetts
+Brockton,1085 N. Montello St.,"1085 N. Montello St., Brockton",508-587-1299,02301,42.078371,-71.042304,Massachusetts
+Burlington,53 Winn St,"53 Winn St, Burlington",781-229-1330,01803,42.503227,-71.201713,Massachusetts
+Adrian,1113 West Beecher,"1113 West Beecher, Adrian",517-263-0678,49221,41.902354,-84.064698,Michigan
+Allendale,5164 Lake Michigan Dr Suite A,"5164 Lake Michigan Dr Suite A, Allendale",616-986-1500,49401,42.975656,-85.939287,Michigan
+Alma,1380 Wright Avenue,"1380 Wright Avenue, Alma",989-533-5030,48801,43.374101,-84.677608,Michigan
+Alpena,650 N Ripley Blvd,"650 N Ripley Blvd, Alpena",989-394-6700,49707,45.094306,-83.476214,Michigan
+Ann Arbor,25 Jackson Industrial Dr,"25 Jackson Industrial Dr, Ann",734-913-8888,48103,42.26135,-83.846458,Michigan
+Auburn Hills,2795 University Drive,"2795 University Drive, Auburn",248-630-9004,48326,42.688246,-83.244075,Michigan
+Battle Creek,780 Capital Ave NE,"780 Capital Ave NE, Battle",269-883-8370,49017,42.401366,-85.215928,Michigan
+Bay City,4041 N. Euclid Road,"4041 N. Euclid Road, Bay",989-459-1111,48706,43.599622,-83.950504,Michigan
+Benton Harbor,1927 Pipestone Rd,"1927 Pipestone Rd, Benton",269-252-4499,49022,42.112127,-86.359048,Michigan
+Big Rapids,840 South State Street,"840 South State Street, Big",231-796-5813,49307,43.699062,-85.489194,Michigan
+Brighton,222 Grand River Ave,"222 Grand River Ave, Brighton",810-355-4935,48116,42.505744,-83.782892,Michigan
+Cadillac,1435 N. Mitchell St,"1435 N. Mitchell St, Cadillac",231-577-9900,49061,41.873542,-85.815243,Michigan
+Canton,44350 Cherry Hill Road,"44350 Cherry Hill Road, Canton",734-844-6000,48187,42.325573,-83.483576,Michigan
+Charlotte,328 Lansing St,"328 Lansing St, Charlotte",517-652-0424,48813,42.579775,-84.845891,Michigan
+Clarkston,7081 Dixie Hwy,"7081 Dixie Hwy, Clarkston",248-707-3111,48346,42.717882,-83.428703,Michigan
+Clawson,1226 W 14 Mile Rd,"1226 W 14 Mile Rd, Clawson",248-621-2601,48017,42.53669,-83.150367,Michigan
+Clinton Township,39880 Garfield Road,"39880 Garfield Road, Clinton",586-464-2344,48038,42.606146,-82.937475,Michigan
+Clio,3520 W Vienna Rd,"3520 W Vienna Rd, Clio",810-368-3030,48420,43.179103,-83.700508,Michigan
+Commerce,740 Benstein Rd.,"740 Benstein Rd., Commerce",248-960-0600,48390,42.550711,-83.474218,Michigan
+Comstock Park,4038 Alpine Ave NW,"4038 Alpine Ave NW, comstock",616-369-9466,49321,43.073608,-85.681875,Michigan
+Albert Lea,910 S Broadway Ave,"910 S Broadway Ave, Albert",507-373-3331,56007,43.660887,-93.324563,Minnesota
+Alexandria,505 Broadway St,"505 Broadway St, Alexandria",320-763-5007,56308,45.878391,-95.386055,Minnesota
+Andover,2256 Bunker Lake Blvd NW,"2256 Bunker Lake Blvd NW, Andover",763-767-0828,55304,45.247605,-93.275036,Minnesota
+Annandale,211 Elm Street West,"211 Elm Street West, Annandale",320-270-6200,55302,45.246529,-94.117135,Minnesota
+Anoka,2350 7th Ave,"2350 7th Ave, Anoka",763-427-0120,55303,45.288298,-93.431102,Minnesota
+Apple Valley,5480 141st Street West Ste 140,"5480 141st Street West Ste 140, Apple",952-423-2424,55124,44.739462,-93.193842,Minnesota
+Arden Hills,3551 Lexington Ave N.,"3551 Lexington Ave N., Arden",651-484-3030,55112,45.081866,-93.190493,Minnesota
+Austin,106 S Main Street,"106 S Main Street, Austin",507-437-3030,55912,43.682607,-92.98845,Minnesota
+Baxter,7295 Glory Rd,"7295 Glory Rd, Baxter",218-297-3030,56425,46.343935,-94.276015,Minnesota
+Becker,13850 1st Street,"13850 1st Street, Becker",763-220-8600,55308,45.441395,-93.832031,Minnesota
+Belle Plaine,1058 Enterprise Dr,"1058 Enterprise Dr, Belle",952-873-2020,56011,44.602565,-93.772641,Minnesota
+Bemidji,701 Paul Bunyan Drive NW,"701 Paul Bunyan Drive NW, Bemidji",218-759-3030,56601,47.507374,-94.863994,Minnesota
+Big Lake,726 Martin Ave,"726 Martin Ave, Big",763-247-8880,55309,45.377728,-93.744336,Minnesota
+Blaine,10495 University Ave Ne,"10495 University Ave Ne, Blaine",763-757-3030,55434,45.163686,-93.250434,Minnesota
+Bloomington,9723 Lyndale Ave S,"9723 Lyndale Ave S, Bloomington",952-888-4442,55420,44.835969,-93.277176,Minnesota
+Brainerd,413 W Washington Street,"413 W Washington Street, Brainerd",218-828-5066,56401,46.322919,-94.12521,Minnesota
+Brooklyn Center,1090 Shingle Creek Pkwy,"1090 Shingle Creek Pkwy, Brooklyn",612-521-9494,55430,45.067676,-93.302089,Minnesota
+Brooklyn Park,9322 Zane Avenue North,"9322 Zane Avenue North, Brooklyn",763-391-0909,55443,45.117609,-93.338118,Minnesota
+Buffalo,96 14th Street Ne,"96 14th Street Ne, Buffalo",763-682-3830,55313,45.174664,-93.851455,Minnesota
+Burnsville,13756 Nicollet Avenue,"13756 Nicollet Avenue, Burnsville",952-890-4940,55337,44.778472,-93.272269,Minnesota
+Amory,700-A N Main St,"700-A N Main St, Amory",662-256-3663,38821,33.977521,-88.436749,Mississippi
+Batesville,460 Highway 6 East,"460 Highway 6 East, Batesville",662-563-5600,38606,34.303262,-89.952316,Mississippi
+Bay Saint Louis,501 Highway 90,"501 Highway 90, Bay",228-467-2020,39520,30.271308,-89.481756,Mississippi
+Biloxi,1681 Pass Road,"1681 Pass Road, Biloxi",228-374-7234,39531,30.403986,-88.966183,Mississippi
+Booneville,201 Wal-mart Circle,"201 Wal-mart Circle, Booneville",662-728-7778,38829,34.650609,-88.527209,Mississippi
+Brandon,2145 HWY 18,"2145 HWY 18, Brandon",601-825-5012,39042,32.197548,-89.895006,Mississippi
+Brookhaven,975 Brookway Blvd,"975 Brookway Blvd, Brookhaven",601-835-3278,39601,31.56308,-90.471262,Mississippi
+Byram,7381 Siwell Road,"7381 Siwell Road, Byram",601-346-9737,39272,32.19061,-90.258327,Mississippi
+Canton,1150 E Peace St,"1150 E Peace St, Canton",601-855-2433,39046,32.632163,-89.983933,Mississippi
+Carthage,400 MS-16,"400 MS-16, Carthage",601-654-2300,39051,32.778076,-89.490169,Mississippi
+Clarksdale,640 Desoto Avenue,"640 Desoto Avenue, Clarksdale",662-627-5030,38614,34.157044,-90.597737,Mississippi
+Cleveland,425C North Davis Ave,"425C North Davis Ave, Cleveland",662-843-3663,38732,33.758855,-90.725595,Mississippi
+Clinton,909 Old Vicksburg Rd,"909 Old Vicksburg Rd, Clinton",601-924-3030,39056,32.373751,-90.350864,Mississippi
+Columbia,925 Hwy-98 E,"925 Hwy-98 E, Columbia",601-736-0773,39429,31.239384,-89.763166,Mississippi
+Columbus,1510 Main Street,"1510 Main Street, Columbus",662-329-3131,39701,33.393933,-88.504719,Mississippi
+Corinth,1102 US Highway 72 East,"1102 US Highway 72 East, Corinth",662-284-9099,38834,34.917111,-88.571777,Mississippi
+DIberville,10493 DIberville Blvd,"10493 DIberville Blvd, DIberville",228-392-6636,39532,30.493085,-88.964318,Mississippi
+Diamondhead,107 Live Oak Dr,"107 Live Oak Dr, Diamondhead",228-255-0001,39525,30.381932,-89.370784,Mississippi
+Ellisville,800 Hill Street,"800 Hill Street, Ellisville",601-477-4949,39437,31.579926,-89.218571,Mississippi
+Florence,2785 Hwy 49 S Suite E,"2785 Hwy 49 S Suite E, Florence",601-845-5030,39073,32.102431,-90.135817,Mississippi
+Arnold,1951 Richardson Road,"1951 Richardson Road, Arnold",636-467-5800,63010,38.430371,-90.3921,Missouri
+Ashland,203 N Henry Clay Blvd,"203 N Henry Clay Blvd, Ashland",573-415-0000,65010,38.793269,-92.237172,Missouri
+Aurora,1208 South Elliot Ave,"1208 South Elliot Ave, Aurora",417-308-8833,65605,36.771716,-93.654747,Missouri
+Ballwin,14764 Clayton Road,"14764 Clayton Road, Ballwin",636-391-6304,63011,38.603678,-90.559295,Missouri
+Battlefield,4032 West Republic Road,"4032 West Republic Road, Battlefield",417-633-7525,65619,37.121719,-93.394691,Missouri
+Bellefontaine Neighbors,10109 Lewis & Clark Blvd.,"10109 Lewis & Clark Blvd., Bellefontaine",314-868-2244,63137,38.750543,-90.21166,Missouri
+Belton,700 E North Ave,"700 E North Ave, Belton",816-331-5100,64012,38.789354,-94.543625,Missouri
+Berkeley,9432 Natural Bridge Road,"9432 Natural Bridge Road, Berkeley",314-426-3113,63134,38.740404,-90.345956,Missouri
+Blue Springs,706 E N Hwy 7,"706 E N Hwy 7, Blue",816-228-2700,64014,39.00676,-94.255136,Missouri
+Bolivar,623 S Springfield Ave,"623 S Springfield Ave, Bolivar",417-777-7070,65613,37.636902,-93.396427,Missouri
+Bonne Terre,48 Berry Rd.,"48 Berry Rd., Bonne",573-358-3322,63628,37.945701,-90.524737,Missouri
+Branson,3310 W. Hwy. 76,"3310 W. Hwy. 76, Branson",417-335-6789,65616,36.669373,-93.248879,Missouri
+Bridgeton,12501 Natural Bridge Road,"12501 Natural Bridge Road, Bridgeton",314-291-3232,63044,38.772791,-90.430046,Missouri
+Camdenton,16 Camden Ct SE,"16 Camden Ct SE, Camdenton",573-410-8100,65020,38.006239,-92.780644,Missouri
+Cape Girardeau,1028 N Sprigg St,"1028 N Sprigg St, Cape",573-651-3880,63701,37.335872,-89.575814,Missouri
+Carthage,2003 S Garrison Ave,"2003 S Garrison Ave, Carthage",417-358-6565,64836,37.189255,-94.279255,Missouri
+Chesterfield,13728 Olive Blvd,"13728 Olive Blvd, Chesterfield",314-275-7979,63017,38.651309,-90.531216,Missouri
+Chillicothe,1307 Washington St,"1307 Washington St, Chillicothe",660-646-9800,64601,39.805381,-93.579097,Missouri
+Columbia,416 S Ninth,"416 S Ninth, Columbia",573-875-3030,65201,38.900944,-92.238425,Missouri
+Creve Coeur,11933 Olive Blvd,"11933 Olive Blvd, Creve",314-567-1010,63141,38.658285,-90.458195,Missouri
+Belgrade,19599 Frontage Rd,"19599 Frontage Rd, Belgrade",406-813-8828,59714,45.980279,-111.129807,Montana
+Billings,444 Broadwater Avenue,"444 Broadwater Avenue, Billings",406-256-1312,59101,45.613054,-108.390305,Montana
+Bozeman,203 N. 7th,"203 N. 7th, Bozeman",406-586-5431,59715,45.825929,-110.898032,Montana
+Butte,2101 Harrison Ave Suite 1,"2101 Harrison Ave Suite 1, Butte",406-782-3000,59701,46.035043,-112.47572,Montana
+Columbia Falls,734 9th Street W,"734 9th Street W, Columbia",406-892-3034,59912,48.408842,-114.154162,Montana
+Dillon,205 S Atlantic St,"205 S Atlantic St, Dillon",406-660-3535,59725,45.098017,-112.821472,Montana
+Great Falls,4109 2nd Ave N,"4109 2nd Ave N, Great",406-771-0040,59405,47.319261,-111.298533,Montana
+Hamilton,901 South First Ave,"901 South First Ave, Hamilton",406-361-3030,59840,46.185492,-114.193659,Montana
+Havre,501 1st Street,"501 1st Street, Havre",406-262-9300,59501,48.689862,-109.78113,Montana
+Helena,700 N Main Street,"700 N Main Street, Helena",406-443-2454,59601,46.530509,-112.199726,Montana
+Kalispell,150 Hutton Ranch Rd #103 Kalispell,"150 Hutton Ranch Rd #103 Kalispell, Kalispell",406-756-0330,59901,48.229649,-114.385053,Montana
+Laurel,720 1st Ave,"720 1st Ave, Laurel",406-530-1555,59044,45.630153,-108.728479,Montana
+Livingston,2410 Park Street,"2410 Park Street, Livingston",406-823-3030,59047,45.547407,-110.571191,Montana
+Miles City,1111 South Haynes Ave #2,"1111 South Haynes Ave #2, Miles",406-852-5544,59301,46.293337,-105.759498,Montana
+Missoula,111 South Avenue West,"111 South Avenue West, Missoula",406-721-7610,59801,46.856398,-114.014338,Montana
+Polson,318 Main St,"318 Main St, Polson",999-999-9999,59860,47.706523,-114.17282,Montana
+Sidney,410 North Central Avenue,"410 North Central Avenue, Sidney",406-630-7788,59270,47.609455,-104.086128,Montana
+Beatrice,1710 North 6th Street,"1710 North 6th Street, Beatrice",402-520-8300,68310,40.249821,-96.74949,Nebraska
+Bellevue,2015 Pratt Ave Ste 113,"2015 Pratt Ave Ste 113, Bellevue",402-292-4700,68005,41.142686,-95.892969,Nebraska
+Chadron,1519 W 6th Street,"1519 W 6th Street, Chadron",308-747-2203,69337,42.827175,-103.012899,Nebraska
+Columbus,2409 23rd St,"2409 23rd St, Columbus",402-562-5656,68601,41.454231,-97.398164,Nebraska
+Elkhorn,920 N 204th Ave,"920 N 204th Ave, Elkhorn",531-466-2630,68022,41.279953,-96.250786,Nebraska
+Fremont,2155 E. 23rd St.,"2155 E. 23rd St., Fremont",402-721-1444,68025,41.437235,-96.48788,Nebraska
+Gering,2915 10th St,"2915 10th St, Gering",308-633-0003,69341,41.72097,-103.632808,Nebraska
+Grand Island,624 N Webb Rd,"624 N Webb Rd, Grand",308-389-3030,68803,40.956077,-98.414575,Nebraska
+Hastings,618 South Burlington Ave,"618 South Burlington Ave, Hastings",402-902-4646,68901,40.59161,-98.372728,Nebraska
+Kearney,3702 2nd Avenue,"3702 2nd Avenue, Kearney",308-234-6544,68847,40.76003,-99.017084,Nebraska
+La Vista,9631 Giles Road,"9631 Giles Road, La",402-884-9120,68128,41.182074,-96.065315,Nebraska
+Lincoln,2401 N 48th St Suite #9 Lincoln,"2401 N 48th St Suite #9 Lincoln, Lincoln",402-434-2377,68504,40.854478,-96.660184,Nebraska
+Norfolk,904 Riverside Blvd.,"904 Riverside Blvd., Norfolk",402-371-0107,68701,42.019825,-97.442556,Nebraska
+North Platte,1815 West A Street,"1815 West A Street, North",308-534-0400,69101,41.141895,-100.800597,Nebraska
+Omaha,7120 Military Ave,"7120 Military Ave, Omaha",402-898-9393,68104,41.295431,-96.002289,Nebraska
+Papillion,1449 Papillion Dr,"1449 Papillion Dr, Papillion",402-933-0037,68133,41.112562,-95.995484,Nebraska
+Scottsbluff,1015 W 27th St,"1015 W 27th St, Scottsbluff",308-635-0330,69361,41.922838,-103.622904,Nebraska
+Seward,132 S. 5th Street,"132 S. 5th Street, Seward",402-803-1955,68434,40.909586,-97.116949,Nebraska
+Sidney,610 Glover Rd # 1,"610 Glover Rd # 1, Sidney",877-883-9643,69162,41.129228,-103.016632,Nebraska
+Boulder City,1014 Nevada Way,"1014 Nevada Way, Boulder",702-294-2424,89005,35.986677,-114.809401,Nevada
+Carson City,3231 Hwy 50 E,"3231 Hwy 50 E, Carson",775-883-7500,89701,39.129024,-119.725281,Nevada
+Elko,1900 Idaho Street Suite 101,"1900 Idaho Street Suite 101, Elko",775-753-9333,89801,41.247991,-115.761405,Nevada
+Fallon,960a Auction Rd Fallon,"960a Auction Rd Fallon, Fallon",775-423-2500,89406,39.53771,-118.264165,Nevada
+Fernley,1510 East Newlands Drive,"1510 East Newlands Drive, Fernley",775-404-0300,89408,39.565417,-119.174165,Nevada
+Henderson,971 S Boulder Hwy,"971 S Boulder Hwy, Henderson",702-565-3030,89015,36.039314,-114.928032,Nevada
+Las Vegas,9435 W Tropicana Ave suite 104,"9435 W Tropicana Ave suite 104, Las",702-365-9877,89147,36.112796,-115.280141,Nevada
+Mesquite,1060 W. Pioneer Blvd,"1060 W. Pioneer Blvd, Mesquite",725-225-1112,89027,36.813945,-114.120444,Nevada
+Minden,1645 US Highway 395 N Suite B,"1645 US Highway 395 N Suite B, Minden",775-392-4343,89423,39.018863,-119.755643,Nevada
+North Las Vegas,3011 W Lake Mead Blvd Ste 103,"3011 W Lake Mead Blvd Ste 103, North",702-880-9700,89032,36.223179,-115.172723,Nevada
+Pahrump,250 S. Highway 160,"250 S. Highway 160, Pahrump",775-751-3030,89048,36.165343,-116.003323,Nevada
+Reno,1675 Robb Dr.,"1675 Robb Dr., Reno",775-746-2929,89523,39.525009,-119.913718,Nevada
+Sparks,1145 N. McCarren Blvd.,"1145 N. McCarren Blvd., Sparks",775-359-5353,89431,39.540398,-119.749111,Nevada
+Spring Creek,266 E Spring Creek Parkway,"266 E Spring Creek Parkway, Spring",775-777-3343,89815,40.615333,-115.594252,Nevada
+Sun Valley,4850 Sun Valley Blvd.,"4850 Sun Valley Blvd., Sun",775-673-6363,89433,39.608937,-119.776657,Nevada
+Winnemucca,1038 Grass Valley Rd,"1038 Grass Valley Rd, Winnemucca",775-625-3300,89445,41.169339,-118.263916,Nevada
+Bedford,184 NH-101 Unit 2,"184 NH-101 Unit 2, Bedford",603-965-2000,03110,42.935584,-71.536871,New Hampshire
+Berlin,19 Pleasant St,"19 Pleasant St, Berlin",603-752-2255,03570,44.504596,-71.155466,New Hampshire
+Claremont,216 Washington St,"216 Washington St, Claremont",603-542-3333,03743,43.360727,-72.326929,New Hampshire
+Concord,202 North Main St,"202 North Main St, Concord",603-228-4222,03301,43.238549,-71.555988,New Hampshire
+Derry,61 Crystal Ave,"61 Crystal Ave, Derry",603-432-6605,03038,42.892761,-71.276763,New Hampshire
+Dover,250 Central Ave,"250 Central Ave, Dover",603-742-8411,03820,43.190658,-70.887655,New Hampshire
+Durham,7 Mill Rd,"7 Mill Rd, Durham",603-868-6230,03824,43.117186,-70.918788,New Hampshire
+East Hampstead,45 Danville Rd,"45 Danville Rd, East",603-819-5521,03826,42.890002,-71.130675,New Hampshire
+Franklin,900 Central St,"900 Central St, Franklin",603-821-4999,03235,43.449136,-71.674267,New Hampshire
+Goffstown,553 Mast Rd,"553 Mast Rd, Goffstown",603-932-5555,03045,43.021515,-71.563462,New Hampshire
+Hampton,725 Lafayette Rd,"725 Lafayette Rd, Hampton",603-929-0030,03842,42.939601,-70.836728,New Hampshire
+Hanover,73 S Main St,"73 S Main St, Hanover",603-643-3344,03755,43.727746,-72.142753,New Hampshire
+Hooksett,1562 Hooksett Rd,"1562 Hooksett Rd, Hooksett",603-836-8100,03106,43.082584,-71.446878,New Hampshire
+Hudson,16 Chase St,"16 Chase St, Hudson",603-319-1999,03051,42.760508,-71.409494,New Hampshire
+Keene,60 Island St #1,"60 Island St #1, Keene",603-357-5534,03431,42.965044,-72.294803,New Hampshire
+Laconia,580 Union Ave,"580 Union Ave, Laconia",603-528-4820,03246,43.576496,-71.482301,New Hampshire
+Littleton,683 Meadow St,"683 Meadow St, Littleton",603-610-4455,03561,44.34335,-71.795116,New Hampshire
+Londonderry,103 Nashua Rd,"103 Nashua Rd, Londonderry",603-434-3600,03053,42.869839,-71.387845,New Hampshire
+Manchester,60 Beech street,"60 Beech street, Manchester",603-647-4300,03103,42.950538,-71.446547,New Hampshire
+Meredith,38 NH Route 25 unit 24A,"38 NH Route 25 unit 24A, Meredith",603-707-4222,03253,43.631211,-71.498585,New Hampshire
+Absecon,782 Whitehorse Pike,"782 Whitehorse Pike, Absecon",609-646-8808,08201,39.423563,-74.493025,New Jersey
+Atco,440 White Horse Pike,"440 White Horse Pike, Atco",856-768-5522,08004,39.764747,-74.870626,New Jersey
+Atlantic City,2601 Atlantic Ave,"2601 Atlantic Ave, Atlantic",609-347-0303,08401,39.377297,-74.451082,New Jersey
+Atlantic Highlands,183 First Ave,"183 First Ave, Atlantic",732-872-2800,07716,40.401088,-74.032978,New Jersey
+Barnegat,905 West Bay Avenue,"905 West Bay Avenue, BARNEGAT",609-978-1333,08005,39.767727,-74.312588,New Jersey
+Bayonne,578 Avenue C,"578 Avenue C, Bayonne",201-858-3030,07002,40.662338,-74.110275,New Jersey
+Bayville,699 Atlantic City Blvd,"699 Atlantic City Blvd, Bayville",732-269-7800,08721,39.901987,-74.152651,New Jersey
+Belleville,530 Washington Ave,"530 Washington Ave, Belleville",973-751-2222,07109,40.794927,-74.162353,New Jersey
+Bellmawr,44 E. Browning Rd.,"44 E. Browning Rd., Bellmawr",856-931-4100,08031,39.866356,-75.09467,New Jersey
+Berkeley Heights,629 Springfield Avenue,"629 Springfield Avenue, Berkeley",908-898-0009,07922,40.676393,-74.425027,New Jersey
+Boonton,931 Main St,"931 Main St, Boonton",973-299-6555,07005,40.932771,-74.417304,New Jersey
+Bordentown,650 Route 206,"650 Route 206, Bordentown",609-832-3333,08505,40.103026,-74.733455,New Jersey
+Brick,3000 Yorktowne Blvd.,"3000 Yorktowne Blvd., Brick",732-206-0002,08723,40.038584,-74.1116,New Jersey
+Bridgeton,39 North Laurel Street,"39 North Laurel Street, Bridgeton",856-455-6800,08302,39.438613,-75.260646,New Jersey
+Brooklawn,603 Browning Lane,"603 Browning Lane, Brooklawn",856-754-4000,08030,39.888896,-75.118078,New Jersey
+Browns Mills,100 Lakehurst Avenue,"100 Lakehurst Avenue, Browns",609-893-1600,08015,39.931531,-74.543763,New Jersey
+Budd Lake,141 Route 46,"141 Route 46, Budd",973-691-8900,07828,40.883935,-74.750312,New Jersey
+Burlington,680 High Street,"680 High Street, Burlington",609-387-8400,08016,40.069522,-74.824196,New Jersey
+Butler,1360 Route 23 N.,"1360 Route 23 N., Butler",973-492-9300,07405,40.987841,-74.378188,New Jersey
+Caldwell,399 Bloomfield Ave,"399 Bloomfield Ave, Caldwell",973-228-6600,07006,40.851187,-74.282865,New Jersey
+Alamogordo,100 S Whitesands Blvd,"100 S Whitesands Blvd, Alamogordo",575-434-3030,88310,32.641272,-106.072883,New Mexico
+Albuquereque,11028 Montgomery Blvd NE,"11028 Montgomery Blvd NE, Albuquereque",505-298-3030,87111,35.143913,-106.48746,New Mexico
+Albuquerque,13110 Central Avenue SE,"13110 Central Avenue SE, Albuquerque",505-302-3030,87123,35.067584,-106.470746,New Mexico
+Artesia,302 S First St,"302 S First St, Artesia",575-746-3030,88210,32.771797,-104.219669,New Mexico
+Aztec,1415 W Aztec Blvd,"1415 W Aztec Blvd, Aztec",505-334-8405,87410,36.868277,-107.882308,New Mexico
+Belen,301 N Main St,"301 N Main St, Belen",505-861-3030,87002,34.611886,-106.652175,New Mexico
+Bloomfield,500 W Broadway Ave,"500 W Broadway Ave, Bloomfield",505-738-3030,87413,36.415501,-107.97852,New Mexico
+Cannon AFB,108 W Octagon Bldg. 77,"108 W Octagon Bldg. 77, Cannon",575-784-3033,88103,34.384167,-103.317985,New Mexico
+Carlsbad,220 S Canal St,"220 S Canal St, Carlsbad",575-887-3030,88220,32.311474,-104.431928,New Mexico
+Clovis,1917 N Prince,"1917 N Prince, Clovis",575-769-3030,88101,34.499384,-103.275272,New Mexico
+Deming,718 S Gold,"718 S Gold, Deming",575-544-3232,88030,32.173456,-107.727419,New Mexico
+Edgewood,1940 Old Highway 66 Suite B,"1940 Old Highway 66 Suite B, Edgewood",505-286-3030,87015,35.076689,-106.182537,New Mexico
+Espanola,931 N Riverside Dr,"931 N Riverside Dr, Espanola",505-753-3030,87532,35.993867,-106.088977,New Mexico
+Farmington,3501 E. Main St,"3501 E. Main St, Farmington",505-326-9100,87402,36.783848,-108.144001,New Mexico
+Gallup,1610 E Hwy 66,"1610 E Hwy 66, Gallup",505-722-4443,87301,35.534984,-108.737949,New Mexico
+Grants,615 W Santa Fe Avenue,"615 W Santa Fe Avenue, Grants",505-876-2323,87020,34.86525,-107.947956,New Mexico
+Hobbs,801 West Bender,"801 West Bender, Hobbs",575-393-3030,88240,32.703782,-103.485066,New Mexico
+Holloman AFB,744 First Street Building 33,"744 First Street Building 33, Holloman",575-479-3030,88330,32.836586,-106.077393,New Mexico
+Kirtland,4208 HWY 64,"4208 HWY 64, Kirtland",505-598-5121,87417,36.748725,-108.345707,New Mexico
+Las Cruces,1763 University Ave,"1763 University Ave, Las",575-522-7700,88001,32.290051,-106.75389,New Mexico
+Albany,267 New Scotland Ave,"267 New Scotland Ave, Albany",518-438-3030,12208,42.653031,-73.809978,New York
+Amherst,1401 Niagara Falls Blvd,"1401 Niagara Falls Blvd, Amherst",716-832-4444,14226,42.971014,-78.796455,New York
+Amsterdam,market & division,"market & division, Amsterdam",518-842-7227,12010,42.937632,-74.173325,New York
+Astoria,25-55 Steinway Street,"25-55 Steinway Street, Astoria",718-545-3030,11105,40.778877,-73.906769,New York
+Auburn,19 Dill St,"19 Dill St, Auburn",315-252-4440,13021,42.922279,-76.558539,New York
+Babylon,9 Cooper St,"9 Cooper St, Babylon",631-422-2020,11702,40.650697,-73.262218,New York
+Baldwinsville,80 Smokey Hollow Road,"80 Smokey Hollow Road, Baldwinsville",315-303-7001,13027,43.166437,-76.364345,New York
+Batavia,6 Court St,"6 Court St, Batavia",585-343-3344,14020,42.99619,-78.213412,New York
+Bay Shore,55 Third Avenue,"55 Third Avenue, Bay",631-206-0300,11706,40.722537,-73.252183,New York
+Bayside,3626 Bell Blvd,"3626 Bell Blvd, Bayside",718-225-7575,11361,40.764191,-73.772775,New York
+Bethpage,406 North Wantagh Ave.,"406 North Wantagh Ave., Bethpage",516-942-0808,11714,40.742563,-73.486073,New York
+Binghamton,1185 Vestal Ave,"1185 Vestal Ave, Binghamton",607-772-8555,13903,42.04187,-75.889077,New York
+Brentwood,167 Clarke Street,"167 Clarke Street, Brentwood",631-231-9700,11717,40.783805,-73.252263,New York
+Brewster NY,162 Main St,"162 Main St, Brewster",845-314-3400,10509,41.410855,-73.59434,New York
+Brockport,205 Main St,"205 Main St, Brockport",585-637-6886,14420,43.211739,-77.934564,New York
+Bronx,220 East 161st St,"220 East 161st St, Bronx",917-688-3778,10451,40.820479,-73.925084,New York
+Brooklyn,886 Dekalb Ave,"886 Dekalb Ave, Brooklyn",917-909-6464,11221,40.69134,-73.927879,New York
+Buffalo,1105 Broadway St,"1105 Broadway St, Buffalo",716-953-3434,14212,42.894211,-78.820173,New York
+Canandaigua,70 West Ave,"70 West Ave, Canandaigua",585-396-1230,14424,42.856695,-77.303277,New York
+Carle Place,501 Westbury Avenue,"501 Westbury Avenue, Carle",516-997-8555,11514,40.749892,-73.612477,New York
+Aberdeen,11109 Hwy 15/501,"11109 Hwy 15/501, Aberdeen",910-692-6662,28315,35.117305,-79.431532,North Carolina
+Advance,100 Yadkin Valley Rd,"100 Yadkin Valley Rd, Advance",336-998-2000,27006,35.939004,-80.440264,North Carolina
+Ahoskie,132 East Main St,"132 East Main St, Ahoskie",252-862-4000,27910,36.290066,-76.993185,North Carolina
+Albemarle,1415 Highway former Hardees Albemarle,"1415 Highway former Hardees Albemarle, Albemarle",704-982-6777,28001,35.338552,-80.208179,North Carolina
+Anderson Creek,3254 Ray Road,"3254 Ray Road, Anderson",910-496-0772,28390,35.219487,-78.955973,North Carolina
+Angier,306 Fish Dr,"306 Fish Dr, Angier",919-331-2444,27501,35.484941,-78.68457,North Carolina
+Apex,833 Perry Rd,"833 Perry Rd, Apex",919-387-0030,27502,35.71525,-78.920992,North Carolina
+Asheboro,124 W Ward,"124 W Ward, Asheboro",336-629-2468,27203,35.728464,-79.786527,North Carolina
+Asheville,1483 Patton Ave,"1483 Patton Ave, Asheville",828-232-1818,28806,35.571971,-82.614729,North Carolina
+Ayden,4201 N. Lee Street,"4201 N. Lee Street, Ayden",252-746-4042,28513,35.441502,-77.388857,North Carolina
+Beaufort,98 Crescent Dr,"98 Crescent Dr, Beaufort",252-728-5002,28516,34.905126,-76.552834,North Carolina
+Belmont,956 South Point Road Suite A,"956 South Point Road Suite A, Belmont",704-317-7100,28012,35.211504,-81.037865,North Carolina
+Benson,107 N Honeycutt St,"107 N Honeycutt St, Benson",919-207-5678,27504,35.400309,-78.518278,North Carolina
+Biscoe,327 West Main Street,"327 West Main Street, Biscoe",910-428-1211,27209,35.343102,-79.753442,North Carolina
+Boone,702-A Blowing Rock Rd,"702-A Blowing Rock Rd, Boone",828-264-6507,28607,36.218005,-81.652138,North Carolina
+Burgaw,409 Highway 117 North,"409 Highway 117 North, Burgaw",910-259-5252,28425,34.562055,-77.896281,North Carolina
+Burlington,1837 S Church Street,"1837 S Church Street, Burlington",336-229-7777,27215,36.027099,-79.491799,North Carolina
+Cameron,2800 NC HWY 24/87,"2800 NC HWY 24/87, Cameron",910-436-3031,28326,35.269047,-79.154689,North Carolina
+Camp Lejeune,Camp Lejeune Marine Base,"Camp Lejeune Marine Base, Camp",910-968-3111,28542,0,0,North Carolina
+Canton,78 New Clyde Highway,"78 New Clyde Highway, Canton",828-648-7499,28716,35.439331,-82.847944,North Carolina
+Bismarck,119 E Century Ave,"119 E Century Ave, Bismarck",701-258-4030,58503,46.90412,-100.750302,North Dakota
+Dickinson,237 14th Street W,"237 14th Street W, Dickinson",701-483-7712,58601,46.916872,-102.834258,North Dakota
+Emerado,400 A Ave,"400 A Ave, Emerado",701-594-4467,58228,47.881936,-97.343218,North Dakota
+Fargo,1109 19th Avenue North Fargo,"1109 19th Avenue North Fargo, Fargo",701-232-1255,58102,46.927094,-96.834703,North Dakota
+Grand Forks,2705 S Washington,"2705 S Washington, Grand",701-746-6437,58201,47.866638,-97.141144,North Dakota
+Jamestown,706 1st Ave S,"706 1st Ave S, Jamestown",701-252-8888,58401,46.884369,-98.766655,North Dakota
+Mandan,1100 E. Main,"1100 E. Main, Mandan",701-663-6988,58554,46.742723,-100.9353,North Dakota
+Minot,1524 S Broadway,"1524 S Broadway, Minot",701-838-8383,58701,48.144826,-101.326016,North Dakota
+Wahpeton,102 4th Street S,"102 4th Street S, Wahpeton",701-642-2212,58075,46.275536,-96.730394,North Dakota
+West Fargo,1380 9th Street East,"1380 9th Street East, West",701-282-8055,58078,46.8625,-96.924088,North Dakota
+Williston,523 Main Street,"523 Main Street, Williston",701-572-8888,58801,48.21789,-103.763084,North Dakota
+Akron,758 West Market Street,"758 West Market Street, Akron",330-382-5700,44303,41.104685,-81.536941,Ohio
+Alliance,1939 West State St.,"1939 West State St., Alliance",330-680-7900,44601,40.918593,-81.128745,Ohio
+Amherst,2229 Kresge Drive,"2229 Kresge Drive, Amherst",440-960-1898,44001,41.366331,-82.259924,Ohio
+Ashland,627 Claremont Ave,"627 Claremont Ave, Ashland",419-289-0030,44805,40.872668,-82.317033,Ohio
+Ashtabula,5817 Main Ave,"5817 Main Ave, Ashtabula",440-992-6060,44004,41.85594,-80.791866,Ohio
+Athens,12 Mill Street,"12 Mill Street, Athens",740-593-3395,45701,39.311963,-82.08602,Ohio
+Aurora,38 S. Aurora Rd,"38 S. Aurora Rd, Aurora",330-954-9594,44202,41.315087,-81.338371,Ohio
+Austintown,4520 Mahoning Ave,"4520 Mahoning Ave, Austintown",330-330-8898,44515,41.102896,-80.761275,Ohio
+Avon Lake,33382 Walker Rd Unit N,"33382 Walker Rd Unit N, Avon",440-933-3099,44012,41.498342,-82.017368,Ohio
+Barberton,1423 Wooster Rd. W,"1423 Wooster Rd. W, Barberton",330-706-0030,44203,41.020888,-81.628652,Ohio
+Barnesville,146 W Main St,"146 W Main St, Barnesville",740-425-9999,43713,39.987894,-81.17459,Ohio
+Batavia,600 West Main St,"600 West Main St, Batavia",513-735-2600,45103,39.097086,-84.13448,Ohio
+Beaver Creek,3320 Dayton Xenia Rd,"3320 Dayton Xenia Rd, Beaver",937-427-3030,45432,39.739492,-84.085195,Ohio
+Bellaire,2405 Belmont Street,"2405 Belmont Street, Bellaire",740-676-3900,43906,40.011095,-80.808695,Ohio
+Bellefontaine,509 S Main St,"509 S Main St, Bellefontaine",937-592-1005,43311,40.365633,-83.756432,Ohio
+Belpre,2109 Washington Blvd,"2109 Washington Blvd, Belpre",740-423-0030,45714,39.316984,-81.614345,Ohio
+Berea,1 Berea Commons Ste 2,"1 Berea Commons Ste 2, Berea",440-891-0030,44017,41.370548,-81.861757,Ohio
+Bethel,110 East Plane Street,"110 East Plane Street, Bethel",513-734-3500,45106,38.94502,-84.064915,Ohio
+Beverly,527 5th Street,"527 5th Street, Beverly",740-984-1700,45715,39.605069,-81.628021,Ohio
+Blanchester,209 South Broadway St,"209 South Broadway St, Blanchester",937-783-4995,45107,39.292197,-83.969291,Ohio
+Ada,908 Arlington Ctr,"908 Arlington Ctr, Ada",580-436-5361,74820,34.788674,-96.715184,Oklahoma
+Altus,813 E. Broadway,"813 E. Broadway, Altus",580-482-8120,73521,34.641313,-99.31594,Oklahoma
+Ardmore,201 N Commerce,"201 N Commerce, Ardmore",580-226-6330,73401,34.203289,-97.11552,Oklahoma
+Bartlesville,3800 TUXEDO BLVD,"3800 TUXEDO BLVD, Bartlesville",918-335-1300,74006,36.712435,-95.895038,Oklahoma
+Bixby,13355 S Memorial Ste I,"13355 S Memorial Ste I, Bixby",918-369-3500,74008,35.924521,-95.877641,Oklahoma
+Blanchard,1000 N Council Ave,"1000 N Council Ave, Blanchard",405-320-9700,73010,35.111365,-97.679215,Oklahoma
+Broken Arrow,2216 W Houston St,"2216 W Houston St, Broken",918-251-3030,74012,36.051414,-95.805721,Oklahoma
+Broken Bow,511 South Park,"511 South Park, Broken",580-306-9500,74728,34.150313,-94.802807,Oklahoma
+Chickasha,806 South 4th,"806 South 4th, Chickasha",405-222-5212,73018,35.051452,-97.940504,Oklahoma
+Choctaw,1654 South Choctaw Road Ste 101,"1654 South Choctaw Road Ste 101, Choctaw",405-281-4050,73020,35.45881,-97.262802,Oklahoma
+Claremore,301 S Lynn Riggs Blvd,"301 S Lynn Riggs Blvd, Claremore",918-341-5555,74017,36.390927,-95.587689,Oklahoma
+Clinton,1426 W Gary Blvd,"1426 W Gary Blvd, Clinton",580-331-6272,73601,35.489614,-98.963496,Oklahoma
+Del City,5101 SE 29th Street,"5101 SE 29th Street, Del",405-670-5767,73115,35.442343,-97.441523,Oklahoma
+Duncan,806 N Highway 81,"806 N Highway 81, Duncan",580-255-2555,73533,34.505317,-97.865916,Oklahoma
+Durant,1436 W University,"1436 W University, Durant",580-924-1350,74701,34.006822,-96.378921,Oklahoma
+Edmond,16325 N. May Ave. Suite A-10,"16325 N. May Ave. Suite A-10, Edmond",405-513-5989,73013,35.618788,-97.484375,Oklahoma
+El Reno,1805 S Country Club Rd,"1805 S Country Club Rd, El",405-778-2143,73036,35.509391,-97.959769,Oklahoma
+Elk City,1029 W 3rd St,"1029 W 3rd St, Elk",580-303-7888,73644,35.419594,-99.437791,Oklahoma
+Enid,1119 S Van Buren St,"1119 S Van Buren St, Enid",580-242-2004,73703,36.427053,-97.969332,Oklahoma
+Glenpool,13601 S. 75. Hwy,"13601 S. 75. Hwy, Glenpool",918-528-5770,74033,35.945975,-96.007444,Oklahoma
+Albany,2409 Pacific Blvd SE,"2409 Pacific Blvd SE, Albany",541-917-3344,97321,44.65345,-123.139526,Oregon
+Aloha,17531 SW Tualatin Valley Highway,"17531 SW Tualatin Valley Highway, Aloha",503-649-3030,97003,0,0,Oregon
+Astoria,1619 Marine Drive,"1619 Marine Drive, Astoria",503-836-9600,97103,46.133918,-123.710609,Oregon
+Beaverton,10081 SW Nimbus,"10081 SW Nimbus, Beaverton",503-626-3030,97008,45.46019,-122.804198,Oregon
+Bend,235 SE Yew Ave,"235 SE Yew Ave, Bend",541-388-4681,97702,44.000626,-121.233812,Oregon
+Canby,325 Se 1st Ave,"325 Se 1st Ave, Canby",503-266-4944,97013,45.220824,-122.66828,Oregon
+Central Point,30 Freeman Ct,"30 Freeman Ct, Central",541-697-4992,97502,42.414574,-122.954536,Oregon
+Clackamas,10117 SE Sunnyside Road,"10117 SE Sunnyside Road, Clackamas",503-353-3999,97015,45.413524,-122.536758,Oregon
+Coos Bay,3440 Ocean Blvd Se,"3440 Ocean Blvd Se, Coos",541-269-1000,97420,43.350966,-124.136922,Oregon
+Coos Bay OR,190 Johnson Avenue,"190 Johnson Avenue, Coos",541-982-6200,97420,43.350966,-124.136922,Oregon
+Corvallis,2455 NW Monroe Ave.,"2455 NW Monroe Ave., Corvallis",541-758-3030,97330,44.647997,-123.259576,Oregon
+Cottage Grove,225 N 14th Street,"225 N 14th Street, Cottage",541-942-1100,97424,43.74081,-123.018593,Oregon
+Dallas,772 Main St,"772 Main St, Dallas",503-623-8888,97338,44.926618,-123.347413,Oregon
+Eagle Point,10586 Highway 62,"10586 Highway 62, Eagle",541-826-7070,87506,35.813114,-105.984455,Oregon
+Eugene,2621 Willamette Street,"2621 Willamette Street, Eugene",541-343-3030,97405,43.939557,-123.192759,Oregon
+Florence,2775 Highway 101,"2775 Highway 101, Florence",541-901-3030,97349,0,0,Oregon
+Forest Grove,2835 19th Ave,"2835 19th Ave, Forest",503-992-7722,97116,45.580822,-123.165693,Oregon
+Grants Pass,407 NE E Street,"407 NE E Street, Grants",541-472-8601,97526,42.535682,-123.338285,Oregon
+Gresham,17302 NE Halsey,"17302 NE Halsey, Gresham",971-277-2100,97230,45.557757,-122.505268,Oregon
+Happy Valley,13120 SE 172nd Ave,"13120 SE 172nd Ave, Happy",503-344-1000,97086,45.445048,-122.528173,Oregon
+Adamstown,3002 N Reading Rd,"3002 N Reading Rd, Adamstown",717-226-3003,19501,40.244477,-76.064701,Pennsylvania
+Aliquippa,2646 Brodhead Road Suite 3,"2646 Brodhead Road Suite 3, Aliquippa",724-788-4700,15001,40.595263,-80.322877,Pennsylvania
+Allentown,2 East Susquehanna Street,"2 East Susquehanna Street, Allentown",610-709-8644,18103,40.570308,-75.488926,Pennsylvania
+Allison Park,4848 Rt 8,"4848 Rt 8, Allison",724-443-0100,15101,40.580328,-79.955241,Pennsylvania
+Altoona,607 17th Street,"607 17th Street, Altoona",814-944-6000,16602,40.512662,-78.373929,Pennsylvania
+Ambler,1115 S Bethlehem Pike,"1115 S Bethlehem Pike, Ambler",215-654-9000,19002,40.187195,-75.206891,Pennsylvania
+Annville,1405 East Main Street,"1405 East Main Street, Annville",717-276-6000,17003,40.362358,-76.569599,Pennsylvania
+Avondale,79 Baltimore Pike,"79 Baltimore Pike, Avondale",610-268-3211,19311,39.821095,-75.771347,Pennsylvania
+Bala Cynwyd,144 Montgomery Ave,"144 Montgomery Ave, Bala",215-488-5555,19004,40.009753,-75.231508,Pennsylvania
+Bangor,1341 Blue Valley Drive,"1341 Blue Valley Drive, Bangor",610-863-8600,18072,40.84414,-75.259135,Pennsylvania
+Belle Vernon,104 Pricedale Road,"104 Pricedale Road, Belle",724-929-4444,15012,40.155417,-79.812946,Pennsylvania
+Bellefonte,114 High St,"114 High St, Bellefonte",814-548-7860,16823,40.939052,-77.772647,Pennsylvania
+Bensalem,2615 Street Road,"2615 Street Road, Bensalem",215-633-9100,19020,40.100591,-74.938934,Pennsylvania
+Berwick,908 N Market Street,"908 N Market Street, Berwick",570-759-3100,18603,41.082035,-76.258139,Pennsylvania
+Bethel Park,5816 Library Road,"5816 Library Road, Bethel",412-854-3030,15102,40.32135,-80.036546,Pennsylvania
+Bethlehem,19 East Third Street,"19 East Third Street, Bethlehem",610-861-0440,18015,40.585869,-75.367239,Pennsylvania
+Blairsville,855 Route 22 West,"855 Route 22 West, Blairsville",724-675-1233,15717,40.457206,-79.243213,Pennsylvania
+Blandon,8537 Allentown Pike,"8537 Allentown Pike, Blandon",610-569-9000,19510,40.447528,-75.877656,Pennsylvania
+Bloomsburg,1301 Columbia Blvd,"1301 Columbia Blvd, Bloomsburg",570-784-6211,17815,41.020038,-76.420092,Pennsylvania
+Boyertown,832 E Philadelphia Ave,"832 E Philadelphia Ave, Boyertown",610-367-1775,19512,40.348327,-75.680555,Pennsylvania
+Bristol,11 Gooding Avenue,"11 Gooding Avenue, Bristol",401-254-0404,02809,41.67573,-71.273331,Rhode Island
+Cranston,1401 Park Avenue,"1401 Park Avenue, Cranston",401-946-3300,02910,41.774999,-71.435594,Rhode Island
+Cumberland,3383 Mendon Rd,"3383 Mendon Rd, Cumberland",401-658-0077,02864,41.966913,-71.428933,Rhode Island
+E Providence,2145 Pawtucket Ave,"2145 Pawtucket Ave, E",401-438-6500,02914,41.814838,-71.365333,Rhode Island
+Middletown,1397 W. Main Rd,"1397 W. Main Rd, Middletown",401-849-5520,02842,41.518673,-71.281685,Rhode Island
+Narragansett,140 Point Judith Road,"140 Point Judith Road, Narragansett",401-782-1202,02882,41.415152,-71.465251,Rhode Island
+Newport,19 W Main Rd,"19 W Main Rd, Newport",401-849-6940,02840,41.478216,-71.322375,Rhode Island
+North Kingstown,5953 Post Rd,"5953 Post Rd, North",401-884-8546,02852,41.588565,-71.459811,Rhode Island
+North Providence,1744 Mineral Spring Ave,"1744 Mineral Spring Ave, North",401-654-4100,02911,41.854888,-71.472812,Rhode Island
+North Smithfield,900 Victory Highway,"900 Victory Highway, North",401-769-2000,02896,41.975186,-71.544069,Rhode Island
+Pawtucket,210 Dexter St,"210 Dexter St, Pawtucket",401-727-1770,02860,41.870562,-71.388681,Rhode Island
+Providence,887 North Main St,"887 North Main St, Providence",401-861-1200,02906,41.840169,-71.390408,Rhode Island
+Riverside,1086 Willett Ave.,"1086 Willett Ave., Riverside",401-433-0200,02915,41.772847,-71.354839,Rhode Island
+Smithfield,9 Cedar Swamp Road,"9 Cedar Swamp Road, Smithfield",401-233-8966,02917,41.905774,-71.523305,Rhode Island
+Warwick,557 Warwick Ave,"557 Warwick Ave, Warwick",401-467-3130,02888,41.747671,-71.406118,Rhode Island
+West Warwick,957 Main St,"957 Main St, West",401-826-3636,02893,41.679006,-71.518688,Rhode Island
+Westerly,93 Granite Street,"93 Granite Street, Westerly",401-596-8850,02891,41.361854,-71.789689,Rhode Island
+Woonsocket,263 Social St,"263 Social St, Woonsocket",401-765-3571,02895,42.001706,-71.499949,Rhode Island
+Aiken,260 East Gate Drive,"260 East Gate Drive, Aiken",803-649-2200,29803,33.490342,-81.762819,South Carolina
+Anderson,1006 N. Main,"1006 N. Main, Anderson",864-226-9393,29621,34.506671,-82.605272,South Carolina
+Barnwell,11381 Dunbarton Blvd,"11381 Dunbarton Blvd, Barnwell",803-541-8646,29812,33.231937,-81.428404,South Carolina
+Beaufort,129 Burton Hill Rd,"129 Burton Hill Rd, Beaufort",843-524-8200,29902,32.334933,-80.684304,South Carolina
+Bennetsville,1220 Bennetsville Sq Hwy 9 West,"1220 Bennetsville Sq Hwy 9 West, Bennetsville",843-479-0063,29512,34.619033,-79.718041,South Carolina
+Bluffton,30 Plantation Park Dr #206,"30 Plantation Park Dr #206, Bluffton",843-706-3111,29910,32.214521,-80.89157,South Carolina
+Blythewood,723 University Village Dr,"723 University Village Dr, Blythewood",803-764-9700,29016,34.20251,-80.997,South Carolina
+Boiling Springs,2510 Boiling Springs Rd. Suite A,"2510 Boiling Springs Rd. Suite A, Boiling",864-578-9240,29316,35.043045,-81.975107,South Carolina
+Camden,2406 Broad St,"2406 Broad St, Camden",999-999-9999,29020,34.314345,-80.573719,South Carolina
+Central,1286 Eighteen Mile Rd,"1286 Eighteen Mile Rd, Central",864-610-5400,29630,34.738673,-82.799161,South Carolina
+Chapin,130 Amicks Ferry Road,"130 Amicks Ferry Road, Chapin",803-945-7777,29036,34.134004,-81.339914,South Carolina
+Charleston,99 Westedge St Suite 1400,"99 Westedge St Suite 1400, Charleston",843-720-8600,29403,32.8059,-79.94318,South Carolina
+Cheraw,1040 Chesterfield Hwy,"1040 Chesterfield Hwy, Cheraw",843-865-7077,29520,34.679486,-79.927292,South Carolina
+Clemson,501 Old Greenville Highway,"501 Old Greenville Highway, Clemson",864-653-7575,29631,34.681593,-82.817762,South Carolina
+Clinton,25050 Highway 76 E,"25050 Highway 76 E, Clinton",864-939-8484,29325,34.465141,-81.849816,South Carolina
+Columbia,825 Main St- Downtown Campus Location,"825 Main St- Downtown Campus Location, Columbia",803-256-8151,29201,33.982484,-81.028098,South Carolina
+Conway,1300 SC Highway 544 Unit A-3,"1300 SC Highway 544 Unit A-3, Conway",843-491-9430,29526,33.847406,-78.947093,South Carolina
+Daniel Island,162 Seven Farms Rd.,"162 Seven Farms Rd., Daniel",843-352-2209,29492,32.903802,-79.911163,South Carolina
+Darlington,116 Express ln,"116 Express ln, Darlington",843-395-1414,29532,34.280331,-79.869336,South Carolina
+Dillon,904-A Highway 301 N,"904-A Highway 301 N, Dillon",843-841-2225,29536,34.419502,-79.373048,South Carolina
+Aberdeen,522 S Main St,"522 S Main St, Aberdeen",605-225-5555,57401,45.482335,-98.53254,South Dakota
+Box Elder,219 Main Gate Road,"219 Main Gate Road, Box",605-923-1491,57719,44.232442,-102.976094,South Dakota
+Brookings,927 6th Street,"927 6th Street, Brookings",605-697-6688,57006,44.314898,-96.796499,South Dakota
+Huron,25 Market Street E,"25 Market Street E, Huron",605-352-6480,57350,44.404316,-98.199291,South Dakota
+Mitchell,425 North Sanborn,"425 North Sanborn, Mitchell",605-996-1010,57301,43.713759,-98.047697,South Dakota
+Pierre,1419 E Wells,"1419 E Wells, Pierre",605-224-6483,57501,44.5276,-100.309037,South Dakota
+Rapid City,840 Timmons Blvd #8,"840 Timmons Blvd #8, Rapid",605-503-6106,57703,44.004564,-103.042628,South Dakota
+Sioux Falls,1108 S Minnesota Ave,"1108 S Minnesota Ave, Sioux",605-331-2121,57105,43.520296,-96.735607,South Dakota
+Spearfish,1410 North ave,"1410 North ave, spearfish",605-642-0288,57783,44.474163,-103.918258,South Dakota
+Sturgis,1057 Main St,"1057 Main St, Sturgis",605-561-0555,57785,44.438809,-103.133501,South Dakota
+Vermillion,702 N University,"702 N University, Vermillion",605-624-5577,57069,42.843155,-96.975173,South Dakota
+Watertown,912 5th Street SE,"912 5th Street SE, Watertown",605-882-4242,57201,44.936722,-97.092757,South Dakota
+Yankton,1108 Broadway Ave,"1108 Broadway Ave, Yankton",605-689-0999,57078,42.915648,-97.446689,South Dakota
+Spring Hill,5407 Main St Suite 101,"5407 Main St Suite 101, Spring",931-487-9090,37174,35.719838,-86.898124,Tennessee
+Alcoa,256 Hamilton Crossing Rd,"256 Hamilton Crossing Rd, Alcoa",865-328-7222,37701,35.791709,-83.987225,Tennessee
+Algood,402 W Main Street,"402 W Main Street, Algood",931-650-5555,38506,36.187107,-85.433312,Tennessee
+Antioch,823 Hamilton Crossing,"823 Hamilton Crossing, Antioch",615-360-3030,37013,36.052231,-86.632515,Tennessee
+Arlington,5780 Airline Road,"5780 Airline Road, Arlington",901-867-0032,38002,35.286355,-89.700274,Tennessee
+Ashland City,312 Frey St,"312 Frey St, Ashland",615-792-0092,37015,36.279378,-87.075584,Tennessee
+Athens,1250 Decatur Pike,"1250 Decatur Pike, Athens",423-745-7676,37303,35.442462,-84.640077,Tennessee
+Atoka,11124 Highway 51 South,"11124 Highway 51 South, Atoka",901-837-3663,38004,35.411411,-89.759757,Tennessee
+Bartlett,6490 Memphis- Arlington Rd. Suite 103,"6490 Memphis- Arlington Rd. Suite 103, Bartlett",901-373-6391,38135,35.238915,-89.848589,Tennessee
+Blountville,1323-D Highway 394,"1323-D Highway 394, Blountville",423-323-3434,37617,36.524578,-82.365576,Tennessee
+Bolivar,107 Porter Street,"107 Porter Street, Bolivar",731-658-6629,38008,35.246459,-88.99718,Tennessee
+Brentwood,7115 Southpoint Pkwy,"7115 Southpoint Pkwy, Brentwood",615-331-7277,37013,36.052231,-86.632515,Tennessee
+Bristol,151 SPEEDWAY BLVD,"151 SPEEDWAY BLVD, BRISTOL",877-883-9643,37620,36.549613,-82.09404,Tennessee
+Brownsville,251 W Main St,"251 W Main St, Brownsville",731-772-2030,38012,35.610611,-89.273232,Tennessee
+Camden,131 Hwy 641 N,"131 Hwy 641 N, Camden",731-584-7600,38320,36.051656,-88.1126,Tennessee
+Carthage,117 Water St,"117 Water St, Carthage",615-709-7070,37030,36.271546,-85.94212,Tennessee
+Chapel Hill,4640 Nashville Hwy Ste D,"4640 Nashville Hwy Ste D, Chapel",931-364-5775,37034,35.651936,-86.690108,Tennessee
+Chattanooga,8644 E Brainerd Rd,"8644 E Brainerd Rd, Chattanooga",423-899-3030,37421,35.030496,-85.14578,Tennessee
+Church Hill,720 E Main Blvd,"720 E Main Blvd, Church",423-357-2228,37642,36.530987,-82.7268,Tennessee
+Clarksville,2609-F E. Ft. Campbell BLVD Gates 1-2,"2609-F E. Ft. Campbell BLVD Gates 1-2, Clarksville",931-431-0881,37042,36.568751,-87.416322,Tennessee
+Abilene,5001 US 277,"5001 US 277, Abilene",325-695-3030,79605,32.434599,-99.781827,Texas
+Aledo,311 FM-1187 S #500,"311 FM-1187 S #500, Aledo",682-200-6636,76008,32.695708,-97.631482,Texas
+Alice,1100 E Front St,"1100 E Front St, Alice",361-668-6400,78332,27.72486,-98.134831,Texas
+Allen,913 W Stacy Rd Suite 160,"913 W Stacy Rd Suite 160, Allen",469-656-3040,75013,33.114327,-96.693964,Texas
+Alton,306 East Main Street Suite 4,"306 East Main Street Suite 4, Alton",956-581-9300,78573,26.296191,-98.299959,Texas
+Alvarado,710 N Parkway,"710 N Parkway, Alvarado",817-790-6000,76009,32.414937,-97.200076,Texas
+Alvin,1401 S Gordon St,"1401 S Gordon St, Alvin",281-585-2222,77511,29.380858,-95.241857,Texas
+Amarillo,5914 Hillside Rd,"5914 Hillside Rd, Amarillo",806-354-8889,79109,35.166416,-101.886423,Texas
+Andrews,1335 North Main St.,"1335 North Main St., Andrews",432-523-2333,79714,32.335729,-102.697303,Texas
+Angleton,1242 East Mulberry,"1242 East Mulberry, Angleton",979-849-6446,77515,29.174921,-95.450088,Texas
+Anna,807 South Cenrtal Expy,"807 South Cenrtal Expy, Anna",972-924-8000,75409,33.3555,-96.516313,Texas
+Anthony,1605 Antonio,"1605 Antonio, Anthony",915-587-1919,79821,31.980053,-106.598777,Texas
+Aransas Pass,353 S Commercial,"353 S Commercial, Aransas",361-758-5300,78336,27.926913,-97.177776,Texas
+Argyle,250 N US HWY 377,"250 N US HWY 377, Argyle",940-784-6333,76226,33.114714,-97.173909,Texas
+Arlington,1201 West Arbrook Ste 125,"1201 West Arbrook Ste 125, Arlington",682-503-9933,76015,32.692186,-97.133304,Texas
+Atascocita,11711 Will Clayton Parkway Ste B,"11711 Will Clayton Parkway Ste B, Atascocita",281-812-3771,77346,29.994499,-95.177499,Texas
+Athens,210 Crestway Dr,"210 Crestway Dr, Athens",903-670-3160,75751,32.094348,-95.906047,Texas
+Atlanta,506 Loop 59,"506 Loop 59, Atlanta",903-796-8281,75551,33.119332,-94.220491,Texas
+Aubrey,1001 S. Hwy 377 Suite #101,"1001 S. Hwy 377 Suite #101, Aubrey",940-440-1257,76227,33.273603,-96.990042,Texas
+Austin,1807 W. Slaughter Lane Ste 465,"1807 W. Slaughter Lane Ste 465, Austin",512-291-8300,78748,30.16711,-97.823998,Texas
+Bountiful,1171 S. 500 W.,"1171 S. 500 W., Bountiful",801-298-3600,84010,40.867942,-111.867845,Utah
+Brigham City,725 W 1200 S #C,"725 W 1200 S #C, Brigham",435-734-9200,84302,41.553593,-112.050764,Utah
+Cedar City,167 N. 100 W.,"167 N. 100 W., Cedar",435-586-0600,84720,37.590627,-113.190988,Utah
+Centerville,627 W Marketplace Drive,"627 W Marketplace Drive, Centerville",801-292-2000,84014,40.932087,-111.884033,Utah
+Clinton,1776 N 2000 W,"1776 N 2000 W, Clinton",385-519-1212,34015,0,0,Utah
+Cottonwood Height,1961 East Fort Union Blvd,"1961 East Fort Union Blvd, Cottonwood",801-396-7788,84121,40.613033,-111.663944,Utah
+Draper,11419 S 700 E,"11419 S 700 E, Draper",801-572-3560,84020,40.500154,-111.869576,Utah
+Eagle Mountain,1352 Eagle Mountain Blvd,"1352 Eagle Mountain Blvd, Eagle",385-355-0533,84005,40.325116,-111.996538,Utah
+Ephraim,28 E 450 N Main St,"28 E 450 N Main St, Ephraim",888-233-4003,84627,39.35316,-111.561071,Utah
+Farr West,2686 N 1850 W,"2686 N 1850 W, Farr",801-737-1100,84404,41.269473,-112.117645,Utah
+Grantsville,225 East Main Street Unit C,"225 East Main Street Unit C, Grantsville",435-884-9595,84029,40.64637,-112.729081,Utah
+Heber City,460 N Main St,"460 N Main St, Heber",435-654-5533,84032,40.539413,-111.321274,Utah
+Herriman,5184 West 13400 South,"5184 West 13400 South, Herriman",801-253-3988,84096,40.515787,-112.102309,Utah
+Highland,5345 W 11000 N,"5345 W 11000 N, Highland",801-763-1000,84003,40.471654,-111.68059,Utah
+Hill AFB,7440 6th St # 420,"7440 6th St # 420, Hill",801-773-3023,84056,41.129127,-111.99193,Utah
+Hurricane,410 West State Street,"410 West State Street, Hurricane",435-635-3322,84737,37.044712,-113.206012,Utah
+Hyrum,10 West Main Street,"10 West Main Street, Hyrum",435-245-7777,84319,41.606288,-111.663276,Utah
+Kaysville,208 West 200 North,"208 West 200 North, Kaysville",801-497-9333,84037,41.027605,-111.950941,Utah
+Kearns,4086 W 5415 S,"4086 W 5415 S, Kearns",801-964-2928,84118,40.653522,-112.013415,Utah
+Layton,1596 N Hill Field Rd,"1596 N Hill Field Rd, Layton",801-728-9188,84041,41.069915,-111.981254,Utah
+Barre,322 N. Main st.,"322 N. Main st., Barre",802-479-2222,05641,44.188842,-72.472172,Vermont
+Bennington,748 Main St,"748 Main St, Bennington",802-442-5550,05201,42.869211,-73.128516,Vermont
+Brattleboro,499 Canal St,"499 Canal St, Brattleboro",802-257-5010,05301,42.83868,-72.659997,Vermont
+Burlington,485 Colchester Ave #1,"485 Colchester Ave #1, Burlington",802-658-3333,05401,44.476621,-73.209998,Vermont
+Colchester,3424 Roosevelt Hwy,"3424 Roosevelt Hwy, Colchester",802-231-1500,05446,44.541259,-73.184415,Vermont
+Essex Junction,58A Pearl St,"58A Pearl St, Essex",802-878-1111,05452,44.538624,-73.050223,Vermont
+Milton,167 Route 7 South,"167 Route 7 South, Milton",802-893-3333,05468,44.657371,-73.144488,Vermont
+Montpelier,25 Berlin St,"25 Berlin St, Montpelier",802-229-7777,05602,44.274953,-72.609475,Vermont
+Newport,33 Railroad Sq,"33 Railroad Sq, Newport",802-673-1333,05855,44.927131,-72.192236,Vermont
+Rutland,140 Strongs Ave,"140 Strongs Ave, Rutland",802-775-0044,05701,43.624577,-72.910204,Vermont
+South Burlington,10 Farrell St,"10 Farrell St, South",802-658-5667,05403,44.444866,-73.173468,Vermont
+Springfield,2 Chester Road,"2 Chester Road, Springfield",802-277-5500,05156,43.310627,-72.461623,Vermont
+St. Albans,266 N Main Street,"266 N Main Street, St.",802-527-5333,05478,44.808422,-73.082507,Vermont
+St. Johnsbury,250 Railroad St. Unit 3,"250 Railroad St. Unit 3, St.",802-748-3555,05819,44.404737,-71.983075,Vermont
+Williston,201 Cornerstone Dr,"201 Cornerstone Dr, Williston",802-232-2777,05495,44.429066,-73.096243,Vermont
+Abingdon,990 E Main St,"990 E Main St, Abingdon",276-628-7191,24210,36.768935,-82.027531,Virginia
+Alexandria,7732c Richmond Hwy,"7732c Richmond Hwy, Alexandria",703-799-3030,22306,38.755738,-77.097779,Virginia
+Altavista,1000c Main St,"1000c Main St, Altavista",434-369-6767,24517,37.147516,-79.23716,Virginia
+Amherst,196 Ambriar Plaza,"196 Ambriar Plaza, Amherst",434-946-0606,24521,37.633294,-79.100863,Virginia
+Annandale,7129 Columbia Pike,"7129 Columbia Pike, Annandale",703-941-7900,22003,38.829817,-77.215318,Virginia
+Appomattox,1965 Confederate Blvd,"1965 Confederate Blvd, Appomattox",434-352-5252,24522,37.376791,-78.778773,Virginia
+Arlington,2602 Columbia Pike,"2602 Columbia Pike, Arlington",703-521-3030,22204,38.860791,-77.098972,Virginia
+Ashburn,43330 Junction Plz Ste 118,"43330 Junction Plz Ste 118, Ashburn",703-729-6100,20147,39.041947,-77.47813,Virginia
+Ashland,9563 B King's Charter Dr,"9563 B King's Charter Dr, Ashland",804-550-2555,23005,37.759696,-77.48187,Virginia
+Aylett,4917 Richmond Tappahannock Hwy,"4917 Richmond Tappahannock Hwy, Aylett",804-769-7000,23009,37.820938,-77.181166,Virginia
+Bedford,109 North Bridge St.,"109 North Bridge St., Bedford",540-587-5555,24523,37.344838,-79.523884,Virginia
+Blacksburg,905 N Main St,"905 N Main St, Blacksburg",540-953-4600,24060,37.255474,-80.422539,Virginia
+Bluefield,2113 College Ave,"2113 College Ave, Bluefield",276-326-7070,24605,37.254178,-81.371211,Virginia
+Bridgewater,630 N Main St,"630 N Main St, Bridgewater",540-828-1777,22812,38.378179,-79.027051,Virginia
+Bristol,3003-A Lee Highway,"3003-A Lee Highway, Bristol",276-466-8888,24201,36.610715,-82.17005,Virginia
+Broadway,105 Timber Way Broadway,"105 Timber Way Broadway, Broadway",540-901-9001,22815,38.712509,-78.841209,Virginia
+Buena Vista,210 w 22nd street,"210 w 22nd street, Buena",540-261-1111,24416,37.722497,-79.360864,Virginia
+Burke,9532 Old Keene Mill Rd,"9532 Old Keene Mill Rd, Burke",703-644-2226,22015,38.787814,-77.278973,Virginia
+Centreville,14120C Rt 29,"14120C Rt 29, Centreville",703-830-9000,20120,38.856401,-77.476371,Virginia
+Chantilly,24650 South Point Dr,"24650 South Point Dr, Chantilly",571-399-6300,20152,38.919145,-77.502426,Virginia
+Anacortes,2517 Commercial Avenue,"2517 Commercial Avenue, Anacortes",360-873-6771,98221,48.505025,-122.659285,Washington
+Arlington,3704 172nd Street NE,"3704 172nd Street NE, Arlington",360-659-1120,98223,48.21712,-121.95354,Washington
+Auburn,4025 A Street SE Suite 103,"4025 A Street SE Suite 103, Auburn",253-275-1266,98002,47.308286,-122.216812,Washington
+Battle Ground,11 NW 12th Ave,"11 NW 12th Ave, Battle",360-667-0667,98604,45.805747,-122.510777,Washington
+Belfair,23969 State Route 3 #G,"23969 State Route 3 #G, Belfair",360-233-2266,98528,47.445724,-122.896929,Washington
+Bellevue,3710C Factoria Blvd SE,"3710C Factoria Blvd SE, Bellevue",425-747-9766,98006,47.557627,-122.151005,Washington
+Bellingham,402 36th Street,"402 36th Street, Bellingham",360-671-8282,98225,48.75094,-122.501286,Washington
+Bonney Lake,19679 HWY 410 E,"19679 HWY 410 E, Bonney",253-862-3100,98391,47.177102,-122.166177,Washington
+Bothell,20631 Bothell Everett Highway J,"20631 Bothell Everett Highway J, Bothell",425-481-4848,98012,47.841376,-122.198939,Washington
+Bremerton,7034 SR 303,"7034 SR 303, Bremerton",360-698-3232,98311,47.631197,-122.631017,Washington
+Burien,14901 4th ave SW,"14901 4th ave SW, Burien",206-248-3030,98166,47.451576,-122.352986,Washington
+Camas,3512 NE 3rd Ave,"3512 NE 3rd Ave, Camas",360-835-1500,98607,45.642413,-122.379611,Washington
+Centralia,1704 South Gold Street,"1704 South Gold Street, Centralia",360-347-6000,98531,46.730437,-122.902774,Washington
+Cheney,1879 First St,"1879 First St, Cheney",509-235-2000,99004,47.420062,-117.631165,Washington
+Covington,16929 SE 270th Place Suite B-102,"16929 SE 270th Place Suite B-102, Covington",253-630-0000,98042,47.367737,-122.117029,Washington
+Custer,3425 Birch Bay Lynden Rd,"3425 Birch Bay Lynden Rd, CUSTER",360-366-4200,98240,48.948225,-122.620684,Washington
+Deer Park,830 S Main St Ste B,"830 S Main St Ste B, Deer",509-651-2000,99006,47.984122,-117.502192,Washington
+East Wenatchee,595 Grant Road Suite 595-1,"595 Grant Road Suite 595-1, East",509-436-7000,98802,47.48609,-120.180328,Washington
+Edmonds,22941 HWY 99 UNIT A,"22941 HWY 99 UNIT A, Edmonds",425-776-3030,98026,47.840735,-122.33266,Washington
+Ellensburg,710 North Anderson Street,"710 North Anderson Street, Ellensburg",509-925-3800,98926,47.014195,-120.458691,Washington
+Washington,2701 14 ST NW,"2701 14 ST NW, Washington",20223840,20009,38.919144,-77.037381,Washington DC
+Beckley,23 Nell Jean Square,"23 Nell Jean Square, Beckley",304-256-3003,25801,37.822892,-81.266198,West Virginia
+Bridgeport,450 E Main Street,"450 E Main Street, Bridgeport",304-848-2525,26330,39.285269,-80.220851,West Virginia
+Buckhannon,47 S Kanawha Street,"47 S Kanawha Street, Buckhannon",304-472-3030,26201,39.001871,-80.197424,West Virginia
+Charleston,1631 Washington Street East,"1631 Washington Street East, Charleston",304-343-3100,25311,38.366863,-81.557035,West Virginia
+Clarksburg,116 S Chesnut Street,"116 S Chesnut Street, Clarksburg",304-624-4001,26301,39.301498,-80.393977,West Virginia
+Cross Lanes,5468 Big Tyler Road,"5468 Big Tyler Road, Cross",304-776-3030,25313,38.419303,-81.766456,West Virginia
+Daniels,1932 Ritter Drive,"1932 Ritter Drive, Daniels",304-763-5300,25832,37.715324,-81.118819,West Virginia
+Elkins,75 Valley Pointe Drive,"75 Valley Pointe Drive, Elkins",304-630-3030,26241,38.932602,-79.788254,West Virginia
+Fairmont,1001 Morgantown Avenue,"1001 Morgantown Avenue, Fairmont",304-366-7881,26554,39.465392,-80.109845,West Virginia
+Falling Waters,65-D Cordial Ct,"65-D Cordial Ct, Falling",304-274-3010,25419,39.575796,-77.89571,West Virginia
+Fayetteville,160 South Pointe Dr.,"160 South Pointe Dr., Fayetteville",304-465-3030,25840,38.042891,-81.122665,West Virginia
+Follansbee,457 Main Street,"457 Main Street, Follansbee",304-527-3030,26037,40.335562,-80.584518,West Virginia
+Hedgesville,71-F Cowardly Lion Dr,"71-F Cowardly Lion Dr, Hedgesville",681-258-8330,25427,39.534237,-78.066125,West Virginia
+Huntington,525 20th Street,"525 20th Street, Huntington",304-697-3300,25703,38.424914,-82.418697,West Virginia
+Inwood,33 True Apple Way,"33 True Apple Way, Inwood",304-229-2121,25428,39.380635,-78.02221,West Virginia
+Keyser,590 S. Mineral St.,"590 S. Mineral St., Keyser",304-788-6400,26726,39.402845,-78.985452,West Virginia
+Martinsburg,502 Williamsport Pike,"502 Williamsport Pike, Martinsburg",304-263-3000,25404,39.483025,-77.890325,West Virginia
+Morgantown,1159 Van Voorhis Rd,"1159 Van Voorhis Rd, Morgantown",304-241-5545,26505,39.649517,-79.945258,West Virginia
+Moundsville,144 N Lafayette Ave,"144 N Lafayette Ave, Moundsville",304-845-9065,26041,39.887241,-80.705476,West Virginia
+New Martinsville,275 N ST RT 2,"275 N ST RT 2, New",304-455-1180,26155,39.630056,-80.763963,West Virginia
+Appleton,333 W. Northland Ave.,"333 W. Northland Ave., Appleton",920-738-9680,54911,44.281533,-88.381003,Wisconsin
+Ashland,301 Main Street W,"301 Main Street W, Ashland",715-292-6602,54806,46.552396,-90.870143,Wisconsin
+Baldwin,2570 Gracie Drive,"2570 Gracie Drive, Baldwin",715-688-3030,54002,44.963016,-92.369527,Wisconsin
+Baraboo,844 8th Ave,"844 8th Ave, Baraboo",608-355-5080,53913,43.49284,-89.728705,Wisconsin
+Barron,1151 Division Street,"1151 Division Street, Barron",715-418-2700,54812,45.392528,-91.882516,Wisconsin
+Beaver Dam,711 N Spring Street #B,"711 N Spring Street #B, Beaver",920-356-0551,53916,43.466797,-88.867753,Wisconsin
+Beloit,204 Park Ave,"204 Park Ave, Beloit",608-312-2474,53511,42.553995,-89.094444,Wisconsin
+Berlin,247 Broadway St,"247 Broadway St, Berlin",920-361-7272,54923,43.997757,-88.966832,Wisconsin
+Black River Falls,609 North Water Street,"609 North Water Street, Black",715-629-9700,54615,44.260473,-90.813319,Wisconsin
+Brookfield,17305 W Capitol Dr,"17305 W Capitol Dr, Brookfield",262-790-8900,53045,43.058889,-88.15252,Wisconsin
+Brown Deer,6300 West Brown Deer Road,"6300 West Brown Deer Road, Brown",414-236-5622,53223,43.163455,-87.990496,Wisconsin
+Burlington,2088 Milwaukee Ave,"2088 Milwaukee Ave, Burlington",262-767-0210,53105,42.663216,-88.280346,Wisconsin
+Chippewa Falls,354 Chippewa Mall Dr,"354 Chippewa Mall Dr, Chippewa",715-726-2626,54729,44.945626,-91.392954,Wisconsin
+Cumberland,1215 Elm Street,"1215 Elm Street, Cumberland",715-564-9900,54829,45.56665,-92.047243,Wisconsin
+Delavan,1823 E. Geneva Street Unit H,"1823 E. Geneva Street Unit H, Delavan",262-728-8888,53115,42.656603,-88.668293,Wisconsin
+Eau Claire,3311 London Drive,"3311 London Drive, Eau",715-833-3933,54701,44.751984,-91.514998,Wisconsin
+Elkhorn,58 West Market Street Ste H,"58 West Market Street Ste H, Elkhorn",262-578-5150,53121,42.719719,-88.534143,Wisconsin
+Fitchburg,5401 Caddis Bend,"5401 Caddis Bend, Fitchburg",608-284-9565,53711,43.010993,-89.411184,Wisconsin
+Fond Du Lac,84 N Main Street,"84 N Main Street, Fond",920-921-3800,54935,43.77366,-88.436782,Wisconsin
+Fort Atkinson,1311 Madison Ave,"1311 Madison Ave, Fort",920-563-5663,53568,0,0,Wisconsin
+Afton,550 Washington St,"550 Washington St, Afton",307-368-8833,83110,42.725902,-110.849219,Wyoming
+Buffalo,307 East Hart Street Suite C,"307 East Hart Street Suite C, Buffalo",307-620-3061,82834,44.239738,-106.658714,Wyoming
+Casper,1540 Centennial Ct,"1540 Centennial Ct, Casper",307-237-6100,82609,42.805201,-106.180846,Wyoming
+Cheyenne,511 E. Pershing Blvd.,"511 E. Pershing Blvd., Cheyenne",307-637-3030,82001,41.092356,-104.936269,Wyoming
+Cody,1454 Sheridan Ave,"1454 Sheridan Ave, Cody",307-587-4781,82414,44.492387,-109.593597,Wyoming
+Douglas,1826 East Richards Street,"1826 East Richards Street, Douglas",307-624-2020,82633,43.020861,-105.41068,Wyoming
+Evanston,225 FRONT ST,"225 FRONT ST, Evanston",307-789-7899,82930,41.016132,-110.64493,Wyoming
+Gillette,403 W Lakeway,"403 W Lakeway, Gillette",307-682-5999,82716,44.464635,-105.695059,Wyoming
+Green River,430 Uinta Dr.,"430 Uinta Dr., Green",307-875-2020,82935,41.688569,-109.664735,Wyoming
+Jackson,520 S Highway 89 Unit #6,"520 S Highway 89 Unit #6, Jackson",307-733-0330,83001,43.394562,-110.629837,Wyoming
+Lander,175 N 4th Street,"175 N 4th Street, Lander",307-335-7070,82520,42.69917,-108.618598,Wyoming
+Laramie Wyoming,1710 E Grand Ave,"1710 E Grand Ave, Laramie",307-742-0030,82070,41.195245,-105.831882,Wyoming
+Powell,451 West Coulter,"451 West Coulter, Powell",307-754-3211,82435,44.810459,-108.915036,Wyoming
+Rawlins,312 W Cedar,"312 W Cedar, Rawlins",307-328-1400,82301,41.892016,-107.490595,Wyoming
+Riverton,806 N FEDERAL,"806 N FEDERAL, Riverton",307-857-2033,82501,43.033049,-108.206993,Wyoming
+Rock Springs,3028 College Rd.,"3028 College Rd., Rock",307-362-4242,82901,41.379272,-108.978176,Wyoming
+Sheridan,1538 N Main Street,"1538 N Main Street, Sheridan",307-672-7401,82801,44.843713,-106.835993,Wyoming
+Torrington,2741 West C St.,"2741 West C St., Torrington",307-532-0330,82240,42.257616,-104.150757,Wyoming
