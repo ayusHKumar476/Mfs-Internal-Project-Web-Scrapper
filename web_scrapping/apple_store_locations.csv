@@ -1,0 +1,274 @@
+store_name,store_address,phone_number,zip_code,latitude,longitude,city_name,state
+211 Summit Boulevard,"211 Summit Boulevard, Birmingham",(205) 909-2570,35243,33.440918,-86.741508,"Birmingham, The Summit",Alabama
+320 The Bridge Street,"320 The Bridge Street, Huntsville",(256) 327-8800,35806,34.760774,-86.685762,"Huntsville, Bridge Street",Alabama
+320 West 5th Avenue,"320 West 5th Avenue, Anchorage",(907) 257-1900,99501,61.220018,-149.855702,"Anchorage, Anchorage 5th Avenue Mall",Alaska
+3111 W Chandler Boulevard,"3111 W Chandler Boulevard, Chandler",(480) 636-3900,85226,33.252249,-112.010268,"Chandler, Chandler Fashion Center",Arizona
+2218 E. Williams Field Road,"2218 E. Williams Field Road, Gilbert",(480) 366-8477,85295,33.303241,-111.741807,"Gilbert, SanTan Village",Arizona
+7700 West Arrowhead Towne Ctr,"7700 West Arrowhead Towne Ctr, Glendale",(623) 707-2860,85308,33.660382,-112.184964,"Glendale, Arrowhead",Arizona
+7014 East Camelback Road,"7014 East Camelback Road, Scottsdale",(602) 606-1470,85251,33.493513,-111.919239,"Scottsdale, Scottsdale Fashion Square",Arizona
+15169 North Scottsdale Road,"15169 North Scottsdale Road, Scottsdale",(480) 627-5501,85254,33.615485,-111.952235,"Scottsdale, Scottsdale Quarter",Arizona
+2905 East Skyline Drive,"2905 East Skyline Drive, Tucson",(520) 209-7440,85718,32.333304,-110.916607,"Tucson, La Encantada",Arizona
+17711 Chenal Parkway Little,"17711 Chenal Parkway Little, Rock",(501) 821-5130,72223,34.788983,-92.511587,"Little Rock, The Promenade at Chenal",Arkansas
+2701 Ming Avenue,"2701 Ming Avenue, Bakersfield",(661) 396-3480,93304,35.339702,-119.023451,"Bakersfield, Valley Plaza",California
+1823 4th Street,"1823 4th Street, Berkeley",(510) 898-3341,94710,37.863914,-122.306465,"Berkeley, 4th Street",California
+1016C Brea Mall,"1016C Brea Mall, Brea",(714) 989-5550,92821,33.927561,-117.887086,"Brea, Brea Mall",California
+1301 Burlingame Avenue,"1301 Burlingame Avenue, Burlingame",(650) 645-8930,94010,37.57028,-122.365778,"Burlingame, Burlingame",California
+6600 Topanga Canyon Boulevard Canoga,"6600 Topanga Canyon Boulevard Canoga, Park",(818) 577-1800,91303,34.198292,-118.600913,"Canoga Park, Topanga",California
+1923 Calle Barcelona,"1923 Calle Barcelona, Carlsbad",(760) 697-9800,92009,33.09547,-117.243882,"Carlsbad, Carlsbad",California
+242 Los Cerritos Center,"242 Los Cerritos Center, Cerritos",(562) 356-1555,90703,33.867743,-118.069472,"Cerritos, Los Cerritos",California
+2015 Birch Road Chula,"2015 Birch Road Chula, Vista",(619) 205-6400,91915,32.623185,-116.949053,"Chula Vista, Otay Ranch",California
+1520 Redwood Highway Corte,"1520 Redwood Highway Corte, Madera",(415) 413-9120,94925,37.931846,-122.507738,"Corte Madera, Corte Madera",California
+3333 Bear Street Costa,"3333 Bear Street Costa, Mesa",(714) 424-6331,92626,33.679591,-117.908531,"Costa Mesa, South Coast Plaza",California
+One Infinite Loop,"One Infinite Loop, Cupertino",(408) 606-5775,95014,37.306491,-122.08064,"Cupertino, Infinite Loop",California
+10600 North Tantau Avenue,"10600 North Tantau Avenue, Cupertino",(408) 961-1560,95014,37.306491,-122.08064,"Cupertino, Apple Park Visitor Center",California
+5640 Bay Street,"5640 Bay Street, Emeryville",(510) 350-2400,94608,37.836844,-122.289143,"Emeryville, Bay Street",California
+272 E Via Rancho Parkway,"272 E Via Rancho Parkway, Escondido",(760) 317-2484,92025,33.102005,-117.080419,"Escondido, North County",California
+645 E. Shaw Avenue,"645 E. Shaw Avenue, Fresno",(559) 244-3400,93710,36.822349,-119.760243,"Fresno, Fashion Fair",California
+2126 Glendale Galleria,"2126 Glendale Galleria, Glendale",(818) 502-8310,91210,34.144557,-118.256507,"Glendale, Glendale Galleria",California
+877 Americana Way,"877 Americana Way, Glendale",(818) 254-1070,91210,34.144557,-118.256507,"Glendale, The Americana at Brand",California
+930 Spectrum Center Drive,"930 Spectrum Center Drive, Irvine",(949) 255-1500,92618,33.666942,-117.732094,"Irvine, Irvine Spectrum Center",California
+189 The Grove Drive Los,"189 The Grove Drive Los, Angeles",(323) 617-9800,90036,34.07041,-118.350411,"Los Angeles, The Grove",California
+802 S Broadway Los,"802 S Broadway Los, Angeles",(213) 655-1200,90014,34.043146,-118.251746,"Los Angeles, Tower Theatre",California
+8500 Beverly Boulevard Los,"8500 Beverly Boulevard Los, Angeles",(424) 239-3880,90048,34.072924,-118.37271,"Los Angeles, Beverly Center",California
+10250 Santa Monica Boulevard Los,"10250 Santa Monica Boulevard Los, Angeles",(424) 204-4290,90067,34.057597,-118.413998,"Los Angeles, Century City",California
+23 N. Santa Cruz Avenue Los,"23 N. Santa Cruz Avenue Los, Gatos",(408) 399-3880,95030,37.222759,-121.983272,"Los Gatos, Los Gatos",California
+3200 Sepulveda Boulevard Manhattan,"3200 Sepulveda Boulevard Manhattan, Beach",(310) 421-3720,90266,33.889151,-118.402127,"Manhattan Beach, Manhattan Village",California
+936C Shops at Mission Viejo Mission,"936C Shops at Mission Viejo Mission, Viejo",(949) 325-6426,92691,33.611945,-117.665867,"Mission Viejo, Mission Viejo",California
+3401 Dale Road,"3401 Dale Road, Modesto",(209) 342-1500,95356,37.718023,-121.032714,"Modesto, Vintage Faire",California
+240 Del Monte Center,"240 Del Monte Center, Monterey",(831) 647-4480,93940,36.57469,-121.840854,"Monterey, Del Monte",California
+1113 Newport Center Drive Newport,"1113 Newport Center Drive Newport, Beach",(949) 629-9717,92660,33.634626,-117.874882,"Newport Beach, Fashion Island",California
+9301 Tampa Avenue,"9301 Tampa Avenue, Northridge",(818) 477-9010,91324,34.238208,-118.55029,"Northridge, Northridge",California
+73445 El Paseo Palm,"73445 El Paseo Palm, Desert",(760) 862-9710,92260,33.708012,-116.403627,"Palm Desert, El Paseo Village",California
+379 Stanford Shopping Center Palo,"379 Stanford Shopping Center Palo, Alto",(650) 798-6180,94304,37.374707,-122.181698,"Palo Alto, Stanford Shopping Center",California
+340 University Avenue Palo,"340 University Avenue Palo, Alto",(650) 798-2800,94301,37.444123,-122.149911,"Palo Alto, Palo Alto",California
+54 West Colorado Boulevard,"54 West Colorado Boulevard, Pasadena",(626) 463-6223,91105,34.13946,-118.166649,"Pasadena, Pasadena",California
+One Stoneridge Mall,"One Stoneridge Mall, Pleasanton",(925) 398-1962,94588,37.792682,-121.86059,"Pleasanton, Stoneridge Mall",California
+12461 South Main Street Rancho,"12461 South Main Street Rancho, Cucamonga",(909) 803-5220,91739,34.172754,-117.521243,"Rancho Cucamonga, Victoria Gardens",California
+1151 Galleria Boulevard,"1151 Galleria Boulevard, Roseville",(916) 872-2506,95678,38.76407,-121.287523,"Roseville, Roseville",California
+1689 Arden Way,"1689 Arden Way, Sacramento",(916) 830-5610,95815,38.605407,-121.447593,"Sacramento, Arden Fair",California
+4305 La Jolla Village Drive San,"4305 La Jolla Village Drive San, Diego",(858) 795-6870,92122,32.861727,-117.171224,"San Diego, UTC",California
+7007 Friars Road San,"7007 Friars Road San, Diego",(619) 682-3477,92108,32.774046,-117.142454,"San Diego, Fashion Valley",California
+2125 Chestnut Street San,"2125 Chestnut Street San, Francisco",(415) 848-4445,94123,37.800934,-122.438366,"San Francisco, Chestnut Street",California
+3251 20th Avenue San,"3251 20th Avenue San, Francisco",(415) 571-2780,94132,37.72222,-122.484077,"San Francisco, Stonestown",California
+300 Post Street San,"300 Post Street San, Francisco",(415) 486-4800,94108,37.792007,-122.408575,"San Francisco, Union Square",California
+925 Blossom Hill Road San,"925 Blossom Hill Road San, Jose",(408) 960-0110,95123,37.244238,-121.831604,"San Jose, Oakridge",California
+899 Higuera Street San Luis,"899 Higuera Street San Luis, Obispo",(805) 542-8800,93401,35.23575,-120.615973,"San Luis Obispo, Higuera Street",California
+60  31st Avenue Suite K03 San,"60  31st Avenue Suite K03 San, Mateo",(650) 645-4800,94403,37.538449,-122.305447,"San Mateo, Hillsdale",California
+928 State Street Santa,"928 State Street Santa, Barbara",(805) 560-1500,93101,34.418979,-119.709166,"Santa Barbara, State Street",California
+2855 Stevens Creek Boulevard Santa,"2855 Stevens Creek Boulevard Santa, Clara",(408) 551-2150,95050,37.351157,-121.952295,"Santa Clara, Valley Fair",California
+1415 Third Street Promenade Santa,"1415 Third Street Promenade Santa, Monica",(310) 633-2670,90401,34.013666,-118.49375,"Santa Monica, Third Street Promenade",California
+1071 Santa Rosa Plaza Santa,"1071 Santa Rosa Plaza Santa, Rosa",(707) 508-3500,95401,38.449137,-122.793752,"Santa Rosa, Santa Rosa Plaza",California
+14006 Riverside Drive Sherman,"14006 Riverside Drive Sherman, Oaks",(818) 464-3080,91423,34.148617,-118.433298,"Sherman Oaks, Sherman Oaks",California
+40764 Winchester Road,"40764 Winchester Road, Temecula",(951) 326-2400,92591,33.535277,-117.104791,"Temecula, Promenade Temecula",California
+432 West Hillcrest Drive Thousand,"432 West Hillcrest Drive Thousand, Oaks",(805) 277-5040,91360,34.212805,-118.882179,"Thousand Oaks, The Oaks",California
+24201 West Valencia Boulevard,"24201 West Valencia Boulevard, Valencia",(661) 678-1490,91355,34.439855,-118.644401,"Valencia, Valencia Town Center",California
+1200 S. Main Street Walnut,"1200 S. Main Street Walnut, Creek",(925) 949-5463,94596,37.889098,-122.037553,"Walnut Creek, Broadway Plaza",California
+1755 29th Street,"1755 29th Street, Boulder",(720) 479-9451,80301,40.049468,-105.201421,"Boulder, Twenty Ninth Street",Colorado
+One West Flatiron Crossing Dr,"One West Flatiron Crossing Dr, Broomfield",(720) 479-0465,80021,39.890663,-105.113724,"Broomfield, FlatIron Crossing",Colorado
+1685 Briargate Parkway Suite 315 Colorado,"1685 Briargate Parkway Suite 315 Colorado, Springs",(719) 522-4460,80920,38.957598,-104.77077,"Colorado Springs, The Promenade Shops at Briargate",Colorado
+3000 E 1st Avenue,"3000 E 1st Avenue, Denver",(303) 583-7310,80206,39.730282,-104.952592,"Denver, Cherry Creek",Colorado
+7301 S Santa Fe Drive,"7301 S Santa Fe Drive, Littleton",(303) 256-2580,80120,39.593836,-105.01146,"Littleton, Aspen Grove",Colorado
+8405 Park Meadows Center Drv Lone,"8405 Park Meadows Center Drv Lone, Tree",(303) 256-1501,80124,39.532889,-104.891089,"Lone Tree, Park Meadows",Colorado
+Seven Backus Avenue,"Seven Backus Avenue, Danbury",(203) 546-6340,06810,41.374284,-73.457611,"Danbury, Danbury Fair Mall",Connecticut
+500 Westfarms Mall,"500 Westfarms Mall, Farmington",(860) 221-0800,06032,41.731051,-72.857096,"Farmington, Westfarms",Connecticut
+356 Greenwich Avenue,"356 Greenwich Avenue, Greenwich",(203) 302-6691,06830,41.037605,-73.624339,"Greenwich, Greenwich Avenue",Connecticut
+65 Broadway New,"65 Broadway New, Haven",(203) 498-8950,06511,41.31703,-72.927316,"New Haven, New Haven",Connecticut
+100 N. Water Street,"100 N. Water Street, Norwalk",(203) 658-1801,06854,41.08391,-73.426615,"Norwalk, SoNo Collection",Connecticut
+401 Evergreen Walk South,"401 Evergreen Walk South, Windsor",(860) 512-2070,06074,41.83809,-72.577836,"South Windsor, Evergreen Walk",Connecticut
+5065 Main Street,"5065 Main Street, Trumbull",(203) 666-3928,06611,41.267861,-73.213691,"Trumbull, Trumbull",Connecticut
+125 Christiana Mall,"125 Christiana Mall, Newark",(302) 533-3514,19702,39.6182,-75.729724,"Newark, Christiana Mall",Delaware
+801 K Street NW,"801 K Street NW, Washington",(202) 609-6400,20001,38.910353,-77.017739,"Washington, Carnegie Library",District of Columbia
+1229 Wisconsin Avenue NW,"1229 Wisconsin Avenue NW, Washington",(202) 572-1460,20007,38.914363,-77.079339,"Washington, Georgetown",District of Columbia
+451 E Altamonte Drive Altamonte,"451 E Altamonte Drive Altamonte, Springs",(407) 551-0404,32701,28.665648,-81.370302,"Altamonte Springs, Altamonte",Florida
+19501 Biscayne Boulevard,"19501 Biscayne Boulevard, Aventura",(305) 914-9826,33180,25.960389,-80.143113,"Aventura, Aventura",Florida
+6000 Glades Road Boca,"6000 Glades Road Boca, Raton",(561) 226-0270,33431,26.37476,-80.1062,"Boca Raton, Boca Raton",Florida
+459 Brandon Town Center Drive,"459 Brandon Town Center Drive, Brandon",(813) 413-3400,33511,27.909778,-82.295738,"Brandon, Brandon",Florida
+23151 Fashion Drive,"23151 Fashion Drive, Estero",(239) 949-8860,33928,26.399034,-81.704725,"Estero, Coconut Point",Florida
+2388 E. Sunrise Boulevard Fort,"2388 E. Sunrise Boulevard Fort, Lauderdale",(954) 331-4501,33304,26.140411,-80.121184,"Fort Lauderdale, The Galleria",Florida
+4835 River City Drive,"4835 River City Drive, Jacksonville",(904) 380-3080,32246,30.29376,-81.517139,"Jacksonville, St. Johns Town Center",Florida
+7535 Dadeland Mall,"7535 Dadeland Mall, Miami",(305) 341-9812,33156,25.668203,-80.29701,"Miami, Dadeland",Florida
+701 S. Miami Avenue,"701 S. Miami Avenue, Miami",(786) 843-4350,33130,25.768524,-80.203359,"Miami, Brickell City Centre",Florida
+8888 SW 136th Street,"8888 SW 136th Street, Miami",(305) 234-4565,33176,25.659873,-80.358354,"Miami, The Falls",Florida
+1021 Lincoln Road Miami,"1021 Lincoln Road Miami, Beach",(305) 421-0400,33139,25.779808,-80.1532,"Miami Beach, Lincoln Road",Florida
+5555 Tamiami Trail North,"5555 Tamiami Trail North, Naples",(239) 254-4240,34108,26.246308,-81.808323,"Naples, Waterside Shops",Florida
+4200 Conroy Road,"4200 Conroy Road, Orlando",(407) 352-5551,32839,28.488069,-81.407208,"Orlando, Millenia",Florida
+8001 S. Orange Blossom Trail,"8001 S. Orange Blossom Trail, Orlando",(407) 563-1020,32809,28.462146,-81.385959,"Orlando, Florida Mall",Florida
+3101 PGA Boulevard Palm Beach,"3101 PGA Boulevard Palm Beach, Gardens",(561) 273-2160,33410,26.845662,-80.08735,"Palm Beach Gardens, The Gardens Mall",Florida
+140 University Town Center Dr,"140 University Town Center Dr, Sarasota",(941) 358-4600,34243,27.401013,-82.527887,"Sarasota, University Town Center",Florida
+2223 N West Shore Boulevard,"2223 N West Shore Boulevard, Tampa",(813) 393-4720,33607,27.962012,-82.492176,"Tampa, International Plaza",Florida
+10300 W. Forest Hill Blvd,"10300 W. Forest Hill Blvd, Wellington",(561) 273-2940,33414,26.64892,-80.246459,"Wellington, Wellington Green",Florida
+8130 Avalon Boulevard,"8130 Avalon Boulevard, Alpharetta",(770) 510-1670,30009,34.079096,-84.305262,"Alpharetta, Avalon",Georgia
+4400 Ashford Dunwoody Road,"4400 Ashford Dunwoody Road, Atlanta",(678) 459-9800,30346,33.92423,-84.338876,"Atlanta, Perimeter",Georgia
+3393 Peachtree Road NE,"3393 Peachtree Road NE, Atlanta",(404) 926-3085,30326,33.849518,-84.363971,"Atlanta, Lenox Square",Georgia
+2860 Cumberland Mall Suite 1153,"2860 Cumberland Mall Suite 1153, Atlanta",(678) 402-0725,30339,33.87632,-84.46209,"Atlanta, Cumberland Mall",Georgia
+3450 Wrightsboro Road,"3450 Wrightsboro Road, Augusta",(706) 731-1800,30909,33.470481,-82.083045,"Augusta, Augusta",Georgia
+3333 Buford Drive,"3333 Buford Drive, Buford",(678) 288-3400,30519,34.087437,-83.944991,"Buford, Mall of Georgia",Georgia
+2301 Kalakaua Avenue,"2301 Kalakaua Avenue, Honolulu",(808) 931-2480,96815,21.273462,-157.822444,"Honolulu, Royal Hawaiian",Hawaii
+4211 Waialae Avenue,"4211 Waialae Avenue, Honolulu",(808) 738-4400,96816,21.290676,-157.788352,"Honolulu, Kahala",Hawaii
+1450 Ala Moana Boulevard,"1450 Ala Moana Boulevard, Honolulu",(808) 983-7650,96814,21.293143,-157.848767,"Honolulu, Ala Moana",Hawaii
+350 North Milwaukee Street #1083,"350 North Milwaukee Street #1083, Boise",(208) 377-6500,83704,43.627161,-116.287653,"Boise, Boise Towne Square",Idaho
+801 W. North Avenue,"801 W. North Avenue, Chicago",(312) 777-4200,60642,41.902042,-87.658544,"Chicago, Lincoln Park",Illinois
+401 North Michigan Avenue,"401 North Michigan Avenue, Chicago",(312) 529-9500,60611,41.8957,-87.613775,"Chicago, Michigan Avenue",Illinois
+20530 N. Rand Road Deer,"20530 N. Rand Road Deer, Park",(847) 847-0400,60010,42.146494,-88.164651,"Deer Park, Deer Park",Illinois
+120 West Jefferson Avenue,"120 West Jefferson Avenue, Naperville",(630) 536-5400,60540,41.76467,-88.145428,"Naperville, Main Place",Illinois
+1056 Northbrook Court,"1056 Northbrook Court, Northbrook",(847) 205-2020,60062,42.126279,-87.845088,"Northbrook, Northbrook",Illinois
+70 Oakbrook Center Oak,"70 Oakbrook Center Oak, Brook",(630) 481-3470,60523,41.836558,-87.953278,"Oak Brook, Oakbrook",Illinois
+288 Orland Square Drive Orland,"288 Orland Square Drive Orland, Park",(708) 645-5401,60462,41.625307,-87.83293,"Orland Park, Orland Square Mall",Illinois
+N311 Woodfield Mall,"N311 Woodfield Mall, Schaumburg",(630) 237-2160,60173,42.051556,-88.055522,"Schaumburg, Woodfield",Illinois
+4999 Old Orchard Center,"4999 Old Orchard Center, Skokie",(847) 983-9230,60077,42.034746,-87.757188,"Skokie, Old Orchard",Illinois
+8702 Keystone Crossing,"8702 Keystone Crossing, Indianapolis",(317) 814-3740,46240,39.906046,-86.124634,"Indianapolis, The Fashion Mall at Keystone",Indiana
+6501 North Grape Road,"6501 North Grape Road, Mishawaka",(574) 277-9500,46545,41.693766,-86.146824,"Mishawaka, University Park Mall",Indiana
+101 Jordan Creek Parkway West Des,"101 Jordan Creek Parkway West Des, Moines",(515) 440-9900,50266,41.570085,-93.798416,"West Des Moines, Jordan Creek",Iowa
+4529 West 119th Street,"4529 West 119th Street, Leawood",(913) 234-9800,66209,38.8996,-94.638358,"Leawood, Leawood",Kansas
+4078 Finn Way Suite 120,"4078 Finn Way Suite 120, Lexington",(859) 971-5400,40517,37.982958,-84.489425,"Lexington, Fritz Farm",Kentucky
+7900 Shelbyville Road,"7900 Shelbyville Road, Louisville",(502) 326-2840,40222,38.271765,-85.619448,"Louisville, Oxmoor",Kentucky
+6401 Bluebonnet Boulevard Baton,"6401 Bluebonnet Boulevard Baton, Rouge",(225) 765-3500,70836,30.391248,-91.090342,"Baton Rouge, Mall of Louisiana",Louisiana
+3301 Veterans Memorial Blvd,"3301 Veterans Memorial Blvd, Metairie",(504) 830-1400,70002,30.012223,-90.162523,"Metairie, Lakeside Shopping Center",Louisiana
+364 Maine Mall Road South,"364 Maine Mall Road South, Portland",(207) 771-9400,04106,43.631402,-70.285989,"South Portland, Maine Mall",Maine
+1735 Annapolis Mall,"1735 Annapolis Mall, Annapolis",(410) 972-3290,21401,38.98775,-76.5528,"Annapolis, Annapolis",Maryland
+4860 Bethesda Avenue,"4860 Bethesda Avenue, Bethesda",(301) 634-0880,20814,39.004989,-77.10149,"Bethesda, Bethesda Row",Maryland
+7101 Democracy Boulevard,"7101 Democracy Boulevard, Bethesda",(301) 634-9930,20817,38.997272,-77.151816,"Bethesda, Montgomery Mall",Maryland
+10300 Little Patuxent Parkway,"10300 Little Patuxent Parkway, Columbia",(410) 423-1801,21044,39.205869,-76.87911,"Columbia, Columbia",Maryland
+825 Dulaney Valley Road,"825 Dulaney Valley Road, Towson",(410) 427-0360,21204,39.402268,-76.632295,"Towson, Towson Town Center",Maryland
+815 Boylston Street,"815 Boylston Street, Boston",(617) 385-9400,02116,42.350579,-71.076397,"Boston, Boylston Street",Massachusetts
+250 Granite Street,"250 Granite Street, Braintree",(781) 817-1270,02184,42.206188,-71.00232,"Braintree, South Shore",Massachusetts
+75 Middlesex Turnpike,"75 Middlesex Turnpike, Burlington",(781) 653-0970,01803,42.503227,-71.201713,"Burlington, Burlington",Massachusetts
+100 CambridgeSide Place,"100 CambridgeSide Place, Cambridge",(617) 528-7970,02141,42.3703,-71.08256,"Cambridge, CambridgeSide",Massachusetts
+199 Boylston Street Chestnut,"199 Boylston Street Chestnut, Hill",(617) 454-9940,02467,42.314344,-71.152759,"Chestnut Hill, Chestnut Hill",Massachusetts
+508 Legacy Place,"508 Legacy Place, Dedham",(781) 471-3800,02026,42.246872,-71.179462,"Dedham, Legacy Place",Massachusetts
+94 Derby Street Suite #271,"94 Derby Street Suite #271, Hingham",(781) 556-0400,02043,42.216098,-70.88127,"Hingham, Derby Street",Massachusetts
+50 Holyoke Street,"50 Holyoke Street, Holyoke",(413) 493-3878,01040,42.211656,-72.642448,"Holyoke, Holyoke",Massachusetts
+1220 Market Street,"1220 Market Street, Lynnfield",(978) 326-0970,01940,42.534146,-71.038333,"Lynnfield, MarketStreet",Massachusetts
+601 Donald Lynch Boulevard,"601 Donald Lynch Boulevard, Marlborough",(978) 838-5000,01752,42.349617,-71.547214,"Marlborough, Solomon Pond Mall",Massachusetts
+1245 Worcester Street,"1245 Worcester Street, Natick",(508) 903-2800,01760,42.284822,-71.348811,"Natick, Natick",Massachusetts
+100 Briarwood Circle Ann,"100 Briarwood Circle Ann, Arbor",(734) 780-2471,48108,42.221694,-83.732265,"Ann Arbor, Briarwood",Michigan
+17360 Hall Road Clinton,"17360 Hall Road Clinton, Township",(586) 840-0500,48038,42.606146,-82.937475,"Clinton Township, Partridge Creek",Michigan
+3195 28th St. SE Suite D114A Grand,"3195 28th St. SE Suite D114A Grand, Rapids",(616) 956-1420,49512,42.883098,-85.527623,"Grand Rapids, Woodland",Michigan
+3025 Preyde Boulevard,"3025 Preyde Boulevard, Lansing",(517) 374-4920,48912,42.738361,-84.524017,"Lansing, Eastwood Towne Center",Michigan
+27500 Novi Road,"27500 Novi Road, Novi",(248) 675-0320,48377,42.505368,-83.473579,"Novi, Twelve Oaks",Michigan
+2800 W Big Beaver Road,"2800 W Big Beaver Road, Troy",(248) 822-0081,48084,42.560633,-83.175706,"Troy, Somerset",Michigan
+114 West Market,"114 West Market, Bloomington",(952) 229-5630,55425,44.851166,-93.226013,"Bloomington, Mall of America",Minnesota
+1560 Southdale Center,"1560 Southdale Center, Edina",(952) 656-0140,55435,44.873981,-93.335255,"Edina, Southdale",Minnesota
+12531 Wayzata Boulevard,"12531 Wayzata Boulevard, Minnetonka",(952) 486-4861,55305,44.956374,-93.427997,"Minnetonka, Ridgedale",Minnesota
+1595 Highway 36 W Space 500,"1595 Highway 36 W Space 500, Roseville",(763) 656-5010,55113,45.012196,-93.151186,"Roseville, Rosedale Center",Minnesota
+1000 Highland Colony Parkway,"1000 Highland Colony Parkway, Ridgeland",(601) 607-4521,39157,32.425874,-90.169852,"Ridgeland, Renaissance at Colony Park",Mississippi
+227 Nichols Road Kansas,"227 Nichols Road Kansas, City",(816) 448-9200,64112,39.035975,-94.59519,"Kansas City, Country Club Plaza",Missouri
+2440 Saint Louis Galleria Saint,"2440 Saint Louis Galleria Saint, Louis",(314) 290-0400,63117,38.630765,-90.330852,"Saint Louis, Saint Louis Galleria",Missouri
+131 West County Center St.,"131 West County Center St., Louis",(314) 288-1830,63131,38.617391,-90.444197,"St. Louis, West County",Missouri
+17170 Davenport Street,"17170 Davenport Street, Omaha",(402) 970-4477,68118,41.263231,-96.178098,"Omaha, Village Pointe",Nebraska
+1985 Festival Plaza Drive Las,"1985 Festival Plaza Drive Las, Vegas",(702) 677-3940,89135,36.100973,-115.375908,"Las Vegas, Summerlin",Nevada
+3500 Las Vegas Blvd South Caesars Palace Las,"3500 Las Vegas Blvd South Caesars Palace Las, Vegas",(702) 684-8800,89109,36.13172,-115.168382,"Las Vegas, The Forum Shops",Nevada
+3200 Las Vegas Blvd South Las,"3200 Las Vegas Blvd South Las, Vegas",(702) 577-9740,89109,36.13172,-115.168382,"Las Vegas, Fashion Show",Nevada
+6671 Las Vegas Blvd South Las,"6671 Las Vegas Blvd South Las, Vegas",(702) 221-8826,89119,36.084721,-115.146129,"Las Vegas, Town Square",Nevada
+13945 South Virginia Street,"13945 South Virginia Street, Reno",(775) 333-5460,89511,39.385441,-119.876909,"Reno, Summit Sierra",Nevada
+1500 S Willow Street,"1500 S Willow Street, Manchester",(603) 391-0180,03103,42.950538,-71.446547,"Manchester, The Mall of New Hampshire",New Hampshire
+310 Daniel Webster Highway,"310 Daniel Webster Highway, Nashua",(603) 521-3400,03060,42.741087,-71.458266,"Nashua, Pheasant Lane",New Hampshire
+99 Rockingham Park Boulevard,"99 Rockingham Park Boulevard, Salem",(603) 328-3140,03079,42.788264,-71.221726,"Salem, Rockingham Park",New Hampshire
+400 Commons Way,"400 Commons Way, Bridgewater",(908) 547-3800,08807,40.592434,-74.61884,"Bridgewater, Bridgewater",New Jersey
+2000 Route 38 Cherry,"2000 Route 38 Cherry, Hill",(856) 792-9480,08002,39.931978,-75.027557,"Cherry Hill, Cherry Hill",New Jersey
+1 American Dream Way Space D228 East,"1 American Dream Way Space D228 East, Rutherford",(201) 728-0255,07073,40.817097,-74.085024,"East Rutherford, American Dream",New Jersey
+55 Parsonage Road,"55 Parsonage Road, Edison",(732) 623-7700,08837,40.513105,-74.344075,"Edison, Menlo Park",New Jersey
+3710 Route 9 South,"3710 Route 9 South, Freehold",(732) 358-8426,07728,40.225793,-74.285785,"Freehold, Freehold Raceway Mall",New Jersey
+150 Quaker Bridge Mall Lawrence,"150 Quaker Bridge Mall Lawrence, Township",(609) 606-9030,08648,40.284308,-74.717976,"Lawrence Township, Quaker Bridge",New Jersey
+500 Route 73 South,"500 Route 73 South, Marlton",(856) 355-4940,08053,39.856677,-74.90081,"Marlton, Sagemore",New Jersey
+1 Garden State Plaza,"1 Garden State Plaza, Paramus",(201) 975-9500,07652,40.947312,-74.070219,"Paramus, Garden State Plaza",New Jersey
+301 Mt. Hope Avenue,"301 Mt. Hope Avenue, Rockaway",(973) 384-9220,07866,40.954863,-74.489076,"Rockaway, Rockaway",New Jersey
+1200 Morris Turnpike Short,"1200 Morris Turnpike Short, Hills",(973) 564-5813,07078,40.742346,-74.334237,"Short Hills, Short Hills",New Jersey
+1400 Willowbrook Mall,"1400 Willowbrook Mall, Wayne",(973) 339-2800,07470,40.945855,-74.245077,"Wayne, Willowbrook",New Jersey
+441 Chestnut Ridge Road Woodcliff,"441 Chestnut Ridge Road Woodcliff, Lake",(201) 474-4180,07677,41.025977,-74.061061,"Woodcliff Lake, Tice's Corner",New Jersey
+2240 Q Street NE,"2240 Q Street NE, Albuquerque",(505) 837-6480,87110,35.108194,-106.578147,"Albuquerque, ABQ Uptown",New Mexico
+1 Crossgates Mall Road,"1 Crossgates Mall Road, Albany",(518) 389-0140,12203,42.681048,-73.84698,"Albany, Crossgates",New York
+200 Baychester Avenue,"200 Baychester Avenue, Bronx",(718) 530-7760,10475,40.875169,-73.823817,"Bronx, The Mall at Bay Plaza",New York
+247 Bedford Avenue,"247 Bedford Avenue, Brooklyn",(929) 397-2740,11211,40.712597,-73.953098,"Brooklyn, Williamsburg",New York
+123 Flatbush Avenue,"123 Flatbush Avenue, Brooklyn",(718) 637-6200,11217,40.682306,-73.978099,"Brooklyn, Downtown Brooklyn",New York
+G116 Walden Galleria,"G116 Walden Galleria, Buffalo",(716) 706-2000,14225,42.928949,-78.750273,"Buffalo, Walden Galleria",New York
+90-15 Queens Boulevard,"90-15 Queens Boulevard, Elmhurst",(718) 489-1540,11373,40.738837,-73.878535,"Elmhurst, Queens Center",New York
+630 Old Country Road Garden,"630 Old Country Road Garden, City",(516) 739-8540,11530,40.726854,-73.637009,"Garden City, Roosevelt Field",New York
+160 Walt Whitman Road Huntington,"160 Walt Whitman Road Huntington, Station",(631) 760-0160,11746,40.814268,-73.362276,"Huntington Station, Walt Whitman",New York
+516 Smith Haven Mall Lake,"516 Smith Haven Mall Lake, Grove",(631) 982-2500,11755,40.857817,-73.116844,"Lake Grove, Smith Haven",New York
+1900 Northern Boulevard,"1900 Northern Boulevard, Manhasset",(516) 734-2420,11030,40.793409,-73.688549,"Manhasset, Manhasset",New York
+8115 Fashion Drive,"8115 Fashion Drive, Nanuet",(845) 215-6980,10954,41.098819,-74.013262,"Nanuet, Nanuet",New York
+1981 Broadway New,"1981 Broadway New, York",(212) 209-3400,10023,40.775921,-73.982607,"New York, Upper West Side",New York
+940 Madison Avenue New,"940 Madison Avenue New, York",(646) 343-2700,10021,40.769258,-73.958751,"New York, Upper East Side",New York
+103 Prince Street New,"103 Prince Street New, York",(212) 226-3126,10012,40.725581,-73.998078,"New York, SoHo",New York
+767 Fifth Avenue New,"767 Fifth Avenue New, York",(212) 336-1440,10153,40.763622,-73.972439,"New York, Fifth Avenue",New York
+185 Greenwich Street New,"185 Greenwich Street New, York",(646) 802-3800,10007,40.713848,-74.007755,"New York, World Trade Center",New York
+401 W 14th Street New,"401 W 14th Street New, York",(212) 444-3400,10014,40.734012,-74.006746,"New York, West 14th Street",New York
+45 Grand Central Terminal New,"45 Grand Central Terminal New, York",(212) 284-1800,10017,40.75236,-73.972493,"New York, Grand Central",New York
+2655 Richmond Avenue Staten,"2655 Richmond Avenue Staten, Island",(718) 568-2230,10314,40.599263,-74.165748,"Staten Island, Staten Island",New York
+1 Destiny USA Drive,"1 Destiny USA Drive, Syracuse",(315) 233-5920,13204,43.050817,-76.177473,"Syracuse, Syracuse",New York
+7979 Pittsford-Victor Road,"7979 Pittsford-Victor Road, Victor",(585) 421-6070,14564,42.986699,-77.43436,"Victor, Eastview",New York
+125 Westchester Avenue White,"125 Westchester Avenue White, Plains",(914) 539-4530,10601,41.032932,-73.765071,"White Plains, The Westchester",New York
+143 Market Street,"143 Market Street, Yonkers",(914) 620-0965,10710,40.967157,-73.846339,"Yonkers, Ridge Hill",New York
+4400 Sharon Road,"4400 Sharon Road, Charlotte",(704) 972-3280,28211,35.166342,-80.797285,"Charlotte, SouthPark",North Carolina
+8030 Renaissance Parkway,"8030 Renaissance Parkway, Durham",(919) 474-6940,27713,35.89504,-78.923747,"Durham, Southpoint",North Carolina
+3320 West Friendly Avenue,"3320 West Friendly Avenue, Greensboro",(336) 291-0486,27410,36.117523,-79.894239,"Greensboro, Friendly Center",North Carolina
+8805 Townley Rd,"8805 Townley Rd, Huntersville",(704) 972-0980,28078,35.405286,-80.86402,"Huntersville, Birkdale Village",North Carolina
+4325 Glenwood Avenue,"4325 Glenwood Avenue, Raleigh",(919) 334-3400,27612,35.855753,-78.707038,"Raleigh, Crabtree Valley Mall",North Carolina
+3265 West Market Street,"3265 West Market Street, Akron",(330) 865-6280,44333,41.16061,-81.630871,"Akron, Summit Mall",Ohio
+4422 Cedar Park Drive,"4422 Cedar Park Drive, Beavercreek",(937) 431-4200,45440,39.674725,-84.097808,"Beavercreek, The Greene",Ohio
+7875 Montgomery Road,"7875 Montgomery Road, Cincinnati",(513) 826-3620,45236,39.209844,-84.39729,"Cincinnati, Kenwood Towne Centre",Ohio
+4210 The Strand,"4210 The Strand, Columbus",(614) 934-2810,43219,40.006091,-82.920945,"Columbus, Easton Town Center",Ohio
+1500 Polaris Parkway,"1500 Polaris Parkway, Columbus",(614) 987-1430,43240,40.145121,-82.982819,"Columbus, Polaris Fashion Place",Ohio
+5001 Monroe Street,"5001 Monroe Street, Toledo",(419) 473-4250,43623,41.702956,-83.650077,"Toledo, Franklin Park Mall",Ohio
+267 Crocker Park Boulevard,"267 Crocker Park Boulevard, Westlake",(440) 788-2800,44145,41.449531,-81.930162,"Westlake, Crocker Park",Ohio
+28849 Chagrin Boulevard,"28849 Chagrin Boulevard, Woodmere",(216) 535-4560,44122,41.469494,-81.512442,"Woodmere, Eton",Ohio
+1901 NW Expressway Street Oklahoma,"1901 NW Expressway Street Oklahoma, City",(405) 767-6600,73118,35.517968,-97.528718,"Oklahoma City, Penn Square",Oklahoma
+7021 S. Memorial Drive,"7021 S. Memorial Drive, Tulsa",(918) 249-7800,74133,36.039284,-95.877444,"Tulsa, Woodland Hills",Oklahoma
+450 SW Yamhill Street,"450 SW Yamhill Street, Portland",(503) 265-2010,97204,45.518371,-122.673946,"Portland, Pioneer Place",Oregon
+7273 SW Bridgeport Road,"7273 SW Bridgeport Road, Tigard",(503) 670-8400,97224,45.405501,-122.795056,"Tigard, Bridgeport Village",Oregon
+9585 SW Washington Square Rd,"9585 SW Washington Square Rd, Tigard",(503) 495-2080,97223,45.44029,-122.776604,"Tigard, Washington Square",Oregon
+61 St. James Place,"61 St. James Place, Ardmore",(610) 726-9400,19003,40.001553,-75.298929,"Ardmore, Suburban Square",Pennsylvania
+160 N. Gulph Road King of,"160 N. Gulph Road King of, Prussia",(484) 636-5090,19406,40.093268,-75.383637,"King of Prussia, King of Prussia",Pennsylvania
+541 Park City Center,"541 Park City Center, Lancaster",(717) 295-8800,17601,40.074241,-76.314914,"Lancaster, Park City",Pennsylvania
+1607 Walnut Street,"1607 Walnut Street, Philadelphia",(215) 861-6400,19103,39.952896,-75.174298,"Philadelphia, Walnut Street",Pennsylvania
+301 South Hills Village,"301 South Hills Village, Pittsburgh",(412) 308-1970,15241,40.333518,-80.081412,"Pittsburgh, South Hills Village",Pennsylvania
+1000 Ross Park Mall Drive,"1000 Ross Park Mall Drive, Pittsburgh",(412) 318-0656,15237,40.549607,-80.043513,"Pittsburgh, Ross Park",Pennsylvania
+5508 Walnut Street,"5508 Walnut Street, Pittsburgh",(412) 316-2460,15232,40.452517,-79.931939,"Pittsburgh, Shadyside",Pennsylvania
+250 Lehigh Valley Mall,"250 Lehigh Valley Mall, Whitehall",(610) 266-4860,18052,40.657428,-75.504255,"Whitehall, Lehigh Valley",Pennsylvania
+2500 West Moreland Road Willow,"2500 West Moreland Road Willow, Grove",(215) 346-8160,19090,40.157452,-75.124753,"Willow Grove, Willow Grove Park",Pennsylvania
+20 Providence Place,"20 Providence Place, Providence",(401) 533-9400,02903,41.81823,-71.409088,"Providence, Providence Place",Rhode Island
+301 King Street,"301 King Street, Charleston",(843) 727-0400,29401,32.77718,-79.932,"Charleston, Charleston",South Carolina
+700 Haywood Road,"700 Haywood Road, Greenville",(864) 987-7580,29607,34.81279,-82.331714,"Greenville, Haywood Mall",South Carolina
+1800 Galleria Boulevard,"1800 Galleria Boulevard, Franklin",(615) 435-0620,37067,35.91229,-86.780262,"Franklin, CoolSprings Galleria",Tennessee
+2031 West Street,"2031 West Street, Germantown",(901) 751-6980,38138,35.084827,-89.799331,"Germantown, Saddle Creek",Tennessee
+7600 Kingston Pike,"7600 Kingston Pike, Knoxville",(865) 824-2507,37919,35.914748,-84.000169,"Knoxville, West Town Mall",Tennessee
+500 Broadway,"500 Broadway, Nashville",(615) 9861140,37203,36.149614,-86.790618,"Nashville, Downtown Nashville",Tennessee
+2126 Abbott Martin Road,"2126 Abbott Martin Road, Nashville",(615) 514-2430,37215,36.081868,-86.834691,"Nashville, Green Hills",Tennessee
+3121 Palm Way,"3121 Palm Way, Austin",(512) 691-4800,78758,30.387979,-97.706853,"Austin, Domain NORTHSIDE",Texas
+2901 S. Capital of Texas Hwy,"2901 S. Capital of Texas Hwy, Austin",(512) 634-0520,78746,30.296865,-97.809578,"Austin, Barton Creek",Texas
+3101 Knox Street,"3101 Knox Street, Dallas",(214) 520-8532,75205,32.835893,-96.795514,"Dallas, Knox Street",Texas
+8687 North Central Expressway,"8687 North Central Expressway, Dallas",(214) 765-0820,75225,32.864887,-96.790359,"Dallas, NorthPark Center",Texas
+13350 Dallas Parkway,"13350 Dallas Parkway, Dallas",(972) 942-7210,75240,32.930338,-96.787496,"Dallas, Galleria Dallas",Texas
+8401 Gateway Boulevard West El,"8401 Gateway Boulevard West El, Paso",(915) 774-8020,79925,31.79695,-106.35688,"El Paso, Cielo Vista Mall",Texas
+1620 S. University Drive Fort,"1620 S. University Drive Fort, Worth",(817) 840-9801,76107,32.742058,-97.38173,"Fort Worth, University Park Village",Texas
+500 Baybrook Mall,"500 Baybrook Mall, Friendswood",(281) 204-0500,77546,29.515074,-95.192133,"Friendswood, Baybrook",Texas
+5085 Westheimer Road,"5085 Westheimer Road, Houston",(713) 353-5471,77056,29.748202,-95.468948,"Houston, Houston Galleria",Texas
+2000 Willowbrook Drive,"2000 Willowbrook Drive, Houston",(281) 571-4400,77070,29.979648,-95.572877,"Houston, Willowbrook Mall",Texas
+303 Memorial City,"303 Memorial City, Houston",(713) 986-2476,77024,29.772179,-95.514203,"Houston, Memorial City",Texas
+4012 Westheimer Road,"4012 Westheimer Road, Houston",(832) 325-3500,77027,29.740079,-95.446409,"Houston, Highland Village",Texas
+15900 La Cantera Parkway San,"15900 La Cantera Parkway San, Antonio",(210) 276-2302,78256,29.622289,-98.626164,"San Antonio, La Cantera",Texas
+7400 San Pedro Avenue San,"7400 San Pedro Avenue San, Antonio",(210) 321-4420,78216,29.537264,-98.487882,"San Antonio, North Star",Texas
+260 Grand Avenue,"260 Grand Avenue, Southlake",(817) 722-1401,76092,32.959875,-97.148437,"Southlake, Southlake Town Square",Texas
+16535 Southwest Freeway Sugar,"16535 Southwest Freeway Sugar, Land",(281) 269-3410,77479,29.566996,-95.636016,"Sugar Land, First Colony Mall",Texas
+1201 Lake Woodlands Drive The,"1201 Lake Woodlands Drive The, Woodlands",(281) 203-6870,77380,30.136972,-95.46836,"The Woodlands, The Woodlands",Texas
+148 N. East Promontory,"148 N. East Promontory, Farmington",(801) 218-9501,84025,40.980801,-111.904831,"Farmington, Station Park",Utah
+6191 S State Street,"6191 S State Street, Murray",(801) 905-4410,84107,40.658025,-111.88445,"Murray, Fashion Place",Utah
+50 South Main Street Salt Lake,"50 South Main Street Salt Lake, City",(801) 456-9400,84101,40.756383,-111.900062,"Salt Lake City, City Creek Center",Utah
+2700 Clarendon Boulevard,"2700 Clarendon Boulevard, Arlington",(703) 236-7970,22201,38.886565,-77.095231,"Arlington, Clarendon",Virginia
+1100 South Hayes Street,"1100 South Hayes Street, Arlington",(703) 236-1550,22202,38.856868,-77.051492,"Arlington, Pentagon City",Virginia
+11750 Fair Oaks,"11750 Fair Oaks, Fairfax",(703) 251-7400,22033,38.875218,-77.384713,"Fairfax, Fair Oaks",Virginia
+7926 Tysons Corner Center,"7926 Tysons Corner Center, McLean",(703) 336-8450,22102,38.95095,-77.229544,"McLean, Tysons Corner",Virginia
+11937 Market Street,"11937 Market Street, Reston",(571) 449-4800,20190,38.959322,-77.339298,"Reston, Reston",Virginia
+11800 W. Broad Street,"11800 W. Broad Street, Richmond",(804) 420-3000,23233,37.646431,-77.624235,"Richmond, Short Pump Town Center",Virginia
+701 Lynnhaven Parkway Virginia,"701 Lynnhaven Parkway Virginia, Beach",(757) 306-2480,23452,36.845756,-76.092807,"Virginia Beach, Lynnhaven Mall",Virginia
+15100 Potomac Town Place,"15100 Potomac Town Place, Woodbridge",(703) 986-2030,22191,38.622914,-77.262938,"Woodbridge, Potomac Town Center",Virginia
+213 Bellevue Square,"213 Bellevue Square, Bellevue",(425) 519-0080,98004,47.618337,-122.205341,"Bellevue, Bellevue Square",Washington
+3000 184th Street S.W.,"3000 184th Street S.W., Lynnwood",(425) 921-1560,98037,47.839223,-122.285464,"Lynnwood, Alderwood",Washington
+2651 NE 49th St,"2651 NE 49th St, Seattle",(206) 892-0433,98105,47.659861,-122.284977,"Seattle, University Village",Washington
+710 West Main Avenue,"710 West Main Avenue, Spokane",(509) 458-8080,99201,47.66236,-117.437255,"Spokane, River Park Square",Washington
+4502 S Steele Street,"4502 S Steele Street, Tacoma",(253) 620-1454,98409,47.210957,-122.481577,"Tacoma, Tacoma Mall",Washington
+801 Southcenter Mall,"801 Southcenter Mall, Tukwila",(206) 288-4400,98188,47.446413,-122.272098,"Tukwila, Southcenter",Washington
+5715 N Centerpark Way,"5715 N Centerpark Way, Glendale",(414) 977-3410,53217,43.158204,-87.913225,"Glendale, Bayshore",Wisconsin
+444 North Midvale Boulevard,"444 North Midvale Boulevard, Madison",(608) 827-9840,53705,43.074014,-89.460509,"Madison, Hilldale",Wisconsin
+2500 N. Mayfair Road,"2500 N. Mayfair Road, Wauwatosa",(414) 290-9780,53226,43.048954,-88.042234,"Wauwatosa, Mayfair",Wisconsin
